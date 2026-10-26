@@ -1,0 +1,130 @@
+[
+  {
+    "days": 30,
+    "first_category": "Accessories",
+    "all_customers": 6213,
+    "eligible": 5863,
+    "repeated": 229,
+    "repeat_rate": "0.03905850247313661948"
+  },
+  {
+    "days": 30,
+    "first_category": "Bikes",
+    "all_customers": 5846,
+    "eligible": 5846,
+    "repeated": 4,
+    "repeat_rate": "0.00068422853232979815"
+  },
+  {
+    "days": 30,
+    "first_category": "Clothing",
+    "all_customers": 1060,
+    "eligible": 1010,
+    "repeated": 61,
+    "repeat_rate": "0.06039603960396039604"
+  },
+  {
+    "days": 30,
+    "first_category": "Mixed",
+    "all_customers": 5363,
+    "eligible": 5218,
+    "repeated": 72,
+    "repeat_rate": "0.01379839018781142200"
+  },
+  {
+    "days": 90,
+    "first_category": "Accessories",
+    "all_customers": 6213,
+    "eligible": 4990,
+    "repeated": 530,
+    "repeat_rate": "0.10621242484969939880"
+  },
+  {
+    "days": 90,
+    "first_category": "Bikes",
+    "all_customers": 5846,
+    "eligible": 5726,
+    "repeated": 48,
+    "repeat_rate": "0.00838281522878099895"
+  },
+  {
+    "days": 90,
+    "first_category": "Clothing",
+    "all_customers": 1060,
+    "eligible": 865,
+    "repeated": 134,
+    "repeat_rate": "0.15491329479768786127"
+  },
+  {
+    "days": 90,
+    "first_category": "Mixed",
+    "all_customers": 5363,
+    "eligible": 4085,
+    "repeated": 179,
+    "repeat_rate": "0.04381884944920440636"
+  },
+  {
+    "days": 180,
+    "first_category": "Accessories",
+    "all_customers": 6213,
+    "eligible": 3537,
+    "repeated": 699,
+    "repeat_rate": "0.19762510602205258694"
+  },
+  {
+    "days": 180,
+    "first_category": "Bikes",
+    "all_customers": 5846,
+    "eligible": 5632,
+    "repeated": 215,
+    "repeat_rate": "0.03817471590909090909"
+  },
+  {
+    "days": 180,
+    "first_category": "Clothing",
+    "all_customers": 1060,
+    "eligible": 615,
+    "repeated": 168,
+    "repeat_rate": "0.27317073170731707317"
+  },
+  {
+    "days": 180,
+    "first_category": "Mixed",
+    "all_customers": 5363,
+    "eligible": 2719,
+    "repeated": 260,
+    "repeat_rate": "0.09562339095255608680"
+  },
+  {
+    "days": 365,
+    "first_category": "Accessories",
+    "all_customers": 6213,
+    "eligible": 22,
+    "repeated": 10,
+    "repeat_rate": "0.45454545454545454545"
+  },
+  {
+    "days": 365,
+    "first_category": "Bikes",
+    "all_customers": 5846,
+    "eligible": 5456,
+    "repeated": 1452,
+    "repeat_rate": "0.26612903225806451613"
+  },
+  {
+    "days": 365,
+    "first_category": "Clothing",
+    "all_customers": 1060,
+    "eligible": 3,
+    "repeated": 1,
+    "repeat_rate": "0.33333333333333333333"
+  },
+  {
+    "days": 365,
+    "first_category": "Mixed",
+    "all_customers": 5363,
+    "eligible": 190,
+    "repeated": 17,
+    "repeat_rate": "0.08947368421052631579"
+  }
+]

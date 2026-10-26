@@ -1,0 +1,344 @@
+[
+  {
+    "month": "2010-12-01",
+    "buyers": 14,
+    "orders": 14,
+    "revenue": "43419",
+    "frequency": "1.00000000000000000000",
+    "aov": "3101.3571428571428571",
+    "full_month": false
+  },
+  {
+    "month": "2011-01-01",
+    "buyers": 144,
+    "orders": 144,
+    "revenue": "469795",
+    "frequency": "1.00000000000000000000",
+    "aov": "3262.4652777777777778",
+    "full_month": true
+  },
+  {
+    "month": "2011-02-01",
+    "buyers": 144,
+    "orders": 144,
+    "revenue": "466307",
+    "frequency": "1.00000000000000000000",
+    "aov": "3238.2430555555555556",
+    "full_month": true
+  },
+  {
+    "month": "2011-03-01",
+    "buyers": 150,
+    "orders": 150,
+    "revenue": "485165",
+    "frequency": "1.00000000000000000000",
+    "aov": "3234.4333333333333333",
+    "full_month": true
+  },
+  {
+    "month": "2011-04-01",
+    "buyers": 157,
+    "orders": 157,
+    "revenue": "502042",
+    "frequency": "1.00000000000000000000",
+    "aov": "3197.7197452229299363",
+    "full_month": true
+  },
+  {
+    "month": "2011-05-01",
+    "buyers": 174,
+    "orders": 174,
+    "revenue": "561647",
+    "frequency": "1.00000000000000000000",
+    "aov": "3227.8563218390804598",
+    "full_month": true
+  },
+  {
+    "month": "2011-06-01",
+    "buyers": 230,
+    "orders": 230,
+    "revenue": "737793",
+    "frequency": "1.00000000000000000000",
+    "aov": "3207.7956521739130435",
+    "full_month": true
+  },
+  {
+    "month": "2011-07-01",
+    "buyers": 188,
+    "orders": 188,
+    "revenue": "596710",
+    "frequency": "1.00000000000000000000",
+    "aov": "3173.9893617021276596",
+    "full_month": true
+  },
+  {
+    "month": "2011-08-01",
+    "buyers": 193,
+    "orders": 193,
+    "revenue": "614516",
+    "frequency": "1.00000000000000000000",
+    "aov": "3184.0207253886010363",
+    "full_month": true
+  },
+  {
+    "month": "2011-09-01",
+    "buyers": 185,
+    "orders": 185,
+    "revenue": "603047",
+    "frequency": "1.00000000000000000000",
+    "aov": "3259.7135135135135135",
+    "full_month": true
+  },
+  {
+    "month": "2011-10-01",
+    "buyers": 221,
+    "orders": 221,
+    "revenue": "708164",
+    "frequency": "1.00000000000000000000",
+    "aov": "3204.3619909502262443",
+    "full_month": true
+  },
+  {
+    "month": "2011-11-01",
+    "buyers": 208,
+    "orders": 208,
+    "revenue": "660507",
+    "frequency": "1.00000000000000000000",
+    "aov": "3175.5144230769230769",
+    "full_month": true
+  },
+  {
+    "month": "2011-12-01",
+    "buyers": 222,
+    "orders": 222,
+    "revenue": "669395",
+    "frequency": "1.00000000000000000000",
+    "aov": "3015.2927927927927928",
+    "full_month": true
+  },
+  {
+    "month": "2012-01-01",
+    "buyers": 252,
+    "orders": 252,
+    "revenue": "495363",
+    "frequency": "1.00000000000000000000",
+    "aov": "1965.7261904761904762",
+    "full_month": true
+  },
+  {
+    "month": "2012-02-01",
+    "buyers": 260,
+    "orders": 260,
+    "revenue": "506992",
+    "frequency": "1.00000000000000000000",
+    "aov": "1949.9692307692307692",
+    "full_month": true
+  },
+  {
+    "month": "2012-03-01",
+    "buyers": 212,
+    "orders": 212,
+    "revenue": "373478",
+    "frequency": "1.00000000000000000000",
+    "aov": "1761.6886792452830189",
+    "full_month": true
+  },
+  {
+    "month": "2012-04-01",
+    "buyers": 219,
+    "orders": 219,
+    "revenue": "400324",
+    "frequency": "1.00000000000000000000",
+    "aov": "1827.9634703196347032",
+    "full_month": true
+  },
+  {
+    "month": "2012-05-01",
+    "buyers": 207,
+    "orders": 207,
+    "revenue": "358866",
+    "frequency": "1.00000000000000000000",
+    "aov": "1733.6521739130434783",
+    "full_month": true
+  },
+  {
+    "month": "2012-06-01",
+    "buyers": 318,
+    "orders": 318,
+    "revenue": "555142",
+    "frequency": "1.00000000000000000000",
+    "aov": "1745.7295597484276730",
+    "full_month": true
+  },
+  {
+    "month": "2012-07-01",
+    "buyers": 246,
+    "orders": 246,
+    "revenue": "444533",
+    "frequency": "1.00000000000000000000",
+    "aov": "1807.0447154471544715",
+    "full_month": true
+  },
+  {
+    "month": "2012-08-01",
+    "buyers": 294,
+    "orders": 294,
+    "revenue": "523887",
+    "frequency": "1.00000000000000000000",
+    "aov": "1781.9285714285714286",
+    "full_month": true
+  },
+  {
+    "month": "2012-09-01",
+    "buyers": 269,
+    "orders": 269,
+    "revenue": "486149",
+    "frequency": "1.00000000000000000000",
+    "aov": "1807.2453531598513011",
+    "full_month": true
+  },
+  {
+    "month": "2012-10-01",
+    "buyers": 313,
+    "orders": 313,
+    "revenue": "535125",
+    "frequency": "1.00000000000000000000",
+    "aov": "1709.6645367412140575",
+    "full_month": true
+  },
+  {
+    "month": "2012-11-01",
+    "buyers": 324,
+    "orders": 324,
+    "revenue": "537918",
+    "frequency": "1.00000000000000000000",
+    "aov": "1660.2407407407407407",
+    "full_month": true
+  },
+  {
+    "month": "2012-12-01",
+    "buyers": 354,
+    "orders": 355,
+    "revenue": "624454",
+    "frequency": "1.0028248587570621",
+    "aov": "1759.0253521126760563",
+    "full_month": true
+  },
+  {
+    "month": "2013-01-01",
+    "buyers": 627,
+    "orders": 632,
+    "revenue": "857758",
+    "frequency": "1.0079744816586922",
+    "aov": "1357.2120253164556962",
+    "full_month": true
+  },
+  {
+    "month": "2013-02-01",
+    "buyers": 1373,
+    "orders": 1421,
+    "revenue": "771218",
+    "frequency": "1.0349599417334304",
+    "aov": "542.7290640394088670",
+    "full_month": true
+  },
+  {
+    "month": "2013-03-01",
+    "buyers": 1631,
+    "orders": 1690,
+    "revenue": "1049732",
+    "frequency": "1.0361741263028817",
+    "aov": "621.1431952662721893",
+    "full_month": true
+  },
+  {
+    "month": "2013-04-01",
+    "buyers": 1564,
+    "orders": 1612,
+    "revenue": "1045860",
+    "frequency": "1.0306905370843990",
+    "aov": "648.7965260545905707",
+    "full_month": true
+  },
+  {
+    "month": "2013-05-01",
+    "buyers": 1719,
+    "orders": 1792,
+    "revenue": "1284456",
+    "frequency": "1.0424665503199535",
+    "aov": "716.7723214285714286",
+    "full_month": true
+  },
+  {
+    "month": "2013-06-01",
+    "buyers": 1948,
+    "orders": 2007,
+    "revenue": "1642948",
+    "frequency": "1.0302874743326489",
+    "aov": "818.6088689586447434",
+    "full_month": true
+  },
+  {
+    "month": "2013-07-01",
+    "buyers": 1796,
+    "orders": 1875,
+    "revenue": "1371595",
+    "frequency": "1.0439866369710468",
+    "aov": "731.5173333333333333",
+    "full_month": true
+  },
+  {
+    "month": "2013-08-01",
+    "buyers": 1898,
+    "orders": 1964,
+    "revenue": "1550828",
+    "frequency": "1.0347734457323498",
+    "aov": "789.6272912423625255",
+    "full_month": true
+  },
+  {
+    "month": "2013-09-01",
+    "buyers": 1832,
+    "orders": 1884,
+    "revenue": "1447324",
+    "frequency": "1.0283842794759825",
+    "aov": "768.2186836518046709",
+    "full_month": true
+  },
+  {
+    "month": "2013-10-01",
+    "buyers": 2073,
+    "orders": 2131,
+    "revenue": "1673301",
+    "frequency": "1.0279787747226242",
+    "aov": "785.2186766776161427",
+    "full_month": true
+  },
+  {
+    "month": "2013-11-01",
+    "buyers": 2036,
+    "orders": 2087,
+    "revenue": "1780688",
+    "frequency": "1.0250491159135560",
+    "aov": "853.2285577383804504",
+    "full_month": true
+  },
+  {
+    "month": "2013-12-01",
+    "buyers": 2133,
+    "orders": 2192,
+    "revenue": "1874128",
+    "frequency": "1.0276605719643694",
+    "aov": "854.9854014598540146",
+    "full_month": true
+  },
+  {
+    "month": "2014-01-01",
+    "buyers": 834,
+    "orders": 871,
+    "revenue": "45642",
+    "frequency": "1.0443645083932854",
+    "aov": "52.4018369690011481",
+    "full_month": false
+  }
+]

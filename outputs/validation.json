@@ -1,0 +1,19 @@
+{
+  "independent_comparisons": 20122,
+  "raw_rows": 60398,
+  "raw_orders": 27659,
+  "clean_orders": 27657,
+  "clean_customers": 18482,
+  "date_recovered_lines": 16,
+  "excluded_lines": 3,
+  "excluded_revenue": "34",
+  "clean_revenue": "29356216",
+  "repeat_customers": 6865,
+  "same_day_second": 8,
+  "observation_start": "2010-12-29",
+  "observation_end": "2014-01-28",
+  "sql_checks": "passed",
+  "python_checks": "passed",
+  "postgres_version": "PostgreSQL 14.19 (Homebrew) on aarch64-apple-darwin24.4.0, compiled by Apple clang version 17.0.0 (clang-1700.0.13.3), 64-bit",
+  "elapsed_seconds": 3.099
+}

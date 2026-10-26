@@ -1,0 +1,23 @@
+[
+  {
+    "month_age": 1,
+    "cohorts": 31,
+    "eligible": "11414",
+    "active": "223",
+    "retention": "0.01953741019800245313"
+  },
+  {
+    "month_age": 3,
+    "cohorts": 31,
+    "eligible": "11414",
+    "active": "262",
+    "retention": "0.02295426669002978798"
+  },
+  {
+    "month_age": 6,
+    "cohorts": 31,
+    "eligible": "11414",
+    "active": "323",
+    "retention": "0.02829858069038023480"
+  }
+]

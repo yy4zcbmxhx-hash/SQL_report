@@ -1,0 +1,408 @@
+[
+  {
+    "cohort": "2010-12-01",
+    "first_category": "Bikes",
+    "eligible": 14,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2011-01-01",
+    "first_category": "Bikes",
+    "eligible": 144,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2011-02-01",
+    "first_category": "Bikes",
+    "eligible": 144,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2011-03-01",
+    "first_category": "Bikes",
+    "eligible": 150,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2011-04-01",
+    "first_category": "Bikes",
+    "eligible": 157,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2011-05-01",
+    "first_category": "Bikes",
+    "eligible": 174,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2011-06-01",
+    "first_category": "Bikes",
+    "eligible": 230,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2011-07-01",
+    "first_category": "Bikes",
+    "eligible": 188,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2011-08-01",
+    "first_category": "Bikes",
+    "eligible": 193,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2011-09-01",
+    "first_category": "Bikes",
+    "eligible": 185,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2011-10-01",
+    "first_category": "Bikes",
+    "eligible": 221,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2011-11-01",
+    "first_category": "Bikes",
+    "eligible": 208,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2011-12-01",
+    "first_category": "Bikes",
+    "eligible": 222,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2012-01-01",
+    "first_category": "Bikes",
+    "eligible": 252,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2012-02-01",
+    "first_category": "Bikes",
+    "eligible": 260,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2012-03-01",
+    "first_category": "Bikes",
+    "eligible": 212,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2012-04-01",
+    "first_category": "Bikes",
+    "eligible": 219,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2012-05-01",
+    "first_category": "Bikes",
+    "eligible": 207,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2012-06-01",
+    "first_category": "Bikes",
+    "eligible": 318,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2012-07-01",
+    "first_category": "Bikes",
+    "eligible": 246,
+    "repeated": 10,
+    "repeat_rate": "0.04065040650406504065"
+  },
+  {
+    "cohort": "2012-08-01",
+    "first_category": "Bikes",
+    "eligible": 294,
+    "repeated": 34,
+    "repeat_rate": "0.11564625850340136054"
+  },
+  {
+    "cohort": "2012-09-01",
+    "first_category": "Bikes",
+    "eligible": 269,
+    "repeated": 31,
+    "repeat_rate": "0.11524163568773234201"
+  },
+  {
+    "cohort": "2012-10-01",
+    "first_category": "Bikes",
+    "eligible": 313,
+    "repeated": 39,
+    "repeat_rate": "0.12460063897763578275"
+  },
+  {
+    "cohort": "2012-11-01",
+    "first_category": "Bikes",
+    "eligible": 324,
+    "repeated": 43,
+    "repeat_rate": "0.13271604938271604938"
+  },
+  {
+    "cohort": "2012-12-01",
+    "first_category": "Bikes",
+    "eligible": 286,
+    "repeated": 52,
+    "repeat_rate": "0.18181818181818181818"
+  },
+  {
+    "cohort": "2012-12-01",
+    "first_category": "Mixed",
+    "eligible": 25,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2013-01-01",
+    "first_category": "Accessories",
+    "eligible": 86,
+    "repeated": 27,
+    "repeat_rate": "0.31395348837209302326"
+  },
+  {
+    "cohort": "2013-01-01",
+    "first_category": "Bikes",
+    "eligible": 27,
+    "repeated": 1,
+    "repeat_rate": "0.03703703703703703704"
+  },
+  {
+    "cohort": "2013-01-01",
+    "first_category": "Clothing",
+    "eligible": 17,
+    "repeated": 8,
+    "repeat_rate": "0.47058823529411764706"
+  },
+  {
+    "cohort": "2013-01-01",
+    "first_category": "Mixed",
+    "eligible": 195,
+    "repeated": 15,
+    "repeat_rate": "0.07692307692307692308"
+  },
+  {
+    "cohort": "2013-02-01",
+    "first_category": "Accessories",
+    "eligible": 604,
+    "repeated": 131,
+    "repeat_rate": "0.21688741721854304636"
+  },
+  {
+    "cohort": "2013-02-01",
+    "first_category": "Bikes",
+    "eligible": 19,
+    "repeated": 1,
+    "repeat_rate": "0.05263157894736842105"
+  },
+  {
+    "cohort": "2013-02-01",
+    "first_category": "Clothing",
+    "eligible": 116,
+    "repeated": 38,
+    "repeat_rate": "0.32758620689655172414"
+  },
+  {
+    "cohort": "2013-02-01",
+    "first_category": "Mixed",
+    "eligible": 348,
+    "repeated": 47,
+    "repeat_rate": "0.13505747126436781609"
+  },
+  {
+    "cohort": "2013-03-01",
+    "first_category": "Accessories",
+    "eligible": 643,
+    "repeated": 126,
+    "repeat_rate": "0.19595645412130637636"
+  },
+  {
+    "cohort": "2013-03-01",
+    "first_category": "Bikes",
+    "eligible": 20,
+    "repeated": 1,
+    "repeat_rate": "0.05000000000000000000"
+  },
+  {
+    "cohort": "2013-03-01",
+    "first_category": "Clothing",
+    "eligible": 114,
+    "repeated": 22,
+    "repeat_rate": "0.19298245614035087719"
+  },
+  {
+    "cohort": "2013-03-01",
+    "first_category": "Mixed",
+    "eligible": 387,
+    "repeated": 49,
+    "repeat_rate": "0.12661498708010335917"
+  },
+  {
+    "cohort": "2013-04-01",
+    "first_category": "Accessories",
+    "eligible": 564,
+    "repeated": 109,
+    "repeat_rate": "0.19326241134751773050"
+  },
+  {
+    "cohort": "2013-04-01",
+    "first_category": "Bikes",
+    "eligible": 22,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2013-04-01",
+    "first_category": "Clothing",
+    "eligible": 96,
+    "repeated": 28,
+    "repeat_rate": "0.29166666666666666667"
+  },
+  {
+    "cohort": "2013-04-01",
+    "first_category": "Mixed",
+    "eligible": 406,
+    "repeated": 31,
+    "repeat_rate": "0.07635467980295566502"
+  },
+  {
+    "cohort": "2013-05-01",
+    "first_category": "Accessories",
+    "eligible": 556,
+    "repeated": 110,
+    "repeat_rate": "0.19784172661870503597"
+  },
+  {
+    "cohort": "2013-05-01",
+    "first_category": "Bikes",
+    "eligible": 38,
+    "repeated": 2,
+    "repeat_rate": "0.05263157894736842105"
+  },
+  {
+    "cohort": "2013-05-01",
+    "first_category": "Clothing",
+    "eligible": 95,
+    "repeated": 18,
+    "repeat_rate": "0.18947368421052631579"
+  },
+  {
+    "cohort": "2013-05-01",
+    "first_category": "Mixed",
+    "eligible": 452,
+    "repeated": 37,
+    "repeat_rate": "0.08185840707964601770"
+  },
+  {
+    "cohort": "2013-06-01",
+    "first_category": "Accessories",
+    "eligible": 538,
+    "repeated": 102,
+    "repeat_rate": "0.18959107806691449814"
+  },
+  {
+    "cohort": "2013-06-01",
+    "first_category": "Bikes",
+    "eligible": 50,
+    "repeated": 1,
+    "repeat_rate": "0.02000000000000000000"
+  },
+  {
+    "cohort": "2013-06-01",
+    "first_category": "Clothing",
+    "eligible": 88,
+    "repeated": 19,
+    "repeat_rate": "0.21590909090909090909"
+  },
+  {
+    "cohort": "2013-06-01",
+    "first_category": "Mixed",
+    "eligible": 478,
+    "repeated": 39,
+    "repeat_rate": "0.08158995815899581590"
+  },
+  {
+    "cohort": "2013-07-01",
+    "first_category": "Accessories",
+    "eligible": 528,
+    "repeated": 92,
+    "repeat_rate": "0.17424242424242424242"
+  },
+  {
+    "cohort": "2013-07-01",
+    "first_category": "Bikes",
+    "eligible": 25,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2013-07-01",
+    "first_category": "Clothing",
+    "eligible": 84,
+    "repeated": 34,
+    "repeat_rate": "0.40476190476190476190"
+  },
+  {
+    "cohort": "2013-07-01",
+    "first_category": "Mixed",
+    "eligible": 415,
+    "repeated": 41,
+    "repeat_rate": "0.09879518072289156627"
+  },
+  {
+    "cohort": "2013-08-01",
+    "first_category": "Accessories",
+    "eligible": 18,
+    "repeated": 2,
+    "repeat_rate": "0.11111111111111111111"
+  },
+  {
+    "cohort": "2013-08-01",
+    "first_category": "Bikes",
+    "eligible": 1,
+    "repeated": 0,
+    "repeat_rate": "0E-20"
+  },
+  {
+    "cohort": "2013-08-01",
+    "first_category": "Clothing",
+    "eligible": 5,
+    "repeated": 1,
+    "repeat_rate": "0.20000000000000000000"
+  },
+  {
+    "cohort": "2013-08-01",
+    "first_category": "Mixed",
+    "eligible": 13,
+    "repeated": 1,
+    "repeat_rate": "0.07692307692307692308"
+  }
+]

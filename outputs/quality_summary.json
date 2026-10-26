@@ -1,0 +1,74 @@
+[
+  {
+    "metric": "clean_revenue",
+    "value": "29356216"
+  },
+  {
+    "metric": "future_customer_creation",
+    "value": "18484"
+  },
+  {
+    "metric": "legacy_dec_2011_extra_lines",
+    "value": "219"
+  },
+  {
+    "metric": "legacy_dec_2011_extra_revenue",
+    "value": "661743"
+  },
+  {
+    "metric": "negative_gross_profit_proxy_lines",
+    "value": "0"
+  },
+  {
+    "metric": "null_birthdates",
+    "value": "17"
+  },
+  {
+    "metric": "original_missing_date_lines",
+    "value": "19"
+  },
+  {
+    "metric": "original_missing_date_revenue",
+    "value": "4992"
+  },
+  {
+    "metric": "quarantine_lines",
+    "value": "3"
+  },
+  {
+    "metric": "quarantine_revenue",
+    "value": "34"
+  },
+  {
+    "metric": "raw_lines",
+    "value": "60398"
+  },
+  {
+    "metric": "raw_revenue",
+    "value": "29356250"
+  },
+  {
+    "metric": "recovered_date_lines",
+    "value": "16"
+  },
+  {
+    "metric": "recovered_revenue",
+    "value": "4958"
+  },
+  {
+    "metric": "shipping_before_order",
+    "value": "0"
+  },
+  {
+    "metric": "single_old_mislabeled_new",
+    "value": "1024"
+  },
+  {
+    "metric": "sold_lines_zero_cost",
+    "value": "0"
+  },
+  {
+    "metric": "zero_product_cost",
+    "value": "2"
+  }
+]

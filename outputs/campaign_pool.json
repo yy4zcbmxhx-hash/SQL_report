@@ -1,0 +1,18 @@
+[
+  {
+    "first_category": "Accessories",
+    "customers": 416
+  },
+  {
+    "first_category": "Bikes",
+    "customers": 59
+  },
+  {
+    "first_category": "Clothing",
+    "customers": 78
+  },
+  {
+    "first_category": "Mixed",
+    "customers": 579
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "dim_products.csv": {
+    "sha256": "47141d535f323f863060fdb1c7084604c794615c4ffe7a577eca8763b188a978",
+    "bytes": 27748
+  },
+  "dim_customers.csv": {
+    "sha256": "3476e562b4b945e71189b152f6c13593cdf96974be1634dd5568f60fd562e3f8",
+    "bytes": 1547626
+  },
+  "SQL_2_EDA.ipynb": {
+    "sha256": "801f30d49d06900d4f058983385b2b41efd746c5f8249d4f8df2e5647899b485",
+    "bytes": 292367
+  },
+  "fact_sales.csv": {
+    "sha256": "dcc0539c1591b7dc1968bee234a93c7be1a304eba1b7b7f8006dec55f2e30acb",
+    "bytes": 3589186
+  },
+  "README.md": {
+    "sha256": "caea6671cc0a6ff570003007b35c8eb0f49cc9f2424a344aaf010d4de8fdd1ed",
+    "bytes": 748
+  },
+  "Final_3.pdf": {
+    "sha256": "8525a144d05d0f9b5e6d01e6bba7acc79c795e2343b073ef9336c09eb681831e",
+    "bytes": 3731734
+  },
+  "SQL_1_Report.ipynb": {
+    "sha256": "a9d085bb2530b6e03553912d9f76e0ac082e17a5533f3de6f6595b855f4e083e",
+    "bytes": 93858
+  }
+}

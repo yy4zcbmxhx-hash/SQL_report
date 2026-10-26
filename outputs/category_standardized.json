@@ -1,0 +1,26 @@
+[
+  {
+    "first_category": "Accessories",
+    "eligible": "2991",
+    "standardized_rate": "0.2048464233163195525616109028307282461837",
+    "months": 6
+  },
+  {
+    "first_category": "Bikes",
+    "eligible": "176",
+    "standardized_rate": "0.0353381766960520018691868434628178845241",
+    "months": 6
+  },
+  {
+    "first_category": "Clothing",
+    "eligible": "526",
+    "standardized_rate": "0.2544623024401985482835653447314973222238",
+    "months": 6
+  },
+  {
+    "first_category": "Mixed",
+    "eligible": "2266",
+    "standardized_rate": "0.0989791008633296136013624331322575455875",
+    "months": 6
+  }
+]

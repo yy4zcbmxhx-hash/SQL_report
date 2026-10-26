@@ -1,0 +1,3954 @@
+[
+  {
+    "cohort": "2010-12-01",
+    "month_age": 0,
+    "cohort_size": 14,
+    "mature": true,
+    "active_buyers": 14,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2010-12-01",
+    "month_age": 1,
+    "cohort_size": 14,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2010-12-01",
+    "month_age": 2,
+    "cohort_size": 14,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2010-12-01",
+    "month_age": 3,
+    "cohort_size": 14,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2010-12-01",
+    "month_age": 4,
+    "cohort_size": 14,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2010-12-01",
+    "month_age": 5,
+    "cohort_size": 14,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2010-12-01",
+    "month_age": 6,
+    "cohort_size": 14,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2010-12-01",
+    "month_age": 7,
+    "cohort_size": 14,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2010-12-01",
+    "month_age": 8,
+    "cohort_size": 14,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2010-12-01",
+    "month_age": 9,
+    "cohort_size": 14,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2010-12-01",
+    "month_age": 10,
+    "cohort_size": 14,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2010-12-01",
+    "month_age": 11,
+    "cohort_size": 14,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2010-12-01",
+    "month_age": 12,
+    "cohort_size": 14,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-01-01",
+    "month_age": 0,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 144,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2011-01-01",
+    "month_age": 1,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-01-01",
+    "month_age": 2,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-01-01",
+    "month_age": 3,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-01-01",
+    "month_age": 4,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-01-01",
+    "month_age": 5,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-01-01",
+    "month_age": 6,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-01-01",
+    "month_age": 7,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-01-01",
+    "month_age": 8,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-01-01",
+    "month_age": 9,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-01-01",
+    "month_age": 10,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-01-01",
+    "month_age": 11,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-01-01",
+    "month_age": 12,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-02-01",
+    "month_age": 0,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 144,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2011-02-01",
+    "month_age": 1,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-02-01",
+    "month_age": 2,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-02-01",
+    "month_age": 3,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-02-01",
+    "month_age": 4,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-02-01",
+    "month_age": 5,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-02-01",
+    "month_age": 6,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-02-01",
+    "month_age": 7,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-02-01",
+    "month_age": 8,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-02-01",
+    "month_age": 9,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-02-01",
+    "month_age": 10,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-02-01",
+    "month_age": 11,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-02-01",
+    "month_age": 12,
+    "cohort_size": 144,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-03-01",
+    "month_age": 0,
+    "cohort_size": 150,
+    "mature": true,
+    "active_buyers": 150,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2011-03-01",
+    "month_age": 1,
+    "cohort_size": 150,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-03-01",
+    "month_age": 2,
+    "cohort_size": 150,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-03-01",
+    "month_age": 3,
+    "cohort_size": 150,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-03-01",
+    "month_age": 4,
+    "cohort_size": 150,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-03-01",
+    "month_age": 5,
+    "cohort_size": 150,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-03-01",
+    "month_age": 6,
+    "cohort_size": 150,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-03-01",
+    "month_age": 7,
+    "cohort_size": 150,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-03-01",
+    "month_age": 8,
+    "cohort_size": 150,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-03-01",
+    "month_age": 9,
+    "cohort_size": 150,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-03-01",
+    "month_age": 10,
+    "cohort_size": 150,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-03-01",
+    "month_age": 11,
+    "cohort_size": 150,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-03-01",
+    "month_age": 12,
+    "cohort_size": 150,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-04-01",
+    "month_age": 0,
+    "cohort_size": 157,
+    "mature": true,
+    "active_buyers": 157,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2011-04-01",
+    "month_age": 1,
+    "cohort_size": 157,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-04-01",
+    "month_age": 2,
+    "cohort_size": 157,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-04-01",
+    "month_age": 3,
+    "cohort_size": 157,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-04-01",
+    "month_age": 4,
+    "cohort_size": 157,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-04-01",
+    "month_age": 5,
+    "cohort_size": 157,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-04-01",
+    "month_age": 6,
+    "cohort_size": 157,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-04-01",
+    "month_age": 7,
+    "cohort_size": 157,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-04-01",
+    "month_age": 8,
+    "cohort_size": 157,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-04-01",
+    "month_age": 9,
+    "cohort_size": 157,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-04-01",
+    "month_age": 10,
+    "cohort_size": 157,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-04-01",
+    "month_age": 11,
+    "cohort_size": 157,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-04-01",
+    "month_age": 12,
+    "cohort_size": 157,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-05-01",
+    "month_age": 0,
+    "cohort_size": 174,
+    "mature": true,
+    "active_buyers": 174,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2011-05-01",
+    "month_age": 1,
+    "cohort_size": 174,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-05-01",
+    "month_age": 2,
+    "cohort_size": 174,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-05-01",
+    "month_age": 3,
+    "cohort_size": 174,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-05-01",
+    "month_age": 4,
+    "cohort_size": 174,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-05-01",
+    "month_age": 5,
+    "cohort_size": 174,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-05-01",
+    "month_age": 6,
+    "cohort_size": 174,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-05-01",
+    "month_age": 7,
+    "cohort_size": 174,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-05-01",
+    "month_age": 8,
+    "cohort_size": 174,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-05-01",
+    "month_age": 9,
+    "cohort_size": 174,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-05-01",
+    "month_age": 10,
+    "cohort_size": 174,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-05-01",
+    "month_age": 11,
+    "cohort_size": 174,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-05-01",
+    "month_age": 12,
+    "cohort_size": 174,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-06-01",
+    "month_age": 0,
+    "cohort_size": 230,
+    "mature": true,
+    "active_buyers": 230,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2011-06-01",
+    "month_age": 1,
+    "cohort_size": 230,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-06-01",
+    "month_age": 2,
+    "cohort_size": 230,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-06-01",
+    "month_age": 3,
+    "cohort_size": 230,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-06-01",
+    "month_age": 4,
+    "cohort_size": 230,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-06-01",
+    "month_age": 5,
+    "cohort_size": 230,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-06-01",
+    "month_age": 6,
+    "cohort_size": 230,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-06-01",
+    "month_age": 7,
+    "cohort_size": 230,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-06-01",
+    "month_age": 8,
+    "cohort_size": 230,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-06-01",
+    "month_age": 9,
+    "cohort_size": 230,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-06-01",
+    "month_age": 10,
+    "cohort_size": 230,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-06-01",
+    "month_age": 11,
+    "cohort_size": 230,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-06-01",
+    "month_age": 12,
+    "cohort_size": 230,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-07-01",
+    "month_age": 0,
+    "cohort_size": 188,
+    "mature": true,
+    "active_buyers": 188,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2011-07-01",
+    "month_age": 1,
+    "cohort_size": 188,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-07-01",
+    "month_age": 2,
+    "cohort_size": 188,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-07-01",
+    "month_age": 3,
+    "cohort_size": 188,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-07-01",
+    "month_age": 4,
+    "cohort_size": 188,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-07-01",
+    "month_age": 5,
+    "cohort_size": 188,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-07-01",
+    "month_age": 6,
+    "cohort_size": 188,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-07-01",
+    "month_age": 7,
+    "cohort_size": 188,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-07-01",
+    "month_age": 8,
+    "cohort_size": 188,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-07-01",
+    "month_age": 9,
+    "cohort_size": 188,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-07-01",
+    "month_age": 10,
+    "cohort_size": 188,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-07-01",
+    "month_age": 11,
+    "cohort_size": 188,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-07-01",
+    "month_age": 12,
+    "cohort_size": 188,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-08-01",
+    "month_age": 0,
+    "cohort_size": 193,
+    "mature": true,
+    "active_buyers": 193,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2011-08-01",
+    "month_age": 1,
+    "cohort_size": 193,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-08-01",
+    "month_age": 2,
+    "cohort_size": 193,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-08-01",
+    "month_age": 3,
+    "cohort_size": 193,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-08-01",
+    "month_age": 4,
+    "cohort_size": 193,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-08-01",
+    "month_age": 5,
+    "cohort_size": 193,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-08-01",
+    "month_age": 6,
+    "cohort_size": 193,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-08-01",
+    "month_age": 7,
+    "cohort_size": 193,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-08-01",
+    "month_age": 8,
+    "cohort_size": 193,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-08-01",
+    "month_age": 9,
+    "cohort_size": 193,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-08-01",
+    "month_age": 10,
+    "cohort_size": 193,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-08-01",
+    "month_age": 11,
+    "cohort_size": 193,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-08-01",
+    "month_age": 12,
+    "cohort_size": 193,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-09-01",
+    "month_age": 0,
+    "cohort_size": 185,
+    "mature": true,
+    "active_buyers": 185,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2011-09-01",
+    "month_age": 1,
+    "cohort_size": 185,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-09-01",
+    "month_age": 2,
+    "cohort_size": 185,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-09-01",
+    "month_age": 3,
+    "cohort_size": 185,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-09-01",
+    "month_age": 4,
+    "cohort_size": 185,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-09-01",
+    "month_age": 5,
+    "cohort_size": 185,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-09-01",
+    "month_age": 6,
+    "cohort_size": 185,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-09-01",
+    "month_age": 7,
+    "cohort_size": 185,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-09-01",
+    "month_age": 8,
+    "cohort_size": 185,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-09-01",
+    "month_age": 9,
+    "cohort_size": 185,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-09-01",
+    "month_age": 10,
+    "cohort_size": 185,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-09-01",
+    "month_age": 11,
+    "cohort_size": 185,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-09-01",
+    "month_age": 12,
+    "cohort_size": 185,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-10-01",
+    "month_age": 0,
+    "cohort_size": 221,
+    "mature": true,
+    "active_buyers": 221,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2011-10-01",
+    "month_age": 1,
+    "cohort_size": 221,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-10-01",
+    "month_age": 2,
+    "cohort_size": 221,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-10-01",
+    "month_age": 3,
+    "cohort_size": 221,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-10-01",
+    "month_age": 4,
+    "cohort_size": 221,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-10-01",
+    "month_age": 5,
+    "cohort_size": 221,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-10-01",
+    "month_age": 6,
+    "cohort_size": 221,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-10-01",
+    "month_age": 7,
+    "cohort_size": 221,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-10-01",
+    "month_age": 8,
+    "cohort_size": 221,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-10-01",
+    "month_age": 9,
+    "cohort_size": 221,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-10-01",
+    "month_age": 10,
+    "cohort_size": 221,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-10-01",
+    "month_age": 11,
+    "cohort_size": 221,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-10-01",
+    "month_age": 12,
+    "cohort_size": 221,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-11-01",
+    "month_age": 0,
+    "cohort_size": 208,
+    "mature": true,
+    "active_buyers": 208,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2011-11-01",
+    "month_age": 1,
+    "cohort_size": 208,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-11-01",
+    "month_age": 2,
+    "cohort_size": 208,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-11-01",
+    "month_age": 3,
+    "cohort_size": 208,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-11-01",
+    "month_age": 4,
+    "cohort_size": 208,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-11-01",
+    "month_age": 5,
+    "cohort_size": 208,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-11-01",
+    "month_age": 6,
+    "cohort_size": 208,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-11-01",
+    "month_age": 7,
+    "cohort_size": 208,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-11-01",
+    "month_age": 8,
+    "cohort_size": 208,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-11-01",
+    "month_age": 9,
+    "cohort_size": 208,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-11-01",
+    "month_age": 10,
+    "cohort_size": 208,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-11-01",
+    "month_age": 11,
+    "cohort_size": 208,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-11-01",
+    "month_age": 12,
+    "cohort_size": 208,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-12-01",
+    "month_age": 0,
+    "cohort_size": 222,
+    "mature": true,
+    "active_buyers": 222,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2011-12-01",
+    "month_age": 1,
+    "cohort_size": 222,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-12-01",
+    "month_age": 2,
+    "cohort_size": 222,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-12-01",
+    "month_age": 3,
+    "cohort_size": 222,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-12-01",
+    "month_age": 4,
+    "cohort_size": 222,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-12-01",
+    "month_age": 5,
+    "cohort_size": 222,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-12-01",
+    "month_age": 6,
+    "cohort_size": 222,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-12-01",
+    "month_age": 7,
+    "cohort_size": 222,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-12-01",
+    "month_age": 8,
+    "cohort_size": 222,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-12-01",
+    "month_age": 9,
+    "cohort_size": 222,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-12-01",
+    "month_age": 10,
+    "cohort_size": 222,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-12-01",
+    "month_age": 11,
+    "cohort_size": 222,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2011-12-01",
+    "month_age": 12,
+    "cohort_size": 222,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-01-01",
+    "month_age": 0,
+    "cohort_size": 252,
+    "mature": true,
+    "active_buyers": 252,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2012-01-01",
+    "month_age": 1,
+    "cohort_size": 252,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-01-01",
+    "month_age": 2,
+    "cohort_size": 252,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-01-01",
+    "month_age": 3,
+    "cohort_size": 252,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-01-01",
+    "month_age": 4,
+    "cohort_size": 252,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-01-01",
+    "month_age": 5,
+    "cohort_size": 252,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-01-01",
+    "month_age": 6,
+    "cohort_size": 252,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-01-01",
+    "month_age": 7,
+    "cohort_size": 252,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-01-01",
+    "month_age": 8,
+    "cohort_size": 252,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-01-01",
+    "month_age": 9,
+    "cohort_size": 252,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-01-01",
+    "month_age": 10,
+    "cohort_size": 252,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-01-01",
+    "month_age": 11,
+    "cohort_size": 252,
+    "mature": true,
+    "active_buyers": 1,
+    "retention": "0.00396825396825396825"
+  },
+  {
+    "cohort": "2012-01-01",
+    "month_age": 12,
+    "cohort_size": 252,
+    "mature": true,
+    "active_buyers": 7,
+    "retention": "0.02777777777777777778"
+  },
+  {
+    "cohort": "2012-02-01",
+    "month_age": 0,
+    "cohort_size": 260,
+    "mature": true,
+    "active_buyers": 260,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2012-02-01",
+    "month_age": 1,
+    "cohort_size": 260,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-02-01",
+    "month_age": 2,
+    "cohort_size": 260,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-02-01",
+    "month_age": 3,
+    "cohort_size": 260,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-02-01",
+    "month_age": 4,
+    "cohort_size": 260,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-02-01",
+    "month_age": 5,
+    "cohort_size": 260,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-02-01",
+    "month_age": 6,
+    "cohort_size": 260,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-02-01",
+    "month_age": 7,
+    "cohort_size": 260,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-02-01",
+    "month_age": 8,
+    "cohort_size": 260,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-02-01",
+    "month_age": 9,
+    "cohort_size": 260,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-02-01",
+    "month_age": 10,
+    "cohort_size": 260,
+    "mature": true,
+    "active_buyers": 1,
+    "retention": "0.00384615384615384615"
+  },
+  {
+    "cohort": "2012-02-01",
+    "month_age": 11,
+    "cohort_size": 260,
+    "mature": true,
+    "active_buyers": 4,
+    "retention": "0.01538461538461538462"
+  },
+  {
+    "cohort": "2012-02-01",
+    "month_age": 12,
+    "cohort_size": 260,
+    "mature": true,
+    "active_buyers": 6,
+    "retention": "0.02307692307692307692"
+  },
+  {
+    "cohort": "2012-03-01",
+    "month_age": 0,
+    "cohort_size": 212,
+    "mature": true,
+    "active_buyers": 212,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2012-03-01",
+    "month_age": 1,
+    "cohort_size": 212,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-03-01",
+    "month_age": 2,
+    "cohort_size": 212,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-03-01",
+    "month_age": 3,
+    "cohort_size": 212,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-03-01",
+    "month_age": 4,
+    "cohort_size": 212,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-03-01",
+    "month_age": 5,
+    "cohort_size": 212,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-03-01",
+    "month_age": 6,
+    "cohort_size": 212,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-03-01",
+    "month_age": 7,
+    "cohort_size": 212,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-03-01",
+    "month_age": 8,
+    "cohort_size": 212,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-03-01",
+    "month_age": 9,
+    "cohort_size": 212,
+    "mature": true,
+    "active_buyers": 1,
+    "retention": "0.00471698113207547170"
+  },
+  {
+    "cohort": "2012-03-01",
+    "month_age": 10,
+    "cohort_size": 212,
+    "mature": true,
+    "active_buyers": 11,
+    "retention": "0.05188679245283018868"
+  },
+  {
+    "cohort": "2012-03-01",
+    "month_age": 11,
+    "cohort_size": 212,
+    "mature": true,
+    "active_buyers": 8,
+    "retention": "0.03773584905660377358"
+  },
+  {
+    "cohort": "2012-03-01",
+    "month_age": 12,
+    "cohort_size": 212,
+    "mature": true,
+    "active_buyers": 9,
+    "retention": "0.04245283018867924528"
+  },
+  {
+    "cohort": "2012-04-01",
+    "month_age": 0,
+    "cohort_size": 219,
+    "mature": true,
+    "active_buyers": 219,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2012-04-01",
+    "month_age": 1,
+    "cohort_size": 219,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-04-01",
+    "month_age": 2,
+    "cohort_size": 219,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-04-01",
+    "month_age": 3,
+    "cohort_size": 219,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-04-01",
+    "month_age": 4,
+    "cohort_size": 219,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-04-01",
+    "month_age": 5,
+    "cohort_size": 219,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-04-01",
+    "month_age": 6,
+    "cohort_size": 219,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-04-01",
+    "month_age": 7,
+    "cohort_size": 219,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-04-01",
+    "month_age": 8,
+    "cohort_size": 219,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-04-01",
+    "month_age": 9,
+    "cohort_size": 219,
+    "mature": true,
+    "active_buyers": 4,
+    "retention": "0.01826484018264840183"
+  },
+  {
+    "cohort": "2012-04-01",
+    "month_age": 10,
+    "cohort_size": 219,
+    "mature": true,
+    "active_buyers": 3,
+    "retention": "0.01369863013698630137"
+  },
+  {
+    "cohort": "2012-04-01",
+    "month_age": 11,
+    "cohort_size": 219,
+    "mature": true,
+    "active_buyers": 12,
+    "retention": "0.05479452054794520548"
+  },
+  {
+    "cohort": "2012-04-01",
+    "month_age": 12,
+    "cohort_size": 219,
+    "mature": true,
+    "active_buyers": 18,
+    "retention": "0.08219178082191780822"
+  },
+  {
+    "cohort": "2012-05-01",
+    "month_age": 0,
+    "cohort_size": 207,
+    "mature": true,
+    "active_buyers": 207,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2012-05-01",
+    "month_age": 1,
+    "cohort_size": 207,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-05-01",
+    "month_age": 2,
+    "cohort_size": 207,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-05-01",
+    "month_age": 3,
+    "cohort_size": 207,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-05-01",
+    "month_age": 4,
+    "cohort_size": 207,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-05-01",
+    "month_age": 5,
+    "cohort_size": 207,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-05-01",
+    "month_age": 6,
+    "cohort_size": 207,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-05-01",
+    "month_age": 7,
+    "cohort_size": 207,
+    "mature": true,
+    "active_buyers": 2,
+    "retention": "0.00966183574879227053"
+  },
+  {
+    "cohort": "2012-05-01",
+    "month_age": 8,
+    "cohort_size": 207,
+    "mature": true,
+    "active_buyers": 5,
+    "retention": "0.02415458937198067633"
+  },
+  {
+    "cohort": "2012-05-01",
+    "month_age": 9,
+    "cohort_size": 207,
+    "mature": true,
+    "active_buyers": 3,
+    "retention": "0.01449275362318840580"
+  },
+  {
+    "cohort": "2012-05-01",
+    "month_age": 10,
+    "cohort_size": 207,
+    "mature": true,
+    "active_buyers": 12,
+    "retention": "0.05797101449275362319"
+  },
+  {
+    "cohort": "2012-05-01",
+    "month_age": 11,
+    "cohort_size": 207,
+    "mature": true,
+    "active_buyers": 17,
+    "retention": "0.08212560386473429952"
+  },
+  {
+    "cohort": "2012-05-01",
+    "month_age": 12,
+    "cohort_size": 207,
+    "mature": true,
+    "active_buyers": 21,
+    "retention": "0.10144927536231884058"
+  },
+  {
+    "cohort": "2012-06-01",
+    "month_age": 0,
+    "cohort_size": 318,
+    "mature": true,
+    "active_buyers": 318,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2012-06-01",
+    "month_age": 1,
+    "cohort_size": 318,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-06-01",
+    "month_age": 2,
+    "cohort_size": 318,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-06-01",
+    "month_age": 3,
+    "cohort_size": 318,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-06-01",
+    "month_age": 4,
+    "cohort_size": 318,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-06-01",
+    "month_age": 5,
+    "cohort_size": 318,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-06-01",
+    "month_age": 6,
+    "cohort_size": 318,
+    "mature": true,
+    "active_buyers": 1,
+    "retention": "0.00314465408805031447"
+  },
+  {
+    "cohort": "2012-06-01",
+    "month_age": 7,
+    "cohort_size": 318,
+    "mature": true,
+    "active_buyers": 14,
+    "retention": "0.04402515723270440252"
+  },
+  {
+    "cohort": "2012-06-01",
+    "month_age": 8,
+    "cohort_size": 318,
+    "mature": true,
+    "active_buyers": 6,
+    "retention": "0.01886792452830188679"
+  },
+  {
+    "cohort": "2012-06-01",
+    "month_age": 9,
+    "cohort_size": 318,
+    "mature": true,
+    "active_buyers": 12,
+    "retention": "0.03773584905660377358"
+  },
+  {
+    "cohort": "2012-06-01",
+    "month_age": 10,
+    "cohort_size": 318,
+    "mature": true,
+    "active_buyers": 8,
+    "retention": "0.02515723270440251572"
+  },
+  {
+    "cohort": "2012-06-01",
+    "month_age": 11,
+    "cohort_size": 318,
+    "mature": true,
+    "active_buyers": 27,
+    "retention": "0.08490566037735849057"
+  },
+  {
+    "cohort": "2012-06-01",
+    "month_age": 12,
+    "cohort_size": 318,
+    "mature": true,
+    "active_buyers": 42,
+    "retention": "0.13207547169811320755"
+  },
+  {
+    "cohort": "2012-07-01",
+    "month_age": 0,
+    "cohort_size": 246,
+    "mature": true,
+    "active_buyers": 246,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2012-07-01",
+    "month_age": 1,
+    "cohort_size": 246,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-07-01",
+    "month_age": 2,
+    "cohort_size": 246,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-07-01",
+    "month_age": 3,
+    "cohort_size": 246,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-07-01",
+    "month_age": 4,
+    "cohort_size": 246,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-07-01",
+    "month_age": 5,
+    "cohort_size": 246,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-07-01",
+    "month_age": 6,
+    "cohort_size": 246,
+    "mature": true,
+    "active_buyers": 21,
+    "retention": "0.08536585365853658537"
+  },
+  {
+    "cohort": "2012-07-01",
+    "month_age": 7,
+    "cohort_size": 246,
+    "mature": true,
+    "active_buyers": 9,
+    "retention": "0.03658536585365853659"
+  },
+  {
+    "cohort": "2012-07-01",
+    "month_age": 8,
+    "cohort_size": 246,
+    "mature": true,
+    "active_buyers": 11,
+    "retention": "0.04471544715447154472"
+  },
+  {
+    "cohort": "2012-07-01",
+    "month_age": 9,
+    "cohort_size": 246,
+    "mature": true,
+    "active_buyers": 7,
+    "retention": "0.02845528455284552846"
+  },
+  {
+    "cohort": "2012-07-01",
+    "month_age": 10,
+    "cohort_size": 246,
+    "mature": true,
+    "active_buyers": 25,
+    "retention": "0.10162601626016260163"
+  },
+  {
+    "cohort": "2012-07-01",
+    "month_age": 11,
+    "cohort_size": 246,
+    "mature": true,
+    "active_buyers": 34,
+    "retention": "0.13821138211382113821"
+  },
+  {
+    "cohort": "2012-07-01",
+    "month_age": 12,
+    "cohort_size": 246,
+    "mature": true,
+    "active_buyers": 47,
+    "retention": "0.19105691056910569106"
+  },
+  {
+    "cohort": "2012-08-01",
+    "month_age": 0,
+    "cohort_size": 294,
+    "mature": true,
+    "active_buyers": 294,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2012-08-01",
+    "month_age": 1,
+    "cohort_size": 294,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-08-01",
+    "month_age": 2,
+    "cohort_size": 294,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-08-01",
+    "month_age": 3,
+    "cohort_size": 294,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-08-01",
+    "month_age": 4,
+    "cohort_size": 294,
+    "mature": true,
+    "active_buyers": 2,
+    "retention": "0.00680272108843537415"
+  },
+  {
+    "cohort": "2012-08-01",
+    "month_age": 5,
+    "cohort_size": 294,
+    "mature": true,
+    "active_buyers": 22,
+    "retention": "0.07482993197278911565"
+  },
+  {
+    "cohort": "2012-08-01",
+    "month_age": 6,
+    "cohort_size": 294,
+    "mature": true,
+    "active_buyers": 25,
+    "retention": "0.08503401360544217687"
+  },
+  {
+    "cohort": "2012-08-01",
+    "month_age": 7,
+    "cohort_size": 294,
+    "mature": true,
+    "active_buyers": 20,
+    "retention": "0.06802721088435374150"
+  },
+  {
+    "cohort": "2012-08-01",
+    "month_age": 8,
+    "cohort_size": 294,
+    "mature": true,
+    "active_buyers": 20,
+    "retention": "0.06802721088435374150"
+  },
+  {
+    "cohort": "2012-08-01",
+    "month_age": 9,
+    "cohort_size": 294,
+    "mature": true,
+    "active_buyers": 22,
+    "retention": "0.07482993197278911565"
+  },
+  {
+    "cohort": "2012-08-01",
+    "month_age": 10,
+    "cohort_size": 294,
+    "mature": true,
+    "active_buyers": 37,
+    "retention": "0.12585034013605442177"
+  },
+  {
+    "cohort": "2012-08-01",
+    "month_age": 11,
+    "cohort_size": 294,
+    "mature": true,
+    "active_buyers": 36,
+    "retention": "0.12244897959183673469"
+  },
+  {
+    "cohort": "2012-08-01",
+    "month_age": 12,
+    "cohort_size": 294,
+    "mature": true,
+    "active_buyers": 56,
+    "retention": "0.19047619047619047619"
+  },
+  {
+    "cohort": "2012-09-01",
+    "month_age": 0,
+    "cohort_size": 269,
+    "mature": true,
+    "active_buyers": 269,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2012-09-01",
+    "month_age": 1,
+    "cohort_size": 269,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-09-01",
+    "month_age": 2,
+    "cohort_size": 269,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-09-01",
+    "month_age": 3,
+    "cohort_size": 269,
+    "mature": true,
+    "active_buyers": 2,
+    "retention": "0.00743494423791821561"
+  },
+  {
+    "cohort": "2012-09-01",
+    "month_age": 4,
+    "cohort_size": 269,
+    "mature": true,
+    "active_buyers": 14,
+    "retention": "0.05204460966542750929"
+  },
+  {
+    "cohort": "2012-09-01",
+    "month_age": 5,
+    "cohort_size": 269,
+    "mature": true,
+    "active_buyers": 10,
+    "retention": "0.03717472118959107807"
+  },
+  {
+    "cohort": "2012-09-01",
+    "month_age": 6,
+    "cohort_size": 269,
+    "mature": true,
+    "active_buyers": 21,
+    "retention": "0.07806691449814126394"
+  },
+  {
+    "cohort": "2012-09-01",
+    "month_age": 7,
+    "cohort_size": 269,
+    "mature": true,
+    "active_buyers": 15,
+    "retention": "0.05576208178438661710"
+  },
+  {
+    "cohort": "2012-09-01",
+    "month_age": 8,
+    "cohort_size": 269,
+    "mature": true,
+    "active_buyers": 22,
+    "retention": "0.08178438661710037175"
+  },
+  {
+    "cohort": "2012-09-01",
+    "month_age": 9,
+    "cohort_size": 269,
+    "mature": true,
+    "active_buyers": 40,
+    "retention": "0.14869888475836431227"
+  },
+  {
+    "cohort": "2012-09-01",
+    "month_age": 10,
+    "cohort_size": 269,
+    "mature": true,
+    "active_buyers": 20,
+    "retention": "0.07434944237918215613"
+  },
+  {
+    "cohort": "2012-09-01",
+    "month_age": 11,
+    "cohort_size": 269,
+    "mature": true,
+    "active_buyers": 57,
+    "retention": "0.21189591078066914498"
+  },
+  {
+    "cohort": "2012-09-01",
+    "month_age": 12,
+    "cohort_size": 269,
+    "mature": true,
+    "active_buyers": 55,
+    "retention": "0.20446096654275092937"
+  },
+  {
+    "cohort": "2012-10-01",
+    "month_age": 0,
+    "cohort_size": 313,
+    "mature": true,
+    "active_buyers": 313,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2012-10-01",
+    "month_age": 1,
+    "cohort_size": 313,
+    "mature": true,
+    "active_buyers": 0,
+    "retention": "0E-20"
+  },
+  {
+    "cohort": "2012-10-01",
+    "month_age": 2,
+    "cohort_size": 313,
+    "mature": true,
+    "active_buyers": 2,
+    "retention": "0.00638977635782747604"
+  },
+  {
+    "cohort": "2012-10-01",
+    "month_age": 3,
+    "cohort_size": 313,
+    "mature": true,
+    "active_buyers": 12,
+    "retention": "0.03833865814696485623"
+  },
+  {
+    "cohort": "2012-10-01",
+    "month_age": 4,
+    "cohort_size": 313,
+    "mature": true,
+    "active_buyers": 6,
+    "retention": "0.01916932907348242812"
+  },
+  {
+    "cohort": "2012-10-01",
+    "month_age": 5,
+    "cohort_size": 313,
+    "mature": true,
+    "active_buyers": 16,
+    "retention": "0.05111821086261980831"
+  },
+  {
+    "cohort": "2012-10-01",
+    "month_age": 6,
+    "cohort_size": 313,
+    "mature": true,
+    "active_buyers": 8,
+    "retention": "0.02555910543130990415"
+  },
+  {
+    "cohort": "2012-10-01",
+    "month_age": 7,
+    "cohort_size": 313,
+    "mature": true,
+    "active_buyers": 12,
+    "retention": "0.03833865814696485623"
+  },
+  {
+    "cohort": "2012-10-01",
+    "month_age": 8,
+    "cohort_size": 313,
+    "mature": true,
+    "active_buyers": 47,
+    "retention": "0.15015974440894568690"
+  },
+  {
+    "cohort": "2012-10-01",
+    "month_age": 9,
+    "cohort_size": 313,
+    "mature": true,
+    "active_buyers": 16,
+    "retention": "0.05111821086261980831"
+  },
+  {
+    "cohort": "2012-10-01",
+    "month_age": 10,
+    "cohort_size": 313,
+    "mature": true,
+    "active_buyers": 20,
+    "retention": "0.06389776357827476038"
+  },
+  {
+    "cohort": "2012-10-01",
+    "month_age": 11,
+    "cohort_size": 313,
+    "mature": true,
+    "active_buyers": 64,
+    "retention": "0.20447284345047923323"
+  },
+  {
+    "cohort": "2012-10-01",
+    "month_age": 12,
+    "cohort_size": 313,
+    "mature": true,
+    "active_buyers": 62,
+    "retention": "0.19808306709265175719"
+  },
+  {
+    "cohort": "2012-11-01",
+    "month_age": 0,
+    "cohort_size": 324,
+    "mature": true,
+    "active_buyers": 324,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2012-11-01",
+    "month_age": 1,
+    "cohort_size": 324,
+    "mature": true,
+    "active_buyers": 1,
+    "retention": "0.00308641975308641975"
+  },
+  {
+    "cohort": "2012-11-01",
+    "month_age": 2,
+    "cohort_size": 324,
+    "mature": true,
+    "active_buyers": 8,
+    "retention": "0.02469135802469135802"
+  },
+  {
+    "cohort": "2012-11-01",
+    "month_age": 3,
+    "cohort_size": 324,
+    "mature": true,
+    "active_buyers": 9,
+    "retention": "0.02777777777777777778"
+  },
+  {
+    "cohort": "2012-11-01",
+    "month_age": 4,
+    "cohort_size": 324,
+    "mature": true,
+    "active_buyers": 11,
+    "retention": "0.03395061728395061728"
+  },
+  {
+    "cohort": "2012-11-01",
+    "month_age": 5,
+    "cohort_size": 324,
+    "mature": true,
+    "active_buyers": 7,
+    "retention": "0.02160493827160493827"
+  },
+  {
+    "cohort": "2012-11-01",
+    "month_age": 6,
+    "cohort_size": 324,
+    "mature": true,
+    "active_buyers": 25,
+    "retention": "0.07716049382716049383"
+  },
+  {
+    "cohort": "2012-11-01",
+    "month_age": 7,
+    "cohort_size": 324,
+    "mature": true,
+    "active_buyers": 35,
+    "retention": "0.10802469135802469136"
+  },
+  {
+    "cohort": "2012-11-01",
+    "month_age": 8,
+    "cohort_size": 324,
+    "mature": true,
+    "active_buyers": 44,
+    "retention": "0.13580246913580246914"
+  },
+  {
+    "cohort": "2012-11-01",
+    "month_age": 9,
+    "cohort_size": 324,
+    "mature": true,
+    "active_buyers": 15,
+    "retention": "0.04629629629629629630"
+  },
+  {
+    "cohort": "2012-11-01",
+    "month_age": 10,
+    "cohort_size": 324,
+    "mature": true,
+    "active_buyers": 27,
+    "retention": "0.08333333333333333333"
+  },
+  {
+    "cohort": "2012-11-01",
+    "month_age": 11,
+    "cohort_size": 324,
+    "mature": true,
+    "active_buyers": 73,
+    "retention": "0.22530864197530864198"
+  },
+  {
+    "cohort": "2012-11-01",
+    "month_age": 12,
+    "cohort_size": 324,
+    "mature": true,
+    "active_buyers": 53,
+    "retention": "0.16358024691358024691"
+  },
+  {
+    "cohort": "2012-12-01",
+    "month_age": 0,
+    "cohort_size": 311,
+    "mature": true,
+    "active_buyers": 311,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2012-12-01",
+    "month_age": 1,
+    "cohort_size": 311,
+    "mature": true,
+    "active_buyers": 8,
+    "retention": "0.02572347266881028939"
+  },
+  {
+    "cohort": "2012-12-01",
+    "month_age": 2,
+    "cohort_size": 311,
+    "mature": true,
+    "active_buyers": 10,
+    "retention": "0.03215434083601286174"
+  },
+  {
+    "cohort": "2012-12-01",
+    "month_age": 3,
+    "cohort_size": 311,
+    "mature": true,
+    "active_buyers": 15,
+    "retention": "0.04823151125401929260"
+  },
+  {
+    "cohort": "2012-12-01",
+    "month_age": 4,
+    "cohort_size": 311,
+    "mature": true,
+    "active_buyers": 7,
+    "retention": "0.02250803858520900322"
+  },
+  {
+    "cohort": "2012-12-01",
+    "month_age": 5,
+    "cohort_size": 311,
+    "mature": true,
+    "active_buyers": 13,
+    "retention": "0.04180064308681672026"
+  },
+  {
+    "cohort": "2012-12-01",
+    "month_age": 6,
+    "cohort_size": 311,
+    "mature": true,
+    "active_buyers": 14,
+    "retention": "0.04501607717041800643"
+  },
+  {
+    "cohort": "2012-12-01",
+    "month_age": 7,
+    "cohort_size": 311,
+    "mature": true,
+    "active_buyers": 39,
+    "retention": "0.12540192926045016077"
+  },
+  {
+    "cohort": "2012-12-01",
+    "month_age": 8,
+    "cohort_size": 311,
+    "mature": true,
+    "active_buyers": 23,
+    "retention": "0.07395498392282958199"
+  },
+  {
+    "cohort": "2012-12-01",
+    "month_age": 9,
+    "cohort_size": 311,
+    "mature": true,
+    "active_buyers": 23,
+    "retention": "0.07395498392282958199"
+  },
+  {
+    "cohort": "2012-12-01",
+    "month_age": 10,
+    "cohort_size": 311,
+    "mature": true,
+    "active_buyers": 30,
+    "retention": "0.09646302250803858521"
+  },
+  {
+    "cohort": "2012-12-01",
+    "month_age": 11,
+    "cohort_size": 311,
+    "mature": true,
+    "active_buyers": 72,
+    "retention": "0.23151125401929260450"
+  },
+  {
+    "cohort": "2012-12-01",
+    "month_age": 12,
+    "cohort_size": 311,
+    "mature": true,
+    "active_buyers": 42,
+    "retention": "0.13504823151125401929"
+  },
+  {
+    "cohort": "2013-01-01",
+    "month_age": 0,
+    "cohort_size": 325,
+    "mature": true,
+    "active_buyers": 325,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2013-01-01",
+    "month_age": 1,
+    "cohort_size": 325,
+    "mature": true,
+    "active_buyers": 17,
+    "retention": "0.05230769230769230769"
+  },
+  {
+    "cohort": "2013-01-01",
+    "month_age": 2,
+    "cohort_size": 325,
+    "mature": true,
+    "active_buyers": 15,
+    "retention": "0.04615384615384615385"
+  },
+  {
+    "cohort": "2013-01-01",
+    "month_age": 3,
+    "cohort_size": 325,
+    "mature": true,
+    "active_buyers": 19,
+    "retention": "0.05846153846153846154"
+  },
+  {
+    "cohort": "2013-01-01",
+    "month_age": 4,
+    "cohort_size": 325,
+    "mature": true,
+    "active_buyers": 16,
+    "retention": "0.04923076923076923077"
+  },
+  {
+    "cohort": "2013-01-01",
+    "month_age": 5,
+    "cohort_size": 325,
+    "mature": true,
+    "active_buyers": 22,
+    "retention": "0.06769230769230769231"
+  },
+  {
+    "cohort": "2013-01-01",
+    "month_age": 6,
+    "cohort_size": 325,
+    "mature": true,
+    "active_buyers": 17,
+    "retention": "0.05230769230769230769"
+  },
+  {
+    "cohort": "2013-01-01",
+    "month_age": 7,
+    "cohort_size": 325,
+    "mature": true,
+    "active_buyers": 19,
+    "retention": "0.05846153846153846154"
+  },
+  {
+    "cohort": "2013-01-01",
+    "month_age": 8,
+    "cohort_size": 325,
+    "mature": true,
+    "active_buyers": 14,
+    "retention": "0.04307692307692307692"
+  },
+  {
+    "cohort": "2013-01-01",
+    "month_age": 9,
+    "cohort_size": 325,
+    "mature": true,
+    "active_buyers": 19,
+    "retention": "0.05846153846153846154"
+  },
+  {
+    "cohort": "2013-01-01",
+    "month_age": 10,
+    "cohort_size": 325,
+    "mature": true,
+    "active_buyers": 20,
+    "retention": "0.06153846153846153846"
+  },
+  {
+    "cohort": "2013-01-01",
+    "month_age": 11,
+    "cohort_size": 325,
+    "mature": true,
+    "active_buyers": 15,
+    "retention": "0.04615384615384615385"
+  },
+  {
+    "cohort": "2013-01-01",
+    "month_age": 12,
+    "cohort_size": 325,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-02-01",
+    "month_age": 0,
+    "cohort_size": 1087,
+    "mature": true,
+    "active_buyers": 1087,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2013-02-01",
+    "month_age": 1,
+    "cohort_size": 1087,
+    "mature": true,
+    "active_buyers": 60,
+    "retention": "0.05519779208831646734"
+  },
+  {
+    "cohort": "2013-02-01",
+    "month_age": 2,
+    "cohort_size": 1087,
+    "mature": true,
+    "active_buyers": 56,
+    "retention": "0.05151793928242870285"
+  },
+  {
+    "cohort": "2013-02-01",
+    "month_age": 3,
+    "cohort_size": 1087,
+    "mature": true,
+    "active_buyers": 56,
+    "retention": "0.05151793928242870285"
+  },
+  {
+    "cohort": "2013-02-01",
+    "month_age": 4,
+    "cohort_size": 1087,
+    "mature": true,
+    "active_buyers": 49,
+    "retention": "0.04507819687212511500"
+  },
+  {
+    "cohort": "2013-02-01",
+    "month_age": 5,
+    "cohort_size": 1087,
+    "mature": true,
+    "active_buyers": 60,
+    "retention": "0.05519779208831646734"
+  },
+  {
+    "cohort": "2013-02-01",
+    "month_age": 6,
+    "cohort_size": 1087,
+    "mature": true,
+    "active_buyers": 48,
+    "retention": "0.04415823367065317387"
+  },
+  {
+    "cohort": "2013-02-01",
+    "month_age": 7,
+    "cohort_size": 1087,
+    "mature": true,
+    "active_buyers": 50,
+    "retention": "0.04599816007359705612"
+  },
+  {
+    "cohort": "2013-02-01",
+    "month_age": 8,
+    "cohort_size": 1087,
+    "mature": true,
+    "active_buyers": 61,
+    "retention": "0.05611775528978840846"
+  },
+  {
+    "cohort": "2013-02-01",
+    "month_age": 9,
+    "cohort_size": 1087,
+    "mature": true,
+    "active_buyers": 62,
+    "retention": "0.05703771849126034959"
+  },
+  {
+    "cohort": "2013-02-01",
+    "month_age": 10,
+    "cohort_size": 1087,
+    "mature": true,
+    "active_buyers": 58,
+    "retention": "0.05335786568537258510"
+  },
+  {
+    "cohort": "2013-02-01",
+    "month_age": 11,
+    "cohort_size": 1087,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-02-01",
+    "month_age": 12,
+    "cohort_size": 1087,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-03-01",
+    "month_age": 0,
+    "cohort_size": 1164,
+    "mature": true,
+    "active_buyers": 1164,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2013-03-01",
+    "month_age": 1,
+    "cohort_size": 1164,
+    "mature": true,
+    "active_buyers": 44,
+    "retention": "0.03780068728522336770"
+  },
+  {
+    "cohort": "2013-03-01",
+    "month_age": 2,
+    "cohort_size": 1164,
+    "mature": true,
+    "active_buyers": 44,
+    "retention": "0.03780068728522336770"
+  },
+  {
+    "cohort": "2013-03-01",
+    "month_age": 3,
+    "cohort_size": 1164,
+    "mature": true,
+    "active_buyers": 36,
+    "retention": "0.03092783505154639175"
+  },
+  {
+    "cohort": "2013-03-01",
+    "month_age": 4,
+    "cohort_size": 1164,
+    "mature": true,
+    "active_buyers": 49,
+    "retention": "0.04209621993127147766"
+  },
+  {
+    "cohort": "2013-03-01",
+    "month_age": 5,
+    "cohort_size": 1164,
+    "mature": true,
+    "active_buyers": 42,
+    "retention": "0.03608247422680412371"
+  },
+  {
+    "cohort": "2013-03-01",
+    "month_age": 6,
+    "cohort_size": 1164,
+    "mature": true,
+    "active_buyers": 36,
+    "retention": "0.03092783505154639175"
+  },
+  {
+    "cohort": "2013-03-01",
+    "month_age": 7,
+    "cohort_size": 1164,
+    "mature": true,
+    "active_buyers": 41,
+    "retention": "0.03522336769759450172"
+  },
+  {
+    "cohort": "2013-03-01",
+    "month_age": 8,
+    "cohort_size": 1164,
+    "mature": true,
+    "active_buyers": 41,
+    "retention": "0.03522336769759450172"
+  },
+  {
+    "cohort": "2013-03-01",
+    "month_age": 9,
+    "cohort_size": 1164,
+    "mature": true,
+    "active_buyers": 40,
+    "retention": "0.03436426116838487973"
+  },
+  {
+    "cohort": "2013-03-01",
+    "month_age": 10,
+    "cohort_size": 1164,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-03-01",
+    "month_age": 11,
+    "cohort_size": 1164,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-03-01",
+    "month_age": 12,
+    "cohort_size": 1164,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-04-01",
+    "month_age": 0,
+    "cohort_size": 1088,
+    "mature": true,
+    "active_buyers": 1088,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2013-04-01",
+    "month_age": 1,
+    "cohort_size": 1088,
+    "mature": true,
+    "active_buyers": 30,
+    "retention": "0.02757352941176470588"
+  },
+  {
+    "cohort": "2013-04-01",
+    "month_age": 2,
+    "cohort_size": 1088,
+    "mature": true,
+    "active_buyers": 38,
+    "retention": "0.03492647058823529412"
+  },
+  {
+    "cohort": "2013-04-01",
+    "month_age": 3,
+    "cohort_size": 1088,
+    "mature": true,
+    "active_buyers": 36,
+    "retention": "0.03308823529411764706"
+  },
+  {
+    "cohort": "2013-04-01",
+    "month_age": 4,
+    "cohort_size": 1088,
+    "mature": true,
+    "active_buyers": 33,
+    "retention": "0.03033088235294117647"
+  },
+  {
+    "cohort": "2013-04-01",
+    "month_age": 5,
+    "cohort_size": 1088,
+    "mature": true,
+    "active_buyers": 35,
+    "retention": "0.03216911764705882353"
+  },
+  {
+    "cohort": "2013-04-01",
+    "month_age": 6,
+    "cohort_size": 1088,
+    "mature": true,
+    "active_buyers": 37,
+    "retention": "0.03400735294117647059"
+  },
+  {
+    "cohort": "2013-04-01",
+    "month_age": 7,
+    "cohort_size": 1088,
+    "mature": true,
+    "active_buyers": 24,
+    "retention": "0.02205882352941176471"
+  },
+  {
+    "cohort": "2013-04-01",
+    "month_age": 8,
+    "cohort_size": 1088,
+    "mature": true,
+    "active_buyers": 30,
+    "retention": "0.02757352941176470588"
+  },
+  {
+    "cohort": "2013-04-01",
+    "month_age": 9,
+    "cohort_size": 1088,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-04-01",
+    "month_age": 10,
+    "cohort_size": 1088,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-04-01",
+    "month_age": 11,
+    "cohort_size": 1088,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-04-01",
+    "month_age": 12,
+    "cohort_size": 1088,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-05-01",
+    "month_age": 0,
+    "cohort_size": 1141,
+    "mature": true,
+    "active_buyers": 1141,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2013-05-01",
+    "month_age": 1,
+    "cohort_size": 1141,
+    "mature": true,
+    "active_buyers": 40,
+    "retention": "0.03505696757230499562"
+  },
+  {
+    "cohort": "2013-05-01",
+    "month_age": 2,
+    "cohort_size": 1141,
+    "mature": true,
+    "active_buyers": 31,
+    "retention": "0.02716914986853637160"
+  },
+  {
+    "cohort": "2013-05-01",
+    "month_age": 3,
+    "cohort_size": 1141,
+    "mature": true,
+    "active_buyers": 40,
+    "retention": "0.03505696757230499562"
+  },
+  {
+    "cohort": "2013-05-01",
+    "month_age": 4,
+    "cohort_size": 1141,
+    "mature": true,
+    "active_buyers": 32,
+    "retention": "0.02804557405784399649"
+  },
+  {
+    "cohort": "2013-05-01",
+    "month_age": 5,
+    "cohort_size": 1141,
+    "mature": true,
+    "active_buyers": 24,
+    "retention": "0.02103418054338299737"
+  },
+  {
+    "cohort": "2013-05-01",
+    "month_age": 6,
+    "cohort_size": 1141,
+    "mature": true,
+    "active_buyers": 38,
+    "retention": "0.03330411919368974584"
+  },
+  {
+    "cohort": "2013-05-01",
+    "month_age": 7,
+    "cohort_size": 1141,
+    "mature": true,
+    "active_buyers": 28,
+    "retention": "0.02453987730061349693"
+  },
+  {
+    "cohort": "2013-05-01",
+    "month_age": 8,
+    "cohort_size": 1141,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-05-01",
+    "month_age": 9,
+    "cohort_size": 1141,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-05-01",
+    "month_age": 10,
+    "cohort_size": 1141,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-05-01",
+    "month_age": 11,
+    "cohort_size": 1141,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-05-01",
+    "month_age": 12,
+    "cohort_size": 1141,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-06-01",
+    "month_age": 0,
+    "cohort_size": 1154,
+    "mature": true,
+    "active_buyers": 1154,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2013-06-01",
+    "month_age": 1,
+    "cohort_size": 1154,
+    "mature": true,
+    "active_buyers": 23,
+    "retention": "0.01993067590987868284"
+  },
+  {
+    "cohort": "2013-06-01",
+    "month_age": 2,
+    "cohort_size": 1154,
+    "mature": true,
+    "active_buyers": 31,
+    "retention": "0.02686308492201039861"
+  },
+  {
+    "cohort": "2013-06-01",
+    "month_age": 3,
+    "cohort_size": 1154,
+    "mature": true,
+    "active_buyers": 37,
+    "retention": "0.03206239168110918544"
+  },
+  {
+    "cohort": "2013-06-01",
+    "month_age": 4,
+    "cohort_size": 1154,
+    "mature": true,
+    "active_buyers": 45,
+    "retention": "0.03899480069324090121"
+  },
+  {
+    "cohort": "2013-06-01",
+    "month_age": 5,
+    "cohort_size": 1154,
+    "mature": true,
+    "active_buyers": 32,
+    "retention": "0.02772963604852686308"
+  },
+  {
+    "cohort": "2013-06-01",
+    "month_age": 6,
+    "cohort_size": 1154,
+    "mature": true,
+    "active_buyers": 32,
+    "retention": "0.02772963604852686308"
+  },
+  {
+    "cohort": "2013-06-01",
+    "month_age": 7,
+    "cohort_size": 1154,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-06-01",
+    "month_age": 8,
+    "cohort_size": 1154,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-06-01",
+    "month_age": 9,
+    "cohort_size": 1154,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-06-01",
+    "month_age": 10,
+    "cohort_size": 1154,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-06-01",
+    "month_age": 11,
+    "cohort_size": 1154,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-06-01",
+    "month_age": 12,
+    "cohort_size": 1154,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-07-01",
+    "month_age": 0,
+    "cohort_size": 1052,
+    "mature": true,
+    "active_buyers": 1052,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2013-07-01",
+    "month_age": 1,
+    "cohort_size": 1052,
+    "mature": true,
+    "active_buyers": 22,
+    "retention": "0.02091254752851711027"
+  },
+  {
+    "cohort": "2013-07-01",
+    "month_age": 2,
+    "cohort_size": 1052,
+    "mature": true,
+    "active_buyers": 29,
+    "retention": "0.02756653992395437262"
+  },
+  {
+    "cohort": "2013-07-01",
+    "month_age": 3,
+    "cohort_size": 1052,
+    "mature": true,
+    "active_buyers": 32,
+    "retention": "0.03041825095057034221"
+  },
+  {
+    "cohort": "2013-07-01",
+    "month_age": 4,
+    "cohort_size": 1052,
+    "mature": true,
+    "active_buyers": 28,
+    "retention": "0.02661596958174904943"
+  },
+  {
+    "cohort": "2013-07-01",
+    "month_age": 5,
+    "cohort_size": 1052,
+    "mature": true,
+    "active_buyers": 44,
+    "retention": "0.04182509505703422053"
+  },
+  {
+    "cohort": "2013-07-01",
+    "month_age": 6,
+    "cohort_size": 1052,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-07-01",
+    "month_age": 7,
+    "cohort_size": 1052,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-07-01",
+    "month_age": 8,
+    "cohort_size": 1052,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-07-01",
+    "month_age": 9,
+    "cohort_size": 1052,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-07-01",
+    "month_age": 10,
+    "cohort_size": 1052,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-07-01",
+    "month_age": 11,
+    "cohort_size": 1052,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-07-01",
+    "month_age": 12,
+    "cohort_size": 1052,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-08-01",
+    "month_age": 0,
+    "cohort_size": 1072,
+    "mature": true,
+    "active_buyers": 1072,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2013-08-01",
+    "month_age": 1,
+    "cohort_size": 1072,
+    "mature": true,
+    "active_buyers": 19,
+    "retention": "0.01772388059701492537"
+  },
+  {
+    "cohort": "2013-08-01",
+    "month_age": 2,
+    "cohort_size": 1072,
+    "mature": true,
+    "active_buyers": 35,
+    "retention": "0.03264925373134328358"
+  },
+  {
+    "cohort": "2013-08-01",
+    "month_age": 3,
+    "cohort_size": 1072,
+    "mature": true,
+    "active_buyers": 24,
+    "retention": "0.02238805970149253731"
+  },
+  {
+    "cohort": "2013-08-01",
+    "month_age": 4,
+    "cohort_size": 1072,
+    "mature": true,
+    "active_buyers": 33,
+    "retention": "0.03078358208955223881"
+  },
+  {
+    "cohort": "2013-08-01",
+    "month_age": 5,
+    "cohort_size": 1072,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-08-01",
+    "month_age": 6,
+    "cohort_size": 1072,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-08-01",
+    "month_age": 7,
+    "cohort_size": 1072,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-08-01",
+    "month_age": 8,
+    "cohort_size": 1072,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-08-01",
+    "month_age": 9,
+    "cohort_size": 1072,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-08-01",
+    "month_age": 10,
+    "cohort_size": 1072,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-08-01",
+    "month_age": 11,
+    "cohort_size": 1072,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-08-01",
+    "month_age": 12,
+    "cohort_size": 1072,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-09-01",
+    "month_age": 0,
+    "cohort_size": 1029,
+    "mature": true,
+    "active_buyers": 1029,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2013-09-01",
+    "month_age": 1,
+    "cohort_size": 1029,
+    "mature": true,
+    "active_buyers": 23,
+    "retention": "0.02235179786200194363"
+  },
+  {
+    "cohort": "2013-09-01",
+    "month_age": 2,
+    "cohort_size": 1029,
+    "mature": true,
+    "active_buyers": 26,
+    "retention": "0.02526724975704567541"
+  },
+  {
+    "cohort": "2013-09-01",
+    "month_age": 3,
+    "cohort_size": 1029,
+    "mature": true,
+    "active_buyers": 32,
+    "retention": "0.03109815354713313897"
+  },
+  {
+    "cohort": "2013-09-01",
+    "month_age": 4,
+    "cohort_size": 1029,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-09-01",
+    "month_age": 5,
+    "cohort_size": 1029,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-09-01",
+    "month_age": 6,
+    "cohort_size": 1029,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-09-01",
+    "month_age": 7,
+    "cohort_size": 1029,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-09-01",
+    "month_age": 8,
+    "cohort_size": 1029,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-09-01",
+    "month_age": 9,
+    "cohort_size": 1029,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-09-01",
+    "month_age": 10,
+    "cohort_size": 1029,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-09-01",
+    "month_age": 11,
+    "cohort_size": 1029,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-09-01",
+    "month_age": 12,
+    "cohort_size": 1029,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-10-01",
+    "month_age": 0,
+    "cohort_size": 1134,
+    "mature": true,
+    "active_buyers": 1134,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2013-10-01",
+    "month_age": 1,
+    "cohort_size": 1134,
+    "mature": true,
+    "active_buyers": 24,
+    "retention": "0.02116402116402116402"
+  },
+  {
+    "cohort": "2013-10-01",
+    "month_age": 2,
+    "cohort_size": 1134,
+    "mature": true,
+    "active_buyers": 23,
+    "retention": "0.02028218694885361552"
+  },
+  {
+    "cohort": "2013-10-01",
+    "month_age": 3,
+    "cohort_size": 1134,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-10-01",
+    "month_age": 4,
+    "cohort_size": 1134,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-10-01",
+    "month_age": 5,
+    "cohort_size": 1134,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-10-01",
+    "month_age": 6,
+    "cohort_size": 1134,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-10-01",
+    "month_age": 7,
+    "cohort_size": 1134,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-10-01",
+    "month_age": 8,
+    "cohort_size": 1134,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-10-01",
+    "month_age": 9,
+    "cohort_size": 1134,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-10-01",
+    "month_age": 10,
+    "cohort_size": 1134,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-10-01",
+    "month_age": 11,
+    "cohort_size": 1134,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-10-01",
+    "month_age": 12,
+    "cohort_size": 1134,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-11-01",
+    "month_age": 0,
+    "cohort_size": 1133,
+    "mature": true,
+    "active_buyers": 1133,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2013-11-01",
+    "month_age": 1,
+    "cohort_size": 1133,
+    "mature": true,
+    "active_buyers": 26,
+    "retention": "0.02294792586054721977"
+  },
+  {
+    "cohort": "2013-11-01",
+    "month_age": 2,
+    "cohort_size": 1133,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-11-01",
+    "month_age": 3,
+    "cohort_size": 1133,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-11-01",
+    "month_age": 4,
+    "cohort_size": 1133,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-11-01",
+    "month_age": 5,
+    "cohort_size": 1133,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-11-01",
+    "month_age": 6,
+    "cohort_size": 1133,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-11-01",
+    "month_age": 7,
+    "cohort_size": 1133,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-11-01",
+    "month_age": 8,
+    "cohort_size": 1133,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-11-01",
+    "month_age": 9,
+    "cohort_size": 1133,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-11-01",
+    "month_age": 10,
+    "cohort_size": 1133,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-11-01",
+    "month_age": 11,
+    "cohort_size": 1133,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-11-01",
+    "month_age": 12,
+    "cohort_size": 1133,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-12-01",
+    "month_age": 0,
+    "cohort_size": 1142,
+    "mature": true,
+    "active_buyers": 1142,
+    "retention": "1.00000000000000000000"
+  },
+  {
+    "cohort": "2013-12-01",
+    "month_age": 1,
+    "cohort_size": 1142,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-12-01",
+    "month_age": 2,
+    "cohort_size": 1142,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-12-01",
+    "month_age": 3,
+    "cohort_size": 1142,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-12-01",
+    "month_age": 4,
+    "cohort_size": 1142,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-12-01",
+    "month_age": 5,
+    "cohort_size": 1142,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-12-01",
+    "month_age": 6,
+    "cohort_size": 1142,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-12-01",
+    "month_age": 7,
+    "cohort_size": 1142,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-12-01",
+    "month_age": 8,
+    "cohort_size": 1142,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-12-01",
+    "month_age": 9,
+    "cohort_size": 1142,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-12-01",
+    "month_age": 10,
+    "cohort_size": 1142,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-12-01",
+    "month_age": 11,
+    "cohort_size": 1142,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2013-12-01",
+    "month_age": 12,
+    "cohort_size": 1142,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2014-01-01",
+    "month_age": 0,
+    "cohort_size": 506,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2014-01-01",
+    "month_age": 1,
+    "cohort_size": 506,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2014-01-01",
+    "month_age": 2,
+    "cohort_size": 506,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2014-01-01",
+    "month_age": 3,
+    "cohort_size": 506,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2014-01-01",
+    "month_age": 4,
+    "cohort_size": 506,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2014-01-01",
+    "month_age": 5,
+    "cohort_size": 506,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2014-01-01",
+    "month_age": 6,
+    "cohort_size": 506,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2014-01-01",
+    "month_age": 7,
+    "cohort_size": 506,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2014-01-01",
+    "month_age": 8,
+    "cohort_size": 506,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2014-01-01",
+    "month_age": 9,
+    "cohort_size": 506,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2014-01-01",
+    "month_age": 10,
+    "cohort_size": 506,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2014-01-01",
+    "month_age": 11,
+    "cohort_size": 506,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  },
+  {
+    "cohort": "2014-01-01",
+    "month_age": 12,
+    "cohort_size": 506,
+    "mature": false,
+    "active_buyers": null,
+    "retention": null
+  }
+]

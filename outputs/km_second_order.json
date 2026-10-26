@@ -1,0 +1,8634 @@
+[
+  {
+    "day": 0,
+    "at_risk": "18482",
+    "events": 8,
+    "censored": 23,
+    "survival": "0.99956714641272589547",
+    "cumulative_repeat": "0.00043285358727410453"
+  },
+  {
+    "day": 1,
+    "at_risk": "18451",
+    "events": 13,
+    "censored": 13,
+    "survival": "0.99886288252982711294",
+    "cumulative_repeat": "0.00113711747017288706"
+  },
+  {
+    "day": 2,
+    "at_risk": "18425",
+    "events": 18,
+    "censored": 20,
+    "survival": "0.99788705990374641345",
+    "cumulative_repeat": "0.00211294009625358655"
+  },
+  {
+    "day": 3,
+    "at_risk": "18387",
+    "events": 12,
+    "censored": 20,
+    "survival": "0.99723580386856694117",
+    "cumulative_repeat": "0.00276419613143305883"
+  },
+  {
+    "day": 4,
+    "at_risk": "18355",
+    "events": 15,
+    "censored": 18,
+    "survival": "0.99642084679648693549",
+    "cumulative_repeat": "0.00357915320351306451"
+  },
+  {
+    "day": 5,
+    "at_risk": "18322",
+    "events": 6,
+    "censored": 22,
+    "survival": "0.99609454371381152224",
+    "cumulative_repeat": "0.00390545628618847776"
+  },
+  {
+    "day": 6,
+    "at_risk": "18294",
+    "events": 16,
+    "censored": 13,
+    "survival": "0.99522335574511025493",
+    "cumulative_repeat": "0.00477664425488974507"
+  },
+  {
+    "day": 7,
+    "at_risk": "18265",
+    "events": 12,
+    "censored": 24,
+    "survival": "0.99456949972162592298",
+    "cumulative_repeat": "0.00543050027837407702"
+  },
+  {
+    "day": 8,
+    "at_risk": "18229",
+    "events": 12,
+    "censored": 14,
+    "survival": "0.99391478284211198854",
+    "cumulative_repeat": "0.00608521715788801146"
+  },
+  {
+    "day": 9,
+    "at_risk": "18203",
+    "events": 17,
+    "censored": 22,
+    "survival": "0.99298655390686417752",
+    "cumulative_repeat": "0.00701344609313582248"
+  },
+  {
+    "day": 10,
+    "at_risk": "18164",
+    "events": 19,
+    "censored": 9,
+    "survival": "0.99194786504294486353",
+    "cumulative_repeat": "0.00805213495705513647"
+  },
+  {
+    "day": 11,
+    "at_risk": "18136",
+    "events": 13,
+    "censored": 21,
+    "survival": "0.99123683051242224094",
+    "cumulative_repeat": "0.00876316948757775906"
+  },
+  {
+    "day": 12,
+    "at_risk": "18102",
+    "events": 10,
+    "censored": 22,
+    "survival": "0.99068924636121661602",
+    "cumulative_repeat": "0.00931075363878338398"
+  },
+  {
+    "day": 13,
+    "at_risk": "18070",
+    "events": 5,
+    "censored": 17,
+    "survival": "0.99041512094717090029",
+    "cumulative_repeat": "0.00958487905282909971"
+  },
+  {
+    "day": 14,
+    "at_risk": "18048",
+    "events": 7,
+    "censored": 25,
+    "survival": "0.99003098387676807471",
+    "cumulative_repeat": "0.00996901612323192529"
+  },
+  {
+    "day": 15,
+    "at_risk": "18016",
+    "events": 18,
+    "censored": 19,
+    "survival": "0.98904183213888053999",
+    "cumulative_repeat": "0.01095816786111946001"
+  },
+  {
+    "day": 16,
+    "at_risk": "17979",
+    "events": 13,
+    "censored": 21,
+    "survival": "0.98832668981629277388",
+    "cumulative_repeat": "0.01167331018370722612"
+  },
+  {
+    "day": 17,
+    "at_risk": "17945",
+    "events": 18,
+    "censored": 19,
+    "survival": "0.98733533398365453092",
+    "cumulative_repeat": "0.01266466601634546908"
+  },
+  {
+    "day": 18,
+    "at_risk": "17908",
+    "events": 6,
+    "censored": 10,
+    "survival": "0.98700453143708864264",
+    "cumulative_repeat": "0.01299546856291135736"
+  },
+  {
+    "day": 19,
+    "at_risk": "17892",
+    "events": 16,
+    "censored": 11,
+    "survival": "0.98612189827684979744",
+    "cumulative_repeat": "0.01387810172315020256"
+  },
+  {
+    "day": 20,
+    "at_risk": "17865",
+    "events": 9,
+    "censored": 14,
+    "survival": "0.98562511142633249275",
+    "cumulative_repeat": "0.01437488857366750725"
+  },
+  {
+    "day": 21,
+    "at_risk": "17842",
+    "events": 18,
+    "censored": 12,
+    "survival": "0.98463075810239605149",
+    "cumulative_repeat": "0.01536924189760394851"
+  },
+  {
+    "day": 22,
+    "at_risk": "17812",
+    "events": 8,
+    "censored": 15,
+    "survival": "0.98418852555889621046",
+    "cumulative_repeat": "0.01581147444110378954"
+  },
+  {
+    "day": 23,
+    "at_risk": "17789",
+    "events": 10,
+    "censored": 30,
+    "survival": "0.98363526875662576457",
+    "cumulative_repeat": "0.01636473124337423543"
+  },
+  {
+    "day": 24,
+    "at_risk": "17749",
+    "events": 9,
+    "censored": 17,
+    "survival": "0.98313649601343969031",
+    "cumulative_repeat": "0.01686350398656030969"
+  },
+  {
+    "day": 25,
+    "at_risk": "17723",
+    "events": 11,
+    "censored": 16,
+    "survival": "0.98252630014049787253",
+    "cumulative_repeat": "0.01747369985950212747"
+  },
+  {
+    "day": 26,
+    "at_risk": "17696",
+    "events": 9,
+    "censored": 20,
+    "survival": "0.98202659756922388514",
+    "cumulative_repeat": "0.01797340243077611486"
+  },
+  {
+    "day": 27,
+    "at_risk": "17667",
+    "events": 7,
+    "censored": 12,
+    "survival": "0.98163750003240469868",
+    "cumulative_repeat": "0.01836249996759530132"
+  },
+  {
+    "day": 28,
+    "at_risk": "17648",
+    "events": 10,
+    "censored": 18,
+    "survival": "0.98108126844807083382",
+    "cumulative_repeat": "0.01891873155192916618"
+  },
+  {
+    "day": 29,
+    "at_risk": "17620",
+    "events": 14,
+    "censored": 21,
+    "survival": "0.98030174871150596483",
+    "cumulative_repeat": "0.01969825128849403517"
+  },
+  {
+    "day": 30,
+    "at_risk": "17585",
+    "events": 14,
+    "censored": 19,
+    "survival": "0.97952129807278199079",
+    "cumulative_repeat": "0.02047870192721800921"
+  },
+  {
+    "day": 31,
+    "at_risk": "17552",
+    "events": 6,
+    "censored": 26,
+    "survival": "0.97918645715502693770",
+    "cumulative_repeat": "0.02081354284497306230"
+  },
+  {
+    "day": 32,
+    "at_risk": "17520",
+    "events": 10,
+    "censored": 29,
+    "survival": "0.97862756077537224196",
+    "cumulative_repeat": "0.02137243922462775804"
+  },
+  {
+    "day": 33,
+    "at_risk": "17481",
+    "events": 17,
+    "censored": 51,
+    "survival": "0.97767586072771013292",
+    "cumulative_repeat": "0.02232413927228986708"
+  },
+  {
+    "day": 34,
+    "at_risk": "17413",
+    "events": 13,
+    "censored": 39,
+    "survival": "0.97694595857475198489",
+    "cumulative_repeat": "0.02305404142524801511"
+  },
+  {
+    "day": 35,
+    "at_risk": "17361",
+    "events": 6,
+    "censored": 33,
+    "survival": "0.97660832389060657206",
+    "cumulative_repeat": "0.02339167610939342794"
+  },
+  {
+    "day": 36,
+    "at_risk": "17322",
+    "events": 11,
+    "censored": 38,
+    "survival": "0.97598814772372072330",
+    "cumulative_repeat": "0.02401185227627927670"
+  },
+  {
+    "day": 37,
+    "at_risk": "17273",
+    "events": 9,
+    "censored": 32,
+    "survival": "0.97547961456043041551",
+    "cumulative_repeat": "0.02452038543956958449"
+  },
+  {
+    "day": 38,
+    "at_risk": "17232",
+    "events": 12,
+    "censored": 29,
+    "survival": "0.97480031120767245561",
+    "cumulative_repeat": "0.02519968879232754439"
+  },
+  {
+    "day": 39,
+    "at_risk": "17191",
+    "events": 9,
+    "censored": 49,
+    "survival": "0.97428997424060427737",
+    "cumulative_repeat": "0.02571002575939572263"
+  },
+  {
+    "day": 40,
+    "at_risk": "17133",
+    "events": 5,
+    "censored": 49,
+    "survival": "0.97400564284089593549",
+    "cumulative_repeat": "0.02599435715910406451"
+  },
+  {
+    "day": 41,
+    "at_risk": "17079",
+    "events": 12,
+    "censored": 38,
+    "survival": "0.97332128967536570823",
+    "cumulative_repeat": "0.02667871032463429177"
+  },
+  {
+    "day": 42,
+    "at_risk": "17029",
+    "events": 4,
+    "censored": 41,
+    "survival": "0.97309266291168601694",
+    "cumulative_repeat": "0.02690733708831398306"
+  },
+  {
+    "day": 43,
+    "at_risk": "16984",
+    "events": 10,
+    "censored": 38,
+    "survival": "0.97251971621896834971",
+    "cumulative_repeat": "0.02748028378103165029"
+  },
+  {
+    "day": 44,
+    "at_risk": "16936",
+    "events": 9,
+    "censored": 46,
+    "survival": "0.97200290720586190692",
+    "cumulative_repeat": "0.02799709279413809308"
+  },
+  {
+    "day": 45,
+    "at_risk": "16881",
+    "events": 11,
+    "censored": 33,
+    "survival": "0.97136953051139685858",
+    "cumulative_repeat": "0.02863046948860314142"
+  },
+  {
+    "day": 46,
+    "at_risk": "16837",
+    "events": 13,
+    "censored": 47,
+    "survival": "0.97061952731031304560",
+    "cumulative_repeat": "0.02938047268968695440"
+  },
+  {
+    "day": 47,
+    "at_risk": "16777",
+    "events": 7,
+    "censored": 54,
+    "survival": "0.97021454807140429008",
+    "cumulative_repeat": "0.02978545192859570992"
+  },
+  {
+    "day": 48,
+    "at_risk": "16716",
+    "events": 9,
+    "censored": 27,
+    "survival": "0.96969217842958551534",
+    "cumulative_repeat": "0.03030782157041448466"
+  },
+  {
+    "day": 49,
+    "at_risk": "16680",
+    "events": 6,
+    "censored": 37,
+    "survival": "0.96934336829345976515",
+    "cumulative_repeat": "0.03065663170654023485"
+  },
+  {
+    "day": 50,
+    "at_risk": "16637",
+    "events": 8,
+    "censored": 33,
+    "survival": "0.96887725379286785085",
+    "cumulative_repeat": "0.03112274620713214915"
+  },
+  {
+    "day": 51,
+    "at_risk": "16596",
+    "events": 8,
+    "censored": 32,
+    "survival": "0.96841021245577801338",
+    "cumulative_repeat": "0.03158978754422198662"
+  },
+  {
+    "day": 52,
+    "at_risk": "16556",
+    "events": 12,
+    "censored": 37,
+    "survival": "0.96770829638006713297",
+    "cumulative_repeat": "0.03229170361993286703"
+  },
+  {
+    "day": 53,
+    "at_risk": "16507",
+    "events": 13,
+    "censored": 35,
+    "survival": "0.96694618286138167391",
+    "cumulative_repeat": "0.03305381713861832609"
+  },
+  {
+    "day": 54,
+    "at_risk": "16459",
+    "events": 11,
+    "censored": 42,
+    "survival": "0.96629994627279942722",
+    "cumulative_repeat": "0.03370005372720057278"
+  },
+  {
+    "day": 55,
+    "at_risk": "16406",
+    "events": 8,
+    "censored": 41,
+    "survival": "0.96582875283319303960",
+    "cumulative_repeat": "0.03417124716680696040"
+  },
+  {
+    "day": 56,
+    "at_risk": "16357",
+    "events": 7,
+    "censored": 48,
+    "survival": "0.96541542512824516705",
+    "cumulative_repeat": "0.03458457487175483295"
+  },
+  {
+    "day": 57,
+    "at_risk": "16302",
+    "events": 11,
+    "censored": 23,
+    "survival": "0.96476399771587793010",
+    "cumulative_repeat": "0.03523600228412206990"
+  },
+  {
+    "day": 58,
+    "at_risk": "16268",
+    "events": 11,
+    "censored": 32,
+    "survival": "0.96411164930335797330",
+    "cumulative_repeat": "0.03588835069664202670"
+  },
+  {
+    "day": 59,
+    "at_risk": "16225",
+    "events": 6,
+    "censored": 33,
+    "survival": "0.96375512111255241719",
+    "cumulative_repeat": "0.03624487888744758281"
+  },
+  {
+    "day": 60,
+    "at_risk": "16186",
+    "events": 16,
+    "censored": 26,
+    "survival": "0.96280244089892330322",
+    "cumulative_repeat": "0.03719755910107669678"
+  },
+  {
+    "day": 61,
+    "at_risk": "16144",
+    "events": 10,
+    "censored": 36,
+    "survival": "0.96220605682998194835",
+    "cumulative_repeat": "0.03779394317001805165"
+  },
+  {
+    "day": 62,
+    "at_risk": "16098",
+    "events": 12,
+    "censored": 39,
+    "survival": "0.96148879551292642695",
+    "cumulative_repeat": "0.03851120448707357305"
+  },
+  {
+    "day": 63,
+    "at_risk": "16047",
+    "events": 10,
+    "censored": 34,
+    "survival": "0.96088962507888085680",
+    "cumulative_repeat": "0.03911037492111914320"
+  },
+  {
+    "day": 64,
+    "at_risk": "16003",
+    "events": 13,
+    "censored": 31,
+    "survival": "0.96010904861659094546",
+    "cumulative_repeat": "0.03989095138340905454"
+  },
+  {
+    "day": 65,
+    "at_risk": "15959",
+    "events": 13,
+    "censored": 41,
+    "survival": "0.95932695590200884870",
+    "cumulative_repeat": "0.04067304409799115130"
+  },
+  {
+    "day": 66,
+    "at_risk": "15905",
+    "events": 10,
+    "censored": 37,
+    "survival": "0.95872379528842695064",
+    "cumulative_repeat": "0.04127620471157304936"
+  },
+  {
+    "day": 67,
+    "at_risk": "15858",
+    "events": 9,
+    "censored": 37,
+    "survival": "0.95817968416737790015",
+    "cumulative_repeat": "0.04182031583262209985"
+  },
+  {
+    "day": 68,
+    "at_risk": "15812",
+    "events": 10,
+    "censored": 26,
+    "survival": "0.95757370156924523010",
+    "cumulative_repeat": "0.04242629843075476990"
+  },
+  {
+    "day": 69,
+    "at_risk": "15776",
+    "events": 12,
+    "censored": 33,
+    "survival": "0.95684532400719965818",
+    "cumulative_repeat": "0.04315467599280034182"
+  },
+  {
+    "day": 70,
+    "at_risk": "15731",
+    "events": 14,
+    "censored": 24,
+    "survival": "0.95599376755585512858",
+    "cumulative_repeat": "0.04400623244414487142"
+  },
+  {
+    "day": 71,
+    "at_risk": "15693",
+    "events": 11,
+    "censored": 38,
+    "survival": "0.95532366423315619234",
+    "cumulative_repeat": "0.04467633576684380766"
+  },
+  {
+    "day": 72,
+    "at_risk": "15644",
+    "events": 12,
+    "censored": 46,
+    "survival": "0.95459086674077586287",
+    "cumulative_repeat": "0.04540913325922413713"
+  },
+  {
+    "day": 73,
+    "at_risk": "15586",
+    "events": 7,
+    "censored": 39,
+    "survival": "0.95416213993035719027",
+    "cumulative_repeat": "0.04583786006964280973"
+  },
+  {
+    "day": 74,
+    "at_risk": "15540",
+    "events": 11,
+    "censored": 36,
+    "survival": "0.95348673558420314078",
+    "cumulative_repeat": "0.04651326441579685922"
+  },
+  {
+    "day": 75,
+    "at_risk": "15493",
+    "events": 12,
+    "censored": 29,
+    "survival": "0.95274821878132374765",
+    "cumulative_repeat": "0.04725178121867625235"
+  },
+  {
+    "day": 76,
+    "at_risk": "15452",
+    "events": 7,
+    "censored": 39,
+    "survival": "0.95231660879352480471",
+    "cumulative_repeat": "0.04768339120647519529"
+  },
+  {
+    "day": 77,
+    "at_risk": "15406",
+    "events": 9,
+    "censored": 45,
+    "survival": "0.95176027687874214061",
+    "cumulative_repeat": "0.04823972312125785939"
+  },
+  {
+    "day": 78,
+    "at_risk": "15352",
+    "events": 10,
+    "censored": 38,
+    "survival": "0.95114031838676797299",
+    "cumulative_repeat": "0.04885968161323202701"
+  },
+  {
+    "day": 79,
+    "at_risk": "15304",
+    "events": 11,
+    "censored": 36,
+    "survival": "0.95045667074548109063",
+    "cumulative_repeat": "0.04954332925451890937"
+  },
+  {
+    "day": 80,
+    "at_risk": "15257",
+    "events": 8,
+    "censored": 39,
+    "survival": "0.94995829928543233604",
+    "cumulative_repeat": "0.05004170071456766396"
+  },
+  {
+    "day": 81,
+    "at_risk": "15210",
+    "events": 11,
+    "censored": 19,
+    "survival": "0.94927128144899974198",
+    "cumulative_repeat": "0.05072871855100025802"
+  },
+  {
+    "day": 82,
+    "at_risk": "15180",
+    "events": 13,
+    "censored": 31,
+    "survival": "0.94845833502878650110",
+    "cumulative_repeat": "0.05154166497121349890"
+  },
+  {
+    "day": 83,
+    "at_risk": "15136",
+    "events": 11,
+    "censored": 46,
+    "survival": "0.94776904844809697602",
+    "cumulative_repeat": "0.05223095155190302398"
+  },
+  {
+    "day": 84,
+    "at_risk": "15079",
+    "events": 7,
+    "censored": 39,
+    "survival": "0.94732907342726424980",
+    "cumulative_repeat": "0.05267092657273575020"
+  },
+  {
+    "day": 85,
+    "at_risk": "15033",
+    "events": 11,
+    "censored": 38,
+    "survival": "0.94663589044265040647",
+    "cumulative_repeat": "0.05336410955734959353"
+  },
+  {
+    "day": 86,
+    "at_risk": "14984",
+    "events": 11,
+    "censored": 34,
+    "survival": "0.94594094951934093273",
+    "cumulative_repeat": "0.05405905048065906727"
+  },
+  {
+    "day": 87,
+    "at_risk": "14939",
+    "events": 10,
+    "censored": 43,
+    "survival": "0.94530774719688337806",
+    "cumulative_repeat": "0.05469225280311662194"
+  },
+  {
+    "day": 88,
+    "at_risk": "14886",
+    "events": 6,
+    "censored": 42,
+    "survival": "0.94492672835480482772",
+    "cumulative_repeat": "0.05507327164519517228"
+  },
+  {
+    "day": 89,
+    "at_risk": "14838",
+    "events": 13,
+    "censored": 33,
+    "survival": "0.94409885077907949663",
+    "cumulative_repeat": "0.05590114922092050337"
+  },
+  {
+    "day": 90,
+    "at_risk": "14792",
+    "events": 17,
+    "censored": 34,
+    "survival": "0.94301382641028255562",
+    "cumulative_repeat": "0.05698617358971744438"
+  },
+  {
+    "day": 91,
+    "at_risk": "14741",
+    "events": 8,
+    "censored": 43,
+    "survival": "0.94250204901313973896",
+    "cumulative_repeat": "0.05749795098686026104"
+  },
+  {
+    "day": 92,
+    "at_risk": "14690",
+    "events": 7,
+    "censored": 43,
+    "survival": "0.94205293299250720130",
+    "cumulative_repeat": "0.05794706700749279870"
+  },
+  {
+    "day": 93,
+    "at_risk": "14640",
+    "events": 16,
+    "censored": 32,
+    "survival": "0.94102336694552085463",
+    "cumulative_repeat": "0.05897663305447914537"
+  },
+  {
+    "day": 94,
+    "at_risk": "14592",
+    "events": 11,
+    "censored": 42,
+    "survival": "0.94031398803677628710",
+    "cumulative_repeat": "0.05968601196322371290"
+  },
+  {
+    "day": 95,
+    "at_risk": "14539",
+    "events": 9,
+    "censored": 28,
+    "survival": "0.93973191045975372802",
+    "cumulative_repeat": "0.06026808954024627198"
+  },
+  {
+    "day": 96,
+    "at_risk": "14502",
+    "events": 7,
+    "censored": 26,
+    "survival": "0.93927830934451319043",
+    "cumulative_repeat": "0.06072169065548680957"
+  },
+  {
+    "day": 97,
+    "at_risk": "14469",
+    "events": 12,
+    "censored": 38,
+    "survival": "0.93849931012465458525",
+    "cumulative_repeat": "0.06150068987534541475"
+  },
+  {
+    "day": 98,
+    "at_risk": "14419",
+    "events": 11,
+    "censored": 30,
+    "survival": "0.93778334560482857787",
+    "cumulative_repeat": "0.06221665439517142213"
+  },
+  {
+    "day": 99,
+    "at_risk": "14378",
+    "events": 2,
+    "censored": 37,
+    "survival": "0.93765289862394043925",
+    "cumulative_repeat": "0.06234710137605956075"
+  },
+  {
+    "day": 100,
+    "at_risk": "14339",
+    "events": 13,
+    "censored": 34,
+    "survival": "0.93680280533416352135",
+    "cumulative_repeat": "0.06319719466583647865"
+  },
+  {
+    "day": 101,
+    "at_risk": "14292",
+    "events": 5,
+    "censored": 28,
+    "survival": "0.93647506855647874543",
+    "cumulative_repeat": "0.06352493144352125457"
+  },
+  {
+    "day": 102,
+    "at_risk": "14259",
+    "events": 14,
+    "censored": 25,
+    "survival": "0.93555560358980571769",
+    "cumulative_repeat": "0.06444439641019428231"
+  },
+  {
+    "day": 103,
+    "at_risk": "14220",
+    "events": 10,
+    "censored": 45,
+    "survival": "0.93489768825676084729",
+    "cumulative_repeat": "0.06510231174323915271"
+  },
+  {
+    "day": 104,
+    "at_risk": "14165",
+    "events": 5,
+    "censored": 30,
+    "survival": "0.93456768554293918798",
+    "cumulative_repeat": "0.06543231445706081202"
+  },
+  {
+    "day": 105,
+    "at_risk": "14130",
+    "events": 10,
+    "censored": 35,
+    "survival": "0.93390627882988686018",
+    "cumulative_repeat": "0.06609372117011313982"
+  },
+  {
+    "day": 106,
+    "at_risk": "14085",
+    "events": 8,
+    "censored": 30,
+    "survival": "0.93337583862891851833",
+    "cumulative_repeat": "0.06662416137108148167"
+  },
+  {
+    "day": 107,
+    "at_risk": "14047",
+    "events": 10,
+    "censored": 40,
+    "survival": "0.93271137230968386430",
+    "cumulative_repeat": "0.06728862769031613570"
+  },
+  {
+    "day": 108,
+    "at_risk": "13997",
+    "events": 10,
+    "censored": 38,
+    "survival": "0.93204500710834808958",
+    "cumulative_repeat": "0.06795499289165191042"
+  },
+  {
+    "day": 109,
+    "at_risk": "13949",
+    "events": 6,
+    "censored": 24,
+    "survival": "0.93164409879645117307",
+    "cumulative_repeat": "0.06835590120354882693"
+  },
+  {
+    "day": 110,
+    "at_risk": "13919",
+    "events": 9,
+    "censored": 30,
+    "survival": "0.93104169942227428819",
+    "cumulative_repeat": "0.06895830057772571181"
+  },
+  {
+    "day": 111,
+    "at_risk": "13880",
+    "events": 9,
+    "censored": 34,
+    "survival": "0.93043799803215898065",
+    "cumulative_repeat": "0.06956200196784101935"
+  },
+  {
+    "day": 112,
+    "at_risk": "13837",
+    "events": 4,
+    "censored": 36,
+    "survival": "0.93016902701299813394",
+    "cumulative_repeat": "0.06983097298700186606"
+  },
+  {
+    "day": 113,
+    "at_risk": "13797",
+    "events": 8,
+    "censored": 35,
+    "survival": "0.92962968134248251568",
+    "cumulative_repeat": "0.07037031865751748432"
+  },
+  {
+    "day": 114,
+    "at_risk": "13754",
+    "events": 7,
+    "censored": 37,
+    "survival": "0.92915655296023754130",
+    "cumulative_repeat": "0.07084344703976245870"
+  },
+  {
+    "day": 115,
+    "at_risk": "13710",
+    "events": 11,
+    "censored": 40,
+    "survival": "0.92841105900819066946",
+    "cumulative_repeat": "0.07158894099180933054"
+  },
+  {
+    "day": 116,
+    "at_risk": "13659",
+    "events": 7,
+    "censored": 31,
+    "survival": "0.92793526448347748880",
+    "cumulative_repeat": "0.07206473551652251120"
+  },
+  {
+    "day": 117,
+    "at_risk": "13621",
+    "events": 14,
+    "censored": 22,
+    "survival": "0.92698150971490185670",
+    "cumulative_repeat": "0.07301849028509814330"
+  },
+  {
+    "day": 118,
+    "at_risk": "13585",
+    "events": 9,
+    "censored": 35,
+    "survival": "0.92636738872944479989",
+    "cumulative_repeat": "0.07363261127055520011"
+  },
+  {
+    "day": 119,
+    "at_risk": "13541",
+    "events": 8,
+    "censored": 42,
+    "survival": "0.92582009243597788029",
+    "cumulative_repeat": "0.07417990756402211971"
+  },
+  {
+    "day": 120,
+    "at_risk": "13491",
+    "events": 6,
+    "censored": 29,
+    "survival": "0.92540834233927519944",
+    "cumulative_repeat": "0.07459165766072480056"
+  },
+  {
+    "day": 121,
+    "at_risk": "13456",
+    "events": 5,
+    "censored": 39,
+    "survival": "0.92506447776498147352",
+    "cumulative_repeat": "0.07493552223501852648"
+  },
+  {
+    "day": 122,
+    "at_risk": "13412",
+    "events": 6,
+    "censored": 21,
+    "survival": "0.92465064039049669206",
+    "cumulative_repeat": "0.07534935960950330794"
+  },
+  {
+    "day": 123,
+    "at_risk": "13385",
+    "events": 8,
+    "censored": 28,
+    "survival": "0.92409799152063311540",
+    "cumulative_repeat": "0.07590200847936688460"
+  },
+  {
+    "day": 124,
+    "at_risk": "13349",
+    "events": 12,
+    "censored": 35,
+    "survival": "0.92326727941498867782",
+    "cumulative_repeat": "0.07673272058501132218"
+  },
+  {
+    "day": 125,
+    "at_risk": "13302",
+    "events": 7,
+    "censored": 31,
+    "survival": "0.92278142232914407395",
+    "cumulative_repeat": "0.07721857767085592605"
+  },
+  {
+    "day": 126,
+    "at_risk": "13264",
+    "events": 6,
+    "censored": 35,
+    "survival": "0.92236400009347045630",
+    "cumulative_repeat": "0.07763599990652954370"
+  },
+  {
+    "day": 127,
+    "at_risk": "13223",
+    "events": 9,
+    "censored": 26,
+    "survival": "0.92173620942563099218",
+    "cumulative_repeat": "0.07826379057436900782"
+  },
+  {
+    "day": 128,
+    "at_risk": "13188",
+    "events": 11,
+    "censored": 31,
+    "survival": "0.92096739699738698695",
+    "cumulative_repeat": "0.07903260300261301305"
+  },
+  {
+    "day": 129,
+    "at_risk": "13146",
+    "events": 11,
+    "censored": 21,
+    "survival": "0.92019677160814529694",
+    "cumulative_repeat": "0.07980322839185470306"
+  },
+  {
+    "day": 130,
+    "at_risk": "13114",
+    "events": 11,
+    "censored": 33,
+    "survival": "0.91942491218404207914",
+    "cumulative_repeat": "0.08057508781595792086"
+  },
+  {
+    "day": 131,
+    "at_risk": "13070",
+    "events": 13,
+    "censored": 30,
+    "survival": "0.91851041150627677332",
+    "cumulative_repeat": "0.08148958849372322668"
+  },
+  {
+    "day": 132,
+    "at_risk": "13027",
+    "events": 13,
+    "censored": 42,
+    "survival": "0.91759380481635725248",
+    "cumulative_repeat": "0.08240619518364274752"
+  },
+  {
+    "day": 133,
+    "at_risk": "12972",
+    "events": 9,
+    "censored": 33,
+    "survival": "0.91695717636713221276",
+    "cumulative_repeat": "0.08304282363286778724"
+  },
+  {
+    "day": 134,
+    "at_risk": "12930",
+    "events": 8,
+    "censored": 34,
+    "survival": "0.91638984014045494611",
+    "cumulative_repeat": "0.08361015985954505389"
+  },
+  {
+    "day": 135,
+    "at_risk": "12888",
+    "events": 3,
+    "censored": 28,
+    "survival": "0.91617652779405353667",
+    "cumulative_repeat": "0.08382347220594646333"
+  },
+  {
+    "day": 136,
+    "at_risk": "12857",
+    "events": 9,
+    "censored": 23,
+    "survival": "0.91553519709870108417",
+    "cumulative_repeat": "0.08446480290129891583"
+  },
+  {
+    "day": 137,
+    "at_risk": "12825",
+    "events": 4,
+    "censored": 31,
+    "survival": "0.91524965005867030020",
+    "cumulative_repeat": "0.08475034994132969980"
+  },
+  {
+    "day": 138,
+    "at_risk": "12790",
+    "events": 15,
+    "censored": 29,
+    "survival": "0.91417625328377741087",
+    "cumulative_repeat": "0.08582374671622258913"
+  },
+  {
+    "day": 139,
+    "at_risk": "12746",
+    "events": 6,
+    "censored": 29,
+    "survival": "0.91374591768675068370",
+    "cumulative_repeat": "0.08625408231324931630"
+  },
+  {
+    "day": 140,
+    "at_risk": "12711",
+    "events": 10,
+    "censored": 37,
+    "survival": "0.91302705534886479692",
+    "cumulative_repeat": "0.08697294465113520308"
+  },
+  {
+    "day": 141,
+    "at_risk": "12664",
+    "events": 8,
+    "censored": 24,
+    "survival": "0.91245028525704618366",
+    "cumulative_repeat": "0.08754971474295381634"
+  },
+  {
+    "day": 142,
+    "at_risk": "12632",
+    "events": 8,
+    "censored": 34,
+    "survival": "0.91187241933858066993",
+    "cumulative_repeat": "0.08812758066141933007"
+  },
+  {
+    "day": 143,
+    "at_risk": "12590",
+    "events": 7,
+    "censored": 37,
+    "survival": "0.91136542117056080775",
+    "cumulative_repeat": "0.08863457882943919225"
+  },
+  {
+    "day": 144,
+    "at_risk": "12546",
+    "events": 9,
+    "censored": 40,
+    "survival": "0.91071164396742554176",
+    "cumulative_repeat": "0.08928835603257445824"
+  },
+  {
+    "day": 145,
+    "at_risk": "12497",
+    "events": 11,
+    "censored": 27,
+    "survival": "0.90991002533226176798",
+    "cumulative_repeat": "0.09008997466773823202"
+  },
+  {
+    "day": 146,
+    "at_risk": "12459",
+    "events": 9,
+    "censored": 32,
+    "survival": "0.90925273419910578789",
+    "cumulative_repeat": "0.09074726580089421211"
+  },
+  {
+    "day": 147,
+    "at_risk": "12418",
+    "events": 8,
+    "censored": 27,
+    "survival": "0.90866696983498975904",
+    "cumulative_repeat": "0.09133303016501024096"
+  },
+  {
+    "day": 148,
+    "at_risk": "12383",
+    "events": 10,
+    "censored": 29,
+    "survival": "0.90793316787275525225",
+    "cumulative_repeat": "0.09206683212724474775"
+  },
+  {
+    "day": 149,
+    "at_risk": "12344",
+    "events": 12,
+    "censored": 32,
+    "survival": "0.90705053679575646230",
+    "cumulative_repeat": "0.09294946320424353770"
+  },
+  {
+    "day": 150,
+    "at_risk": "12300",
+    "events": 10,
+    "censored": 24,
+    "survival": "0.90631309733494690421",
+    "cumulative_repeat": "0.09368690266505309579"
+  },
+  {
+    "day": 151,
+    "at_risk": "12266",
+    "events": 7,
+    "censored": 29,
+    "survival": "0.90579587968605202174",
+    "cumulative_repeat": "0.09420412031394797826"
+  },
+  {
+    "day": 152,
+    "at_risk": "12230",
+    "events": 9,
+    "censored": 39,
+    "survival": "0.90512930871980717561",
+    "cumulative_repeat": "0.09487069128019282439"
+  },
+  {
+    "day": 153,
+    "at_risk": "12182",
+    "events": 5,
+    "censored": 28,
+    "survival": "0.90475780596626924786",
+    "cumulative_repeat": "0.09524219403373075214"
+  },
+  {
+    "day": 154,
+    "at_risk": "12149",
+    "events": 5,
+    "censored": 37,
+    "survival": "0.90438544700422863989",
+    "cumulative_repeat": "0.09561455299577136011"
+  },
+  {
+    "day": 155,
+    "at_risk": "12107",
+    "events": 7,
+    "censored": 36,
+    "survival": "0.90386255131338618506",
+    "cumulative_repeat": "0.09613744868661381494"
+  },
+  {
+    "day": 156,
+    "at_risk": "12064",
+    "events": 8,
+    "censored": 25,
+    "survival": "0.90326317296370887327",
+    "cumulative_repeat": "0.09673682703629112673"
+  },
+  {
+    "day": 157,
+    "at_risk": "12031",
+    "events": 7,
+    "censored": 23,
+    "survival": "0.90273762710627840514",
+    "cumulative_repeat": "0.09726237289372159486"
+  },
+  {
+    "day": 158,
+    "at_risk": "12001",
+    "events": 5,
+    "censored": 31,
+    "survival": "0.90236151777076208215",
+    "cumulative_repeat": "0.09763848222923791785"
+  },
+  {
+    "day": 159,
+    "at_risk": "11965",
+    "events": 8,
+    "censored": 28,
+    "survival": "0.90175818370121205318",
+    "cumulative_repeat": "0.09824181629878794682"
+  },
+  {
+    "day": 160,
+    "at_risk": "11929",
+    "events": 3,
+    "censored": 20,
+    "survival": "0.90153140236571841279",
+    "cumulative_repeat": "0.09846859763428158721"
+  },
+  {
+    "day": 161,
+    "at_risk": "11906",
+    "events": 6,
+    "censored": 31,
+    "survival": "0.90107707778868210248",
+    "cumulative_repeat": "0.09892292221131789752"
+  },
+  {
+    "day": 162,
+    "at_risk": "11869",
+    "events": 8,
+    "censored": 42,
+    "survival": "0.90046972951820359065",
+    "cumulative_repeat": "0.09953027048179640935"
+  },
+  {
+    "day": 163,
+    "at_risk": "11819",
+    "events": 8,
+    "censored": 26,
+    "survival": "0.89986022297482888647",
+    "cumulative_repeat": "0.10013977702517111353"
+  },
+  {
+    "day": 164,
+    "at_risk": "11785",
+    "events": 8,
+    "censored": 35,
+    "survival": "0.89924937174158335137",
+    "cumulative_repeat": "0.10075062825841664863"
+  },
+  {
+    "day": 165,
+    "at_risk": "11742",
+    "events": 11,
+    "censored": 34,
+    "survival": "0.89840694770060588443",
+    "cumulative_repeat": "0.10159305229939411557"
+  },
+  {
+    "day": 166,
+    "at_risk": "11697",
+    "events": 9,
+    "censored": 28,
+    "survival": "0.89771568818711477963",
+    "cumulative_repeat": "0.10228431181288522037"
+  },
+  {
+    "day": 167,
+    "at_risk": "11660",
+    "events": 8,
+    "censored": 28,
+    "survival": "0.89709975975611161340",
+    "cumulative_repeat": "0.10290024024388838660"
+  },
+  {
+    "day": 168,
+    "at_risk": "11624",
+    "events": 9,
+    "censored": 33,
+    "survival": "0.89640517116029218768",
+    "cumulative_repeat": "0.10359482883970781232"
+  },
+  {
+    "day": 169,
+    "at_risk": "11582",
+    "events": 12,
+    "censored": 30,
+    "survival": "0.89547641429153692035",
+    "cumulative_repeat": "0.10452358570846307965"
+  },
+  {
+    "day": 170,
+    "at_risk": "11540",
+    "events": 6,
+    "censored": 36,
+    "survival": "0.89501082863419296701",
+    "cumulative_repeat": "0.10498917136580703299"
+  },
+  {
+    "day": 171,
+    "at_risk": "11498",
+    "events": 12,
+    "censored": 23,
+    "survival": "0.89407674184139332223",
+    "cumulative_repeat": "0.10592325815860667777"
+  },
+  {
+    "day": 172,
+    "at_risk": "11463",
+    "events": 9,
+    "censored": 24,
+    "survival": "0.89337477109406953789",
+    "cumulative_repeat": "0.10662522890593046211"
+  },
+  {
+    "day": 173,
+    "at_risk": "11430",
+    "events": 8,
+    "censored": 29,
+    "survival": "0.89274948691482609465",
+    "cumulative_repeat": "0.10725051308517390535"
+  },
+  {
+    "day": 174,
+    "at_risk": "11393",
+    "events": 7,
+    "censored": 31,
+    "survival": "0.89220097059705169083",
+    "cumulative_repeat": "0.10779902940294830917"
+  },
+  {
+    "day": 175,
+    "at_risk": "11355",
+    "events": 4,
+    "censored": 25,
+    "survival": "0.89188667699226188838",
+    "cumulative_repeat": "0.10811332300773811162"
+  },
+  {
+    "day": 176,
+    "at_risk": "11326",
+    "events": 6,
+    "censored": 34,
+    "survival": "0.89141419596966312701",
+    "cumulative_repeat": "0.10858580403033687299"
+  },
+  {
+    "day": 177,
+    "at_risk": "11286",
+    "events": 8,
+    "censored": 33,
+    "survival": "0.89078232342245797860",
+    "cumulative_repeat": "0.10921767657754202140"
+  },
+  {
+    "day": 178,
+    "at_risk": "11245",
+    "events": 7,
+    "censored": 24,
+    "survival": "0.89022781241632572374",
+    "cumulative_repeat": "0.10977218758367427626"
+  },
+  {
+    "day": 179,
+    "at_risk": "11214",
+    "events": 12,
+    "censored": 33,
+    "survival": "0.88927518768393800226",
+    "cumulative_repeat": "0.11072481231606199774"
+  },
+  {
+    "day": 180,
+    "at_risk": "11169",
+    "events": 8,
+    "censored": 33,
+    "survival": "0.88863822810819518697",
+    "cumulative_repeat": "0.11136177189180481303"
+  },
+  {
+    "day": 181,
+    "at_risk": "11128",
+    "events": 7,
+    "censored": 34,
+    "survival": "0.88807923569295818425",
+    "cumulative_repeat": "0.11192076430704181575"
+  },
+  {
+    "day": 182,
+    "at_risk": "11087",
+    "events": 9,
+    "censored": 34,
+    "survival": "0.88735832714048802788",
+    "cumulative_repeat": "0.11264167285951197212"
+  },
+  {
+    "day": 183,
+    "at_risk": "11044",
+    "events": 9,
+    "censored": 27,
+    "survival": "0.88663519920276035745",
+    "cumulative_repeat": "0.11336480079723964255"
+  },
+  {
+    "day": 184,
+    "at_risk": "11008",
+    "events": 12,
+    "censored": 28,
+    "survival": "0.88566866373851316230",
+    "cumulative_repeat": "0.11433133626148683770"
+  },
+  {
+    "day": 185,
+    "at_risk": "10968",
+    "events": 9,
+    "censored": 32,
+    "survival": "0.88494191155273210664",
+    "cumulative_repeat": "0.11505808844726789336"
+  },
+  {
+    "day": 186,
+    "at_risk": "10927",
+    "events": 7,
+    "censored": 20,
+    "survival": "0.88437500449856635898",
+    "cumulative_repeat": "0.11562499550143364102"
+  },
+  {
+    "day": 187,
+    "at_risk": "10900",
+    "events": 8,
+    "censored": 31,
+    "survival": "0.88372592192645731944",
+    "cumulative_repeat": "0.11627407807354268056"
+  },
+  {
+    "day": 188,
+    "at_risk": "10861",
+    "events": 8,
+    "censored": 32,
+    "survival": "0.88307498671096964257",
+    "cumulative_repeat": "0.11692501328903035743"
+  },
+  {
+    "day": 189,
+    "at_risk": "10821",
+    "events": 12,
+    "censored": 28,
+    "survival": "0.88209569645678503526",
+    "cumulative_repeat": "0.11790430354321496474"
+  },
+  {
+    "day": 190,
+    "at_risk": "10781",
+    "events": 9,
+    "censored": 21,
+    "survival": "0.88135932123481016602",
+    "cumulative_repeat": "0.11864067876518983398"
+  },
+  {
+    "day": 191,
+    "at_risk": "10751",
+    "events": 7,
+    "censored": 20,
+    "survival": "0.88078546622144920692",
+    "cumulative_repeat": "0.11921453377855079308"
+  },
+  {
+    "day": 192,
+    "at_risk": "10724",
+    "events": 9,
+    "censored": 26,
+    "survival": "0.88004627662838756548",
+    "cumulative_repeat": "0.11995372337161243452"
+  },
+  {
+    "day": 193,
+    "at_risk": "10689",
+    "events": 7,
+    "censored": 31,
+    "survival": "0.87946995293707886373",
+    "cumulative_repeat": "0.12053004706292113627"
+  },
+  {
+    "day": 194,
+    "at_risk": "10651",
+    "events": 5,
+    "censored": 27,
+    "survival": "0.87905709501156150439",
+    "cumulative_repeat": "0.12094290498843849561"
+  },
+  {
+    "day": 195,
+    "at_risk": "10619",
+    "events": 6,
+    "censored": 40,
+    "survival": "0.87856040581577382485",
+    "cumulative_repeat": "0.12143959418422617515"
+  },
+  {
+    "day": 196,
+    "at_risk": "10573",
+    "events": 13,
+    "censored": 23,
+    "survival": "0.87748017454029807911",
+    "cumulative_repeat": "0.12251982545970192089"
+  },
+  {
+    "day": 197,
+    "at_risk": "10537",
+    "events": 10,
+    "censored": 31,
+    "survival": "0.87664741362681198432",
+    "cumulative_repeat": "0.12335258637318801568"
+  },
+  {
+    "day": 198,
+    "at_risk": "10496",
+    "events": 5,
+    "censored": 35,
+    "survival": "0.87622980338785104111",
+    "cumulative_repeat": "0.12377019661214895889"
+  },
+  {
+    "day": 199,
+    "at_risk": "10456",
+    "events": 10,
+    "censored": 28,
+    "survival": "0.87539178712600344065",
+    "cumulative_repeat": "0.12460821287399655935"
+  },
+  {
+    "day": 200,
+    "at_risk": "10418",
+    "events": 7,
+    "censored": 20,
+    "survival": "0.87480359913311785569",
+    "cumulative_repeat": "0.12519640086688214431"
+  },
+  {
+    "day": 201,
+    "at_risk": "10391",
+    "events": 6,
+    "censored": 23,
+    "survival": "0.87429846761595890014",
+    "cumulative_repeat": "0.12570153238404109986"
+  },
+  {
+    "day": 202,
+    "at_risk": "10362",
+    "events": 7,
+    "censored": 33,
+    "survival": "0.87370783942899579337",
+    "cumulative_repeat": "0.12629216057100420663"
+  },
+  {
+    "day": 203,
+    "at_risk": "10322",
+    "events": 10,
+    "censored": 36,
+    "survival": "0.87286138734661932002",
+    "cumulative_repeat": "0.12713861265338067998"
+  },
+  {
+    "day": 204,
+    "at_risk": "10276",
+    "events": 6,
+    "censored": 25,
+    "survival": "0.87235173686743678636",
+    "cumulative_repeat": "0.12764826313256321364"
+  },
+  {
+    "day": 205,
+    "at_risk": "10245",
+    "events": 12,
+    "censored": 43,
+    "survival": "0.87132994859584974473",
+    "cumulative_repeat": "0.12867005140415025527"
+  },
+  {
+    "day": 206,
+    "at_risk": "10190",
+    "events": 6,
+    "censored": 32,
+    "survival": "0.87081689857704944066",
+    "cumulative_repeat": "0.12918310142295055934"
+  },
+  {
+    "day": 207,
+    "at_risk": "10152",
+    "events": 8,
+    "censored": 28,
+    "survival": "0.87013067564672867672",
+    "cumulative_repeat": "0.12986932435327132328"
+  },
+  {
+    "day": 208,
+    "at_risk": "10116",
+    "events": 3,
+    "censored": 26,
+    "survival": "0.86987262977613356146",
+    "cumulative_repeat": "0.13012737022386643854"
+  },
+  {
+    "day": 209,
+    "at_risk": "10087",
+    "events": 9,
+    "censored": 17,
+    "survival": "0.86909649676651869064",
+    "cumulative_repeat": "0.13090350323348130936"
+  },
+  {
+    "day": 210,
+    "at_risk": "10061",
+    "events": 12,
+    "censored": 20,
+    "survival": "0.86805990418514524622",
+    "cumulative_repeat": "0.13194009581485475378"
+  },
+  {
+    "day": 211,
+    "at_risk": "10029",
+    "events": 13,
+    "censored": 26,
+    "survival": "0.86693468943248726555",
+    "cumulative_repeat": "0.13306531056751273445"
+  },
+  {
+    "day": 212,
+    "at_risk": "9990",
+    "events": 7,
+    "censored": 21,
+    "survival": "0.86632722768814017737",
+    "cumulative_repeat": "0.13367277231185982263"
+  },
+  {
+    "day": 213,
+    "at_risk": "9962",
+    "events": 5,
+    "censored": 33,
+    "survival": "0.86589241177382169705",
+    "cumulative_repeat": "0.13410758822617830295"
+  },
+  {
+    "day": 214,
+    "at_risk": "9924",
+    "events": 7,
+    "censored": 30,
+    "survival": "0.86528164526007555116",
+    "cumulative_repeat": "0.13471835473992444884"
+  },
+  {
+    "day": 215,
+    "at_risk": "9887",
+    "events": 2,
+    "censored": 40,
+    "survival": "0.86510661104438624692",
+    "cumulative_repeat": "0.13489338895561375308"
+  },
+  {
+    "day": 216,
+    "at_risk": "9845",
+    "events": 5,
+    "censored": 34,
+    "survival": "0.86466724760556228234",
+    "cumulative_repeat": "0.13533275239443771766"
+  },
+  {
+    "day": 217,
+    "at_risk": "9806",
+    "events": 6,
+    "censored": 26,
+    "survival": "0.86413818341163679043",
+    "cumulative_repeat": "0.13586181658836320957"
+  },
+  {
+    "day": 218,
+    "at_risk": "9774",
+    "events": 4,
+    "censored": 45,
+    "survival": "0.86378453569998889324",
+    "cumulative_repeat": "0.13621546430001110676"
+  },
+  {
+    "day": 219,
+    "at_risk": "9725",
+    "events": 9,
+    "censored": 28,
+    "survival": "0.86298514641245162845",
+    "cumulative_repeat": "0.13701485358754837155"
+  },
+  {
+    "day": 220,
+    "at_risk": "9688",
+    "events": 8,
+    "censored": 28,
+    "survival": "0.86227252449138436865",
+    "cumulative_repeat": "0.13772747550861563135"
+  },
+  {
+    "day": 221,
+    "at_risk": "9652",
+    "events": 14,
+    "censored": 33,
+    "survival": "0.86102181838457962547",
+    "cumulative_repeat": "0.13897818161542037453"
+  },
+  {
+    "day": 222,
+    "at_risk": "9605",
+    "events": 10,
+    "censored": 20,
+    "survival": "0.86012538754815632549",
+    "cumulative_repeat": "0.13987461245184367451"
+  },
+  {
+    "day": 223,
+    "at_risk": "9575",
+    "events": 11,
+    "censored": 26,
+    "survival": "0.85913725394366236000",
+    "cumulative_repeat": "0.14086274605633764000"
+  },
+  {
+    "day": 224,
+    "at_risk": "9538",
+    "events": 11,
+    "censored": 32,
+    "survival": "0.85814642674787914696",
+    "cumulative_repeat": "0.14185357325212085304"
+  },
+  {
+    "day": 225,
+    "at_risk": "9495",
+    "events": 16,
+    "censored": 27,
+    "survival": "0.85670036641844617526",
+    "cumulative_repeat": "0.14329963358155382474"
+  },
+  {
+    "day": 226,
+    "at_risk": "9452",
+    "events": 6,
+    "censored": 34,
+    "survival": "0.85615654477239130041",
+    "cumulative_repeat": "0.14384345522760869959"
+  },
+  {
+    "day": 227,
+    "at_risk": "9412",
+    "events": 4,
+    "censored": 36,
+    "survival": "0.85579268733729891141",
+    "cumulative_repeat": "0.14420731266270108859"
+  },
+  {
+    "day": 228,
+    "at_risk": "9372",
+    "events": 9,
+    "censored": 32,
+    "survival": "0.85497086337378678058",
+    "cumulative_repeat": "0.14502913662621321942"
+  },
+  {
+    "day": 229,
+    "at_risk": "9331",
+    "events": 5,
+    "censored": 49,
+    "survival": "0.85451272873474820659",
+    "cumulative_repeat": "0.14548727126525179341"
+  },
+  {
+    "day": 230,
+    "at_risk": "9277",
+    "events": 5,
+    "censored": 33,
+    "survival": "0.85405217428355991931",
+    "cumulative_repeat": "0.14594782571644008069"
+  },
+  {
+    "day": 231,
+    "at_risk": "9239",
+    "events": 5,
+    "censored": 36,
+    "survival": "0.85358997481701399447",
+    "cumulative_repeat": "0.14641002518298600553"
+  },
+  {
+    "day": 232,
+    "at_risk": "9198",
+    "events": 6,
+    "censored": 33,
+    "survival": "0.85303316465731600752",
+    "cumulative_repeat": "0.14696683534268399248"
+  },
+  {
+    "day": 233,
+    "at_risk": "9159",
+    "events": 7,
+    "censored": 38,
+    "survival": "0.85238121224410482595",
+    "cumulative_repeat": "0.14761878775589517405"
+  },
+  {
+    "day": 234,
+    "at_risk": "9114",
+    "events": 8,
+    "censored": 28,
+    "survival": "0.85163301719276042847",
+    "cumulative_repeat": "0.14836698280723957153"
+  },
+  {
+    "day": 235,
+    "at_risk": "9078",
+    "events": 6,
+    "censored": 27,
+    "survival": "0.85107014011596415587",
+    "cumulative_repeat": "0.14892985988403584413"
+  },
+  {
+    "day": 236,
+    "at_risk": "9045",
+    "events": 9,
+    "censored": 32,
+    "survival": "0.85022330415564976367",
+    "cumulative_repeat": "0.14977669584435023633"
+  },
+  {
+    "day": 237,
+    "at_risk": "9004",
+    "events": 6,
+    "censored": 40,
+    "survival": "0.84965674042564822007",
+    "cumulative_repeat": "0.15034325957435177993"
+  },
+  {
+    "day": 238,
+    "at_risk": "8958",
+    "events": 8,
+    "censored": 37,
+    "survival": "0.84889794896288809663",
+    "cumulative_repeat": "0.15110205103711190337"
+  },
+  {
+    "day": 239,
+    "at_risk": "8913",
+    "events": 6,
+    "censored": 29,
+    "survival": "0.84832649292184946445",
+    "cumulative_repeat": "0.15167350707815053555"
+  },
+  {
+    "day": 240,
+    "at_risk": "8878",
+    "events": 5,
+    "censored": 32,
+    "survival": "0.84784872400265491080",
+    "cumulative_repeat": "0.15215127599734508920"
+  },
+  {
+    "day": 241,
+    "at_risk": "8841",
+    "events": 3,
+    "censored": 28,
+    "survival": "0.84756102508036015175",
+    "cumulative_repeat": "0.15243897491963984825"
+  },
+  {
+    "day": 242,
+    "at_risk": "8810",
+    "events": 8,
+    "censored": 28,
+    "survival": "0.84679138964328377476",
+    "cumulative_repeat": "0.15320861035671622524"
+  },
+  {
+    "day": 243,
+    "at_risk": "8774",
+    "events": 6,
+    "censored": 39,
+    "survival": "0.84621232099296924289",
+    "cumulative_repeat": "0.15378767900703075711"
+  },
+  {
+    "day": 244,
+    "at_risk": "8729",
+    "events": 12,
+    "censored": 36,
+    "survival": "0.84504900929037838129",
+    "cumulative_repeat": "0.15495099070962161871"
+  },
+  {
+    "day": 245,
+    "at_risk": "8681",
+    "events": 6,
+    "censored": 34,
+    "survival": "0.84446494131943698396",
+    "cumulative_repeat": "0.15553505868056301604"
+  },
+  {
+    "day": 246,
+    "at_risk": "8641",
+    "events": 9,
+    "censored": 43,
+    "survival": "0.84358539213856961527",
+    "cumulative_repeat": "0.15641460786143038473"
+  },
+  {
+    "day": 247,
+    "at_risk": "8589",
+    "events": 16,
+    "censored": 30,
+    "survival": "0.84201392092257041701",
+    "cumulative_repeat": "0.15798607907742958299"
+  },
+  {
+    "day": 248,
+    "at_risk": "8543",
+    "events": 8,
+    "censored": 26,
+    "survival": "0.84122542608850971663",
+    "cumulative_repeat": "0.15877457391149028337"
+  },
+  {
+    "day": 249,
+    "at_risk": "8509",
+    "events": 6,
+    "censored": 19,
+    "survival": "0.84063224797633072283",
+    "cumulative_repeat": "0.15936775202366927717"
+  },
+  {
+    "day": 250,
+    "at_risk": "8484",
+    "events": 6,
+    "censored": 30,
+    "survival": "0.84003774143603628809",
+    "cumulative_repeat": "0.15996225856396371191"
+  },
+  {
+    "day": 251,
+    "at_risk": "8448",
+    "events": 10,
+    "censored": 26,
+    "survival": "0.83904337857922279817",
+    "cumulative_repeat": "0.16095662142077720183"
+  },
+  {
+    "day": 252,
+    "at_risk": "8412",
+    "events": 10,
+    "censored": 29,
+    "survival": "0.83804594232318473017",
+    "cumulative_repeat": "0.16195405767681526983"
+  },
+  {
+    "day": 253,
+    "at_risk": "8373",
+    "events": 6,
+    "censored": 32,
+    "survival": "0.83744540778909430758",
+    "cumulative_repeat": "0.16255459221090569242"
+  },
+  {
+    "day": 254,
+    "at_risk": "8335",
+    "events": 14,
+    "censored": 22,
+    "survival": "0.83603878082940056789",
+    "cumulative_repeat": "0.16396121917059943211"
+  },
+  {
+    "day": 255,
+    "at_risk": "8299",
+    "events": 8,
+    "censored": 32,
+    "survival": "0.83523286321925052518",
+    "cumulative_repeat": "0.16476713678074947482"
+  },
+  {
+    "day": 256,
+    "at_risk": "8259",
+    "events": 9,
+    "censored": 30,
+    "survival": "0.83432269300869558454",
+    "cumulative_repeat": "0.16567730699130441546"
+  },
+  {
+    "day": 257,
+    "at_risk": "8220",
+    "events": 11,
+    "censored": 37,
+    "survival": "0.83320620278690779240",
+    "cumulative_repeat": "0.16679379721309220760"
+  },
+  {
+    "day": 258,
+    "at_risk": "8172",
+    "events": 9,
+    "censored": 27,
+    "survival": "0.83228857481027022875",
+    "cumulative_repeat": "0.16771142518972977125"
+  },
+  {
+    "day": 259,
+    "at_risk": "8136",
+    "events": 5,
+    "censored": 30,
+    "survival": "0.83177708969792370083",
+    "cumulative_repeat": "0.16822291030207629917"
+  },
+  {
+    "day": 260,
+    "at_risk": "8101",
+    "events": 9,
+    "censored": 31,
+    "survival": "0.83085300701587440898",
+    "cumulative_repeat": "0.16914699298412559102"
+  },
+  {
+    "day": 261,
+    "at_risk": "8061",
+    "events": 7,
+    "censored": 26,
+    "survival": "0.83013151203397252077",
+    "cumulative_repeat": "0.16986848796602747923"
+  },
+  {
+    "day": 262,
+    "at_risk": "8028",
+    "events": 5,
+    "censored": 24,
+    "survival": "0.82961448941810681791",
+    "cumulative_repeat": "0.17038551058189318209"
+  },
+  {
+    "day": 263,
+    "at_risk": "7999",
+    "events": 6,
+    "censored": 25,
+    "survival": "0.82899220076496159464",
+    "cumulative_repeat": "0.17100779923503840536"
+  },
+  {
+    "day": 264,
+    "at_risk": "7968",
+    "events": 0,
+    "censored": 22,
+    "survival": "0.82899220076496159464",
+    "cumulative_repeat": "0.17100779923503840536"
+  },
+  {
+    "day": 265,
+    "at_risk": "7946",
+    "events": 7,
+    "censored": 30,
+    "survival": "0.82826190307991821039",
+    "cumulative_repeat": "0.17173809692008178961"
+  },
+  {
+    "day": 266,
+    "at_risk": "7909",
+    "events": 13,
+    "censored": 23,
+    "survival": "0.82690049142989432157",
+    "cumulative_repeat": "0.17309950857010567843"
+  },
+  {
+    "day": 267,
+    "at_risk": "7873",
+    "events": 10,
+    "censored": 31,
+    "survival": "0.82585019231719281729",
+    "cumulative_repeat": "0.17414980768280718271"
+  },
+  {
+    "day": 268,
+    "at_risk": "7832",
+    "events": 5,
+    "censored": 30,
+    "survival": "0.82532296415560114669",
+    "cumulative_repeat": "0.17467703584439885331"
+  },
+  {
+    "day": 269,
+    "at_risk": "7797",
+    "events": 6,
+    "censored": 31,
+    "survival": "0.82468785606467725200",
+    "cumulative_repeat": "0.17531214393532274800"
+  },
+  {
+    "day": 270,
+    "at_risk": "7760",
+    "events": 6,
+    "censored": 32,
+    "survival": "0.82405021081514270774",
+    "cumulative_repeat": "0.17594978918485729226"
+  },
+  {
+    "day": 271,
+    "at_risk": "7722",
+    "events": 9,
+    "censored": 30,
+    "survival": "0.82308977933400617778",
+    "cumulative_repeat": "0.17691022066599382222"
+  },
+  {
+    "day": 272,
+    "at_risk": "7683",
+    "events": 4,
+    "censored": 28,
+    "survival": "0.82266125413325959119",
+    "cumulative_repeat": "0.17733874586674040881"
+  },
+  {
+    "day": 273,
+    "at_risk": "7651",
+    "events": 8,
+    "censored": 25,
+    "survival": "0.82180106722526507064",
+    "cumulative_repeat": "0.17819893277473492936"
+  },
+  {
+    "day": 274,
+    "at_risk": "7618",
+    "events": 10,
+    "censored": 29,
+    "survival": "0.82072230499472521101",
+    "cumulative_repeat": "0.17927769500527478899"
+  },
+  {
+    "day": 275,
+    "at_risk": "7579",
+    "events": 5,
+    "censored": 25,
+    "survival": "0.82018086001188134954",
+    "cumulative_repeat": "0.17981913998811865046"
+  },
+  {
+    "day": 276,
+    "at_risk": "7549",
+    "events": 10,
+    "censored": 31,
+    "survival": "0.81909438384283660010",
+    "cumulative_repeat": "0.18090561615716339990"
+  },
+  {
+    "day": 277,
+    "at_risk": "7508",
+    "events": 5,
+    "censored": 27,
+    "survival": "0.81854890276675586182",
+    "cumulative_repeat": "0.18145109723324413818"
+  },
+  {
+    "day": 278,
+    "at_risk": "7476",
+    "events": 7,
+    "censored": 21,
+    "survival": "0.81778247120985815034",
+    "cumulative_repeat": "0.18221752879014184966"
+  },
+  {
+    "day": 279,
+    "at_risk": "7448",
+    "events": 7,
+    "censored": 31,
+    "survival": "0.81701387866172858440",
+    "cumulative_repeat": "0.18298612133827141560"
+  },
+  {
+    "day": 280,
+    "at_risk": "7410",
+    "events": 6,
+    "censored": 28,
+    "survival": "0.81635232896240734668",
+    "cumulative_repeat": "0.18364767103759265332"
+  },
+  {
+    "day": 281,
+    "at_risk": "7376",
+    "events": 3,
+    "censored": 24,
+    "survival": "0.81602029845984671463",
+    "cumulative_repeat": "0.18397970154015328537"
+  },
+  {
+    "day": 282,
+    "at_risk": "7349",
+    "events": 7,
+    "censored": 36,
+    "survival": "0.81524303052009723484",
+    "cumulative_repeat": "0.18475696947990276516"
+  },
+  {
+    "day": 283,
+    "at_risk": "7306",
+    "events": 6,
+    "censored": 33,
+    "survival": "0.81457351803951681006",
+    "cumulative_repeat": "0.18542648196048318994"
+  },
+  {
+    "day": 284,
+    "at_risk": "7267",
+    "events": 10,
+    "censored": 26,
+    "survival": "0.81345259672667861437",
+    "cumulative_repeat": "0.18654740327332138563"
+  },
+  {
+    "day": 285,
+    "at_risk": "7231",
+    "events": 8,
+    "censored": 31,
+    "survival": "0.81255263534183372031",
+    "cumulative_repeat": "0.18744736465816627969"
+  },
+  {
+    "day": 286,
+    "at_risk": "7192",
+    "events": 4,
+    "censored": 22,
+    "survival": "0.81210071507746117653",
+    "cumulative_repeat": "0.18789928492253882347"
+  },
+  {
+    "day": 287,
+    "at_risk": "7166",
+    "events": 8,
+    "censored": 30,
+    "survival": "0.81119409971036381546",
+    "cumulative_repeat": "0.18880590028963618454"
+  },
+  {
+    "day": 288,
+    "at_risk": "7128",
+    "events": 10,
+    "censored": 20,
+    "survival": "0.81005606084993962380",
+    "cumulative_repeat": "0.18994393915006037620"
+  },
+  {
+    "day": 289,
+    "at_risk": "7098",
+    "events": 8,
+    "censored": 23,
+    "survival": "0.80914306444436065550",
+    "cumulative_repeat": "0.19085693555563934450"
+  },
+  {
+    "day": 290,
+    "at_risk": "7067",
+    "events": 4,
+    "censored": 34,
+    "survival": "0.80868508053919899671",
+    "cumulative_repeat": "0.19131491946080100329"
+  },
+  {
+    "day": 291,
+    "at_risk": "7029",
+    "events": 5,
+    "censored": 35,
+    "survival": "0.80810983151334951670",
+    "cumulative_repeat": "0.19189016848665048330"
+  },
+  {
+    "day": 292,
+    "at_risk": "6989",
+    "events": 11,
+    "censored": 18,
+    "survival": "0.80683794595795577730",
+    "cumulative_repeat": "0.19316205404204422270"
+  },
+  {
+    "day": 293,
+    "at_risk": "6960",
+    "events": 6,
+    "censored": 25,
+    "survival": "0.80614239600454374645",
+    "cumulative_repeat": "0.19385760399545625355"
+  },
+  {
+    "day": 294,
+    "at_risk": "6929",
+    "events": 7,
+    "censored": 23,
+    "survival": "0.80532799323761752244",
+    "cumulative_repeat": "0.19467200676238247756"
+  },
+  {
+    "day": 295,
+    "at_risk": "6899",
+    "events": 6,
+    "censored": 31,
+    "survival": "0.80462760652078527065",
+    "cumulative_repeat": "0.19537239347921472935"
+  },
+  {
+    "day": 296,
+    "at_risk": "6862",
+    "events": 4,
+    "censored": 31,
+    "survival": "0.80415857264930710960",
+    "cumulative_repeat": "0.19584142735069289040"
+  },
+  {
+    "day": 297,
+    "at_risk": "6827",
+    "events": 10,
+    "censored": 35,
+    "survival": "0.80298066350524777591",
+    "cumulative_repeat": "0.19701933649475222409"
+  },
+  {
+    "day": 298,
+    "at_risk": "6782",
+    "events": 8,
+    "censored": 28,
+    "survival": "0.80203347310300035890",
+    "cumulative_repeat": "0.19796652689699964110"
+  },
+  {
+    "day": 299,
+    "at_risk": "6746",
+    "events": 2,
+    "censored": 41,
+    "survival": "0.80179569264847827163",
+    "cumulative_repeat": "0.19820430735152172837"
+  },
+  {
+    "day": 300,
+    "at_risk": "6703",
+    "events": 6,
+    "censored": 28,
+    "survival": "0.80107798801534521634",
+    "cumulative_repeat": "0.19892201198465478366"
+  },
+  {
+    "day": 301,
+    "at_risk": "6669",
+    "events": 6,
+    "censored": 31,
+    "survival": "0.80035727007740968308",
+    "cumulative_repeat": "0.19964272992259031692"
+  },
+  {
+    "day": 302,
+    "at_risk": "6632",
+    "events": 11,
+    "censored": 30,
+    "survival": "0.79902977762100867185",
+    "cumulative_repeat": "0.20097022237899132815"
+  },
+  {
+    "day": 303,
+    "at_risk": "6591",
+    "events": 6,
+    "censored": 31,
+    "survival": "0.79830239502872737128",
+    "cumulative_repeat": "0.20169760497127262872"
+  },
+  {
+    "day": 304,
+    "at_risk": "6554",
+    "events": 5,
+    "censored": 30,
+    "survival": "0.79769337580761909589",
+    "cumulative_repeat": "0.20230662419238090411"
+  },
+  {
+    "day": 305,
+    "at_risk": "6519",
+    "events": 11,
+    "censored": 23,
+    "survival": "0.79634736765700031847",
+    "cumulative_repeat": "0.20365263234299968153"
+  },
+  {
+    "day": 306,
+    "at_risk": "6485",
+    "events": 14,
+    "censored": 21,
+    "survival": "0.79462819061040078039",
+    "cumulative_repeat": "0.20537180938959921961"
+  },
+  {
+    "day": 307,
+    "at_risk": "6450",
+    "events": 8,
+    "censored": 28,
+    "survival": "0.79364260525770570966",
+    "cumulative_repeat": "0.20635739474229429034"
+  },
+  {
+    "day": 308,
+    "at_risk": "6414",
+    "events": 9,
+    "censored": 31,
+    "survival": "0.79252898139625897575",
+    "cumulative_repeat": "0.20747101860374102425"
+  },
+  {
+    "day": 309,
+    "at_risk": "6374",
+    "events": 5,
+    "censored": 34,
+    "survival": "0.79190729251847715980",
+    "cumulative_repeat": "0.20809270748152284020"
+  },
+  {
+    "day": 310,
+    "at_risk": "6335",
+    "events": 7,
+    "censored": 28,
+    "survival": "0.79103225683613630106",
+    "cumulative_repeat": "0.20896774316386369894"
+  },
+  {
+    "day": 311,
+    "at_risk": "6300",
+    "events": 8,
+    "censored": 26,
+    "survival": "0.79002777143063009624",
+    "cumulative_repeat": "0.20997222856936990376"
+  },
+  {
+    "day": 312,
+    "at_risk": "6266",
+    "events": 14,
+    "censored": 29,
+    "survival": "0.78826262798983392302",
+    "cumulative_repeat": "0.21173737201016607698"
+  },
+  {
+    "day": 313,
+    "at_risk": "6223",
+    "events": 11,
+    "censored": 28,
+    "survival": "0.78686926644268814556",
+    "cumulative_repeat": "0.21313073355731185444"
+  },
+  {
+    "day": 314,
+    "at_risk": "6184",
+    "events": 6,
+    "censored": 29,
+    "survival": "0.78610580984523404969",
+    "cumulative_repeat": "0.21389419015476595031"
+  },
+  {
+    "day": 315,
+    "at_risk": "6149",
+    "events": 5,
+    "censored": 30,
+    "survival": "0.78546659549343275350",
+    "cumulative_repeat": "0.21453340450656724650"
+  },
+  {
+    "day": 316,
+    "at_risk": "6114",
+    "events": 12,
+    "censored": 32,
+    "survival": "0.78392495350031512298",
+    "cumulative_repeat": "0.21607504649968487702"
+  },
+  {
+    "day": 317,
+    "at_risk": "6070",
+    "events": 8,
+    "censored": 30,
+    "survival": "0.78289177398993579497",
+    "cumulative_repeat": "0.21710822601006420503"
+  },
+  {
+    "day": 318,
+    "at_risk": "6032",
+    "events": 6,
+    "censored": 26,
+    "survival": "0.78211303548795641587",
+    "cumulative_repeat": "0.21788696451204358413"
+  },
+  {
+    "day": 319,
+    "at_risk": "6000",
+    "events": 12,
+    "censored": 26,
+    "survival": "0.78054880941698050304",
+    "cumulative_repeat": "0.21945119058301949696"
+  },
+  {
+    "day": 320,
+    "at_risk": "5962",
+    "events": 11,
+    "censored": 25,
+    "survival": "0.77910868246233662757",
+    "cumulative_repeat": "0.22089131753766337243"
+  },
+  {
+    "day": 321,
+    "at_risk": "5926",
+    "events": 13,
+    "censored": 32,
+    "survival": "0.77739953415453872407",
+    "cumulative_repeat": "0.22260046584546127593"
+  },
+  {
+    "day": 322,
+    "at_risk": "5881",
+    "events": 11,
+    "censored": 28,
+    "survival": "0.77594546258920971099",
+    "cumulative_repeat": "0.22405453741079028901"
+  },
+  {
+    "day": 323,
+    "at_risk": "5842",
+    "events": 6,
+    "censored": 28,
+    "survival": "0.77514853126850870820",
+    "cumulative_repeat": "0.22485146873149129180"
+  },
+  {
+    "day": 324,
+    "at_risk": "5808",
+    "events": 11,
+    "censored": 23,
+    "survival": "0.77368044692898501747",
+    "cumulative_repeat": "0.22631955307101498253"
+  },
+  {
+    "day": 325,
+    "at_risk": "5774",
+    "events": 12,
+    "censored": 17,
+    "survival": "0.77207252081829090243",
+    "cumulative_repeat": "0.22792747918170909757"
+  },
+  {
+    "day": 326,
+    "at_risk": "5745",
+    "events": 18,
+    "censored": 34,
+    "survival": "0.76965349464340330691",
+    "cumulative_repeat": "0.23034650535659669309"
+  },
+  {
+    "day": 327,
+    "at_risk": "5693",
+    "events": 16,
+    "censored": 27,
+    "survival": "0.76749040735826463610",
+    "cumulative_repeat": "0.23250959264173536390"
+  },
+  {
+    "day": 328,
+    "at_risk": "5650",
+    "events": 11,
+    "censored": 31,
+    "survival": "0.76599617824659367840",
+    "cumulative_repeat": "0.23400382175340632160"
+  },
+  {
+    "day": 329,
+    "at_risk": "5608",
+    "events": 6,
+    "censored": 27,
+    "survival": "0.76517663882621572511",
+    "cumulative_repeat": "0.23482336117378427489"
+  },
+  {
+    "day": 330,
+    "at_risk": "5575",
+    "events": 7,
+    "censored": 20,
+    "survival": "0.76421587892096307756",
+    "cumulative_repeat": "0.23578412107903692244"
+  },
+  {
+    "day": 331,
+    "at_risk": "5548",
+    "events": 10,
+    "censored": 37,
+    "survival": "0.76283841699068015926",
+    "cumulative_repeat": "0.23716158300931984074"
+  },
+  {
+    "day": 332,
+    "at_risk": "5501",
+    "events": 11,
+    "censored": 31,
+    "survival": "0.76131301750206036617",
+    "cumulative_repeat": "0.23868698249793963383"
+  },
+  {
+    "day": 333,
+    "at_risk": "5459",
+    "events": 10,
+    "censored": 27,
+    "survival": "0.75991841589461933235",
+    "cumulative_repeat": "0.24008158410538066765"
+  },
+  {
+    "day": 334,
+    "at_risk": "5422",
+    "events": 18,
+    "censored": 21,
+    "survival": "0.75739563251466670453",
+    "cumulative_repeat": "0.24260436748533329547"
+  },
+  {
+    "day": 335,
+    "at_risk": "5383",
+    "events": 15,
+    "censored": 27,
+    "survival": "0.75528511152493607095",
+    "cumulative_repeat": "0.24471488847506392905"
+  },
+  {
+    "day": 336,
+    "at_risk": "5341",
+    "events": 13,
+    "censored": 28,
+    "survival": "0.75344674671500831044",
+    "cumulative_repeat": "0.24655325328499168956"
+  },
+  {
+    "day": 337,
+    "at_risk": "5300",
+    "events": 13,
+    "censored": 27,
+    "survival": "0.75159866978910357308",
+    "cumulative_repeat": "0.24840133021089642692"
+  },
+  {
+    "day": 338,
+    "at_risk": "5260",
+    "events": 17,
+    "censored": 26,
+    "survival": "0.74916954861297909384",
+    "cumulative_repeat": "0.25083045138702090616"
+  },
+  {
+    "day": 339,
+    "at_risk": "5217",
+    "events": 21,
+    "censored": 30,
+    "survival": "0.74615391500729142642",
+    "cumulative_repeat": "0.25384608499270857358"
+  },
+  {
+    "day": 340,
+    "at_risk": "5166",
+    "events": 8,
+    "censored": 30,
+    "survival": "0.74499843081835253144",
+    "cumulative_repeat": "0.25500156918164746856"
+  },
+  {
+    "day": 341,
+    "at_risk": "5128",
+    "events": 10,
+    "censored": 27,
+    "survival": "0.74354562576605465210",
+    "cumulative_repeat": "0.25645437423394534790"
+  },
+  {
+    "day": 342,
+    "at_risk": "5091",
+    "events": 15,
+    "censored": 28,
+    "survival": "0.74135486081093958241",
+    "cumulative_repeat": "0.25864513918906041759"
+  },
+  {
+    "day": 343,
+    "at_risk": "5048",
+    "events": 10,
+    "censored": 18,
+    "survival": "0.73988624975545039940",
+    "cumulative_repeat": "0.26011375024454960060"
+  },
+  {
+    "day": 344,
+    "at_risk": "5020",
+    "events": 11,
+    "censored": 20,
+    "survival": "0.73826498506475120529",
+    "cumulative_repeat": "0.26173501493524879471"
+  },
+  {
+    "day": 345,
+    "at_risk": "4989",
+    "events": 10,
+    "censored": 29,
+    "survival": "0.73678519956652560656",
+    "cumulative_repeat": "0.26321480043347439344"
+  },
+  {
+    "day": 346,
+    "at_risk": "4950",
+    "events": 18,
+    "censored": 26,
+    "survival": "0.73410598065901096799",
+    "cumulative_repeat": "0.26589401934098903201"
+  },
+  {
+    "day": 347,
+    "at_risk": "4906",
+    "events": 9,
+    "censored": 41,
+    "survival": "0.73275927176664833067",
+    "cumulative_repeat": "0.26724072823335166933"
+  },
+  {
+    "day": 348,
+    "at_risk": "4856",
+    "events": 15,
+    "censored": 28,
+    "survival": "0.73049580614133949110",
+    "cumulative_repeat": "0.26950419385866050890"
+  },
+  {
+    "day": 349,
+    "at_risk": "4813",
+    "events": 14,
+    "censored": 28,
+    "survival": "0.72837094819702643212",
+    "cumulative_repeat": "0.27162905180297356788"
+  },
+  {
+    "day": 350,
+    "at_risk": "4771",
+    "events": 14,
+    "censored": 24,
+    "survival": "0.72623361990636234282",
+    "cumulative_repeat": "0.27376638009363765718"
+  },
+  {
+    "day": 351,
+    "at_risk": "4733",
+    "events": 11,
+    "censored": 24,
+    "survival": "0.72454577502595457063",
+    "cumulative_repeat": "0.27545422497404542937"
+  },
+  {
+    "day": 352,
+    "at_risk": "4698",
+    "events": 10,
+    "censored": 27,
+    "survival": "0.72300353199695083591",
+    "cumulative_repeat": "0.27699646800304916409"
+  },
+  {
+    "day": 353,
+    "at_risk": "4661",
+    "events": 14,
+    "censored": 24,
+    "survival": "0.72083188440030691579",
+    "cumulative_repeat": "0.27916811559969308421"
+  },
+  {
+    "day": 354,
+    "at_risk": "4623",
+    "events": 15,
+    "censored": 28,
+    "survival": "0.71849303986948177978",
+    "cumulative_repeat": "0.28150696013051822022"
+  },
+  {
+    "day": 355,
+    "at_risk": "4580",
+    "events": 12,
+    "censored": 21,
+    "survival": "0.71661052535453990613",
+    "cumulative_repeat": "0.28338947464546009387"
+  },
+  {
+    "day": 356,
+    "at_risk": "4547",
+    "events": 10,
+    "censored": 25,
+    "survival": "0.71503451804124643811",
+    "cumulative_repeat": "0.28496548195875356189"
+  },
+  {
+    "day": 357,
+    "at_risk": "4512",
+    "events": 19,
+    "censored": 21,
+    "survival": "0.71202351275694154398",
+    "cumulative_repeat": "0.28797648724305845602"
+  },
+  {
+    "day": 358,
+    "at_risk": "4472",
+    "events": 12,
+    "censored": 45,
+    "survival": "0.71011289510195869547",
+    "cumulative_repeat": "0.28988710489804130453"
+  },
+  {
+    "day": 359,
+    "at_risk": "4415",
+    "events": 7,
+    "censored": 28,
+    "survival": "0.70898700829205751521",
+    "cumulative_repeat": "0.29101299170794248479"
+  },
+  {
+    "day": 360,
+    "at_risk": "4380",
+    "events": 11,
+    "censored": 26,
+    "survival": "0.70720644731232860364",
+    "cumulative_repeat": "0.29279355268767139636"
+  },
+  {
+    "day": 361,
+    "at_risk": "4343",
+    "events": 13,
+    "censored": 25,
+    "survival": "0.70508955027915792166",
+    "cumulative_repeat": "0.29491044972084207834"
+  },
+  {
+    "day": 362,
+    "at_risk": "4305",
+    "events": 18,
+    "censored": 23,
+    "survival": "0.70214144066126597217",
+    "cumulative_repeat": "0.29785855933873402783"
+  },
+  {
+    "day": 363,
+    "at_risk": "4264",
+    "events": 13,
+    "censored": 18,
+    "survival": "0.70000076553729869786",
+    "cumulative_repeat": "0.29999923446270130214"
+  },
+  {
+    "day": 364,
+    "at_risk": "4233",
+    "events": 12,
+    "censored": 21,
+    "survival": "0.69801635514598105449",
+    "cumulative_repeat": "0.30198364485401894551"
+  },
+  {
+    "day": 365,
+    "at_risk": "4200",
+    "events": 9,
+    "censored": 24,
+    "survival": "0.69652060581352538080",
+    "cumulative_repeat": "0.30347939418647461920"
+  },
+  {
+    "day": 366,
+    "at_risk": "4167",
+    "events": 12,
+    "censored": 5,
+    "survival": "0.69451478693429276631",
+    "cumulative_repeat": "0.30548521306570723369"
+  },
+  {
+    "day": 367,
+    "at_risk": "4150",
+    "events": 10,
+    "censored": 3,
+    "survival": "0.69284125732722218133",
+    "cumulative_repeat": "0.30715874267277781867"
+  },
+  {
+    "day": 368,
+    "at_risk": "4137",
+    "events": 12,
+    "censored": 8,
+    "survival": "0.69083156550031218225",
+    "cumulative_repeat": "0.30916843449968781775"
+  },
+  {
+    "day": 369,
+    "at_risk": "4117",
+    "events": 8,
+    "censored": 6,
+    "survival": "0.68948916751051317874",
+    "cumulative_repeat": "0.31051083248948682126"
+  },
+  {
+    "day": 370,
+    "at_risk": "4103",
+    "events": 8,
+    "censored": 5,
+    "survival": "0.68814480647222799584",
+    "cumulative_repeat": "0.31185519352777200416"
+  },
+  {
+    "day": 371,
+    "at_risk": "4090",
+    "events": 12,
+    "censored": 9,
+    "survival": "0.68612579970507231468",
+    "cumulative_repeat": "0.31387420029492768532"
+  },
+  {
+    "day": 372,
+    "at_risk": "4069",
+    "events": 7,
+    "censored": 6,
+    "survival": "0.68494544074760475356",
+    "cumulative_repeat": "0.31505455925239524644"
+  },
+  {
+    "day": 373,
+    "at_risk": "4056",
+    "events": 12,
+    "censored": 9,
+    "survival": "0.68291897494657633713",
+    "cumulative_repeat": "0.31708102505342366287"
+  },
+  {
+    "day": 374,
+    "at_risk": "4035",
+    "events": 12,
+    "censored": 8,
+    "survival": "0.68088798914747871233",
+    "cumulative_repeat": "0.31911201085252128767"
+  },
+  {
+    "day": 375,
+    "at_risk": "4015",
+    "events": 8,
+    "censored": 9,
+    "survival": "0.67953130075067178090",
+    "cumulative_repeat": "0.32046869924932821910"
+  },
+  {
+    "day": 376,
+    "at_risk": "3998",
+    "events": 10,
+    "censored": 4,
+    "survival": "0.67783162265974964037",
+    "cumulative_repeat": "0.32216837734025035963"
+  },
+  {
+    "day": 377,
+    "at_risk": "3984",
+    "events": 7,
+    "censored": 10,
+    "survival": "0.67664065344322899592",
+    "cumulative_repeat": "0.32335934655677100408"
+  },
+  {
+    "day": 378,
+    "at_risk": "3967",
+    "events": 8,
+    "censored": 6,
+    "survival": "0.67527611469164194476",
+    "cumulative_repeat": "0.32472388530835805524"
+  },
+  {
+    "day": 379,
+    "at_risk": "3953",
+    "events": 7,
+    "censored": 7,
+    "survival": "0.67408033103294184519",
+    "cumulative_repeat": "0.32591966896705815481"
+  },
+  {
+    "day": 380,
+    "at_risk": "3939",
+    "events": 19,
+    "censored": 5,
+    "survival": "0.67082886459739325543",
+    "cumulative_repeat": "0.32917113540260674457"
+  },
+  {
+    "day": 381,
+    "at_risk": "3915",
+    "events": 9,
+    "censored": 8,
+    "survival": "0.66928672927647970772",
+    "cumulative_repeat": "0.33071327072352029228"
+  },
+  {
+    "day": 382,
+    "at_risk": "3898",
+    "events": 10,
+    "censored": 5,
+    "survival": "0.66756972894483147861",
+    "cumulative_repeat": "0.33243027105516852139"
+  },
+  {
+    "day": 383,
+    "at_risk": "3883",
+    "events": 10,
+    "censored": 6,
+    "survival": "0.66585051769336397544",
+    "cumulative_repeat": "0.33414948230663602456"
+  },
+  {
+    "day": 384,
+    "at_risk": "3867",
+    "events": 12,
+    "censored": 3,
+    "survival": "0.66378426317763592587",
+    "cumulative_repeat": "0.33621573682236407413"
+  },
+  {
+    "day": 385,
+    "at_risk": "3852",
+    "events": 11,
+    "censored": 8,
+    "survival": "0.66188872140843706938",
+    "cumulative_repeat": "0.33811127859156293062"
+  },
+  {
+    "day": 386,
+    "at_risk": "3833",
+    "events": 9,
+    "censored": 6,
+    "survival": "0.66033458665949996173",
+    "cumulative_repeat": "0.33966541334050003827"
+  },
+  {
+    "day": 387,
+    "at_risk": "3818",
+    "events": 7,
+    "censored": 7,
+    "survival": "0.65912391559962136043",
+    "cumulative_repeat": "0.34087608440037863957"
+  },
+  {
+    "day": 388,
+    "at_risk": "3804",
+    "events": 8,
+    "censored": 6,
+    "survival": "0.65773774543011637334",
+    "cumulative_repeat": "0.34226225456988362666"
+  },
+  {
+    "day": 389,
+    "at_risk": "3790",
+    "events": 7,
+    "censored": 4,
+    "survival": "0.65652292637523225339",
+    "cumulative_repeat": "0.34347707362476774661"
+  },
+  {
+    "day": 390,
+    "at_risk": "3779",
+    "events": 10,
+    "censored": 5,
+    "survival": "0.65478563363541951919",
+    "cumulative_repeat": "0.34521436636458048081"
+  },
+  {
+    "day": 391,
+    "at_risk": "3764",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.65374187332675519478",
+    "cumulative_repeat": "0.34625812667324480522"
+  },
+  {
+    "day": 392,
+    "at_risk": "3757",
+    "events": 9,
+    "censored": 4,
+    "survival": "0.65217581613752421348",
+    "cumulative_repeat": "0.34782418386247578652"
+  },
+  {
+    "day": 393,
+    "at_risk": "3744",
+    "events": 6,
+    "censored": 9,
+    "survival": "0.65113066258602177083",
+    "cumulative_repeat": "0.34886933741397822917"
+  },
+  {
+    "day": 394,
+    "at_risk": "3729",
+    "events": 7,
+    "censored": 6,
+    "survival": "0.64990837386569402816",
+    "cumulative_repeat": "0.35009162613430597184"
+  },
+  {
+    "day": 395,
+    "at_risk": "3716",
+    "events": 13,
+    "censored": 5,
+    "survival": "0.64763474392482911364",
+    "cumulative_repeat": "0.35236525607517088636"
+  },
+  {
+    "day": 396,
+    "at_risk": "3698",
+    "events": 12,
+    "censored": 6,
+    "survival": "0.64553317093210387044",
+    "cumulative_repeat": "0.35446682906789612956"
+  },
+  {
+    "day": 397,
+    "at_risk": "3680",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.64430525457435258590",
+    "cumulative_repeat": "0.35569474542564741410"
+  },
+  {
+    "day": 398,
+    "at_risk": "3673",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.64360358808420899473",
+    "cumulative_repeat": "0.35639641191579100527"
+  },
+  {
+    "day": 399,
+    "at_risk": "3668",
+    "events": 8,
+    "censored": 0,
+    "survival": "0.64219987251586829900",
+    "cumulative_repeat": "0.35780012748413170100"
+  },
+  {
+    "day": 400,
+    "at_risk": "3660",
+    "events": 11,
+    "censored": 1,
+    "survival": "0.64026976360939984236",
+    "cumulative_repeat": "0.35973023639060015764"
+  },
+  {
+    "day": 401,
+    "at_risk": "3648",
+    "events": 7,
+    "censored": 1,
+    "survival": "0.63904117579545636679",
+    "cumulative_repeat": "0.36095882420454363321"
+  },
+  {
+    "day": 402,
+    "at_risk": "3640",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.63816337198255052013",
+    "cumulative_repeat": "0.36183662801744947987"
+  },
+  {
+    "day": 403,
+    "at_risk": "3635",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.63728556816964467347",
+    "cumulative_repeat": "0.36271443183035532653"
+  },
+  {
+    "day": 404,
+    "at_risk": "3629",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.63640752247087139615",
+    "cumulative_repeat": "0.36359247752912860385"
+  },
+  {
+    "day": 405,
+    "at_risk": "3623",
+    "events": 8,
+    "censored": 2,
+    "survival": "0.63500226158768978666",
+    "cumulative_repeat": "0.36499773841231021334"
+  },
+  {
+    "day": 406,
+    "at_risk": "3613",
+    "events": 8,
+    "censored": 0,
+    "survival": "0.63359622281306993659",
+    "cumulative_repeat": "0.36640377718693006341"
+  },
+  {
+    "day": 407,
+    "at_risk": "3605",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.63271744857893253030",
+    "cumulative_repeat": "0.36728255142106746970"
+  },
+  {
+    "day": 408,
+    "at_risk": "3599",
+    "events": 6,
+    "censored": 2,
+    "survival": "0.63166262649183233715",
+    "cumulative_repeat": "0.36833737350816766285"
+  },
+  {
+    "day": 409,
+    "at_risk": "3591",
+    "events": 10,
+    "censored": 0,
+    "survival": "0.62990361054504360884",
+    "cumulative_repeat": "0.37009638945495639116"
+  },
+  {
+    "day": 410,
+    "at_risk": "3581",
+    "events": 9,
+    "censored": 1,
+    "survival": "0.62832049619293375336",
+    "cumulative_repeat": "0.37167950380706624664"
+  },
+  {
+    "day": 411,
+    "at_risk": "3571",
+    "events": 9,
+    "censored": 0,
+    "survival": "0.62673693851560628100",
+    "cumulative_repeat": "0.37326306148439371900"
+  },
+  {
+    "day": 412,
+    "at_risk": "3562",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.62568123339738796610",
+    "cumulative_repeat": "0.37431876660261203390"
+  },
+  {
+    "day": 413,
+    "at_risk": "3555",
+    "events": 7,
+    "censored": 1,
+    "survival": "0.62444923096875738501",
+    "cumulative_repeat": "0.37555076903124261499"
+  },
+  {
+    "day": 414,
+    "at_risk": "3547",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.62374503110299053146",
+    "cumulative_repeat": "0.37625496889700946854"
+  },
+  {
+    "day": 415,
+    "at_risk": "3542",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.62286453275304277520",
+    "cumulative_repeat": "0.37713546724695722480"
+  },
+  {
+    "day": 416,
+    "at_risk": "3537",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.62180793473310546770",
+    "cumulative_repeat": "0.37819206526689453230"
+  },
+  {
+    "day": 417,
+    "at_risk": "3531",
+    "events": 9,
+    "censored": 3,
+    "survival": "0.62022303770319950644",
+    "cumulative_repeat": "0.37977696229680049356"
+  },
+  {
+    "day": 418,
+    "at_risk": "3519",
+    "events": 5,
+    "censored": 2,
+    "survival": "0.61934178871527225507",
+    "cumulative_repeat": "0.38065821128472774493"
+  },
+  {
+    "day": 419,
+    "at_risk": "3512",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.61881273821238335509",
+    "cumulative_repeat": "0.38118726178761664491"
+  },
+  {
+    "day": 420,
+    "at_risk": "3508",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.61810713645843536951",
+    "cumulative_repeat": "0.38189286354156463049"
+  },
+  {
+    "day": 421,
+    "at_risk": "3503",
+    "events": 8,
+    "censored": 1,
+    "survival": "0.61669553009484202581",
+    "cumulative_repeat": "0.38330446990515797419"
+  },
+  {
+    "day": 422,
+    "at_risk": "3494",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.61581302361216480483",
+    "cumulative_repeat": "0.38418697638783519517"
+  },
+  {
+    "day": 423,
+    "at_risk": "3489",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.61528351972255847223",
+    "cumulative_repeat": "0.38471648027744152777"
+  },
+  {
+    "day": 424,
+    "at_risk": "3486",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.61493051712948758384",
+    "cumulative_repeat": "0.38506948287051241616"
+  },
+  {
+    "day": 425,
+    "at_risk": "3483",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.61387120529980715733",
+    "cumulative_repeat": "0.38612879470019284267"
+  },
+  {
+    "day": 426,
+    "at_risk": "3476",
+    "events": 8,
+    "censored": 1,
+    "survival": "0.61245838319324833764",
+    "cumulative_repeat": "0.38754161680675166236"
+  },
+  {
+    "day": 427,
+    "at_risk": "3467",
+    "events": 7,
+    "censored": 2,
+    "survival": "0.61122180728256107535",
+    "cumulative_repeat": "0.38877819271743892465"
+  },
+  {
+    "day": 428,
+    "at_risk": "3458",
+    "events": 9,
+    "censored": 0,
+    "survival": "0.60963100442959894415",
+    "cumulative_repeat": "0.39036899557040105585"
+  },
+  {
+    "day": 429,
+    "at_risk": "3449",
+    "events": 6,
+    "censored": 4,
+    "survival": "0.60857046919429085669",
+    "cumulative_repeat": "0.39142953080570914331"
+  },
+  {
+    "day": 430,
+    "at_risk": "3439",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.60786262334469005314",
+    "cumulative_repeat": "0.39213737665530994686"
+  },
+  {
+    "day": 431,
+    "at_risk": "3434",
+    "events": 6,
+    "censored": 2,
+    "survival": "0.60680054537728523651",
+    "cumulative_repeat": "0.39319945462271476349"
+  },
+  {
+    "day": 432,
+    "at_risk": "3426",
+    "events": 4,
+    "censored": 3,
+    "survival": "0.60609208005868945690",
+    "cumulative_repeat": "0.39390791994131054310"
+  },
+  {
+    "day": 433,
+    "at_risk": "3419",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.60502844961693685767",
+    "cumulative_repeat": "0.39497155038306314233"
+  },
+  {
+    "day": 434,
+    "at_risk": "3412",
+    "events": 6,
+    "censored": 2,
+    "survival": "0.60396450744293286554",
+    "cumulative_repeat": "0.39603549255706713446"
+  },
+  {
+    "day": 435,
+    "at_risk": "3404",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.60307736803717062573",
+    "cumulative_repeat": "0.39692263196282937427"
+  },
+  {
+    "day": 436,
+    "at_risk": "3398",
+    "events": 7,
+    "censored": 1,
+    "survival": "0.60183500736140246964",
+    "cumulative_repeat": "0.39816499263859753036"
+  },
+  {
+    "day": 437,
+    "at_risk": "3390",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.60094734510865703827",
+    "cumulative_repeat": "0.39905265489134296173"
+  },
+  {
+    "day": 438,
+    "at_risk": "3385",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.60005968285591160690",
+    "cumulative_repeat": "0.39994031714408839310"
+  },
+  {
+    "day": 439,
+    "at_risk": "3379",
+    "events": 7,
+    "censored": 1,
+    "survival": "0.59881658792250190544",
+    "cumulative_repeat": "0.40118341207749809456"
+  },
+  {
+    "day": 440,
+    "at_risk": "3371",
+    "events": 13,
+    "censored": 0,
+    "survival": "0.59650729820342966433",
+    "cumulative_repeat": "0.40349270179657033567"
+  },
+  {
+    "day": 441,
+    "at_risk": "3358",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.59579674752063820553",
+    "cumulative_repeat": "0.40420325247936179447"
+  },
+  {
+    "day": 442,
+    "at_risk": "3354",
+    "events": 11,
+    "censored": 0,
+    "survival": "0.59384273314296169382",
+    "cumulative_repeat": "0.40615726685703830618"
+  },
+  {
+    "day": 443,
+    "at_risk": "3343",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.59313218246017023502",
+    "cumulative_repeat": "0.40686781753982976498"
+  },
+  {
+    "day": 444,
+    "at_risk": "3339",
+    "events": 8,
+    "censored": 1,
+    "survival": "0.59171108109458731742",
+    "cumulative_repeat": "0.40828891890541268258"
+  },
+  {
+    "day": 445,
+    "at_risk": "3330",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.59046724398718127801",
+    "cumulative_repeat": "0.40953275601281872199"
+  },
+  {
+    "day": 446,
+    "at_risk": "3323",
+    "events": 9,
+    "censored": 1,
+    "survival": "0.58886802484908779878",
+    "cumulative_repeat": "0.41113197515091220122"
+  },
+  {
+    "day": 447,
+    "at_risk": "3313",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.58780155695017607925",
+    "cumulative_repeat": "0.41219844304982392075"
+  },
+  {
+    "day": 448,
+    "at_risk": "3306",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.58655696805161248803",
+    "cumulative_repeat": "0.41344303194838751197"
+  },
+  {
+    "day": 449,
+    "at_risk": "3299",
+    "events": 9,
+    "censored": 1,
+    "survival": "0.58495678232488787076",
+    "cumulative_repeat": "0.41504321767511212924"
+  },
+  {
+    "day": 450,
+    "at_risk": "3289",
+    "events": 13,
+    "censored": 1,
+    "survival": "0.58264470018131123886",
+    "cumulative_repeat": "0.41735529981868876114"
+  },
+  {
+    "day": 451,
+    "at_risk": "3275",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.58139935273054202399",
+    "cumulative_repeat": "0.41860064726945797601"
+  },
+  {
+    "day": 452,
+    "at_risk": "3268",
+    "events": 13,
+    "censored": 3,
+    "survival": "0.57908656460768491068",
+    "cumulative_repeat": "0.42091343539231508932"
+  },
+  {
+    "day": 453,
+    "at_risk": "3252",
+    "events": 10,
+    "censored": 1,
+    "survival": "0.57730585561442634699",
+    "cumulative_repeat": "0.42269414438557365301"
+  },
+  {
+    "day": 454,
+    "at_risk": "3241",
+    "events": 10,
+    "censored": 4,
+    "survival": "0.57552459718920442059",
+    "cumulative_repeat": "0.42447540281079557941"
+  },
+  {
+    "day": 455,
+    "at_risk": "3227",
+    "events": 7,
+    "censored": 1,
+    "survival": "0.57427617073109334809",
+    "cumulative_repeat": "0.42572382926890665191"
+  },
+  {
+    "day": 456,
+    "at_risk": "3219",
+    "events": 8,
+    "censored": 3,
+    "survival": "0.57284895440122421272",
+    "cumulative_repeat": "0.42715104559877578728"
+  },
+  {
+    "day": 457,
+    "at_risk": "3208",
+    "events": 15,
+    "censored": 0,
+    "survival": "0.57017042126032073292",
+    "cumulative_repeat": "0.42982957873967926708"
+  },
+  {
+    "day": 458,
+    "at_risk": "3193",
+    "events": 8,
+    "censored": 1,
+    "survival": "0.56874187025183887702",
+    "cumulative_repeat": "0.43125812974816112298"
+  },
+  {
+    "day": 459,
+    "at_risk": "3184",
+    "events": 14,
+    "censored": 0,
+    "survival": "0.56624112082233958548",
+    "cumulative_repeat": "0.43375887917766041452"
+  },
+  {
+    "day": 460,
+    "at_risk": "3170",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.56516937106683988910",
+    "cumulative_repeat": "0.43483062893316011090"
+  },
+  {
+    "day": 461,
+    "at_risk": "3164",
+    "events": 11,
+    "censored": 0,
+    "survival": "0.56320449651509044575",
+    "cumulative_repeat": "0.43679550348490955425"
+  },
+  {
+    "day": 462,
+    "at_risk": "3153",
+    "events": 11,
+    "censored": 2,
+    "survival": "0.56123962196334100239",
+    "cumulative_repeat": "0.43876037803665899761"
+  },
+  {
+    "day": 463,
+    "at_risk": "3140",
+    "events": 7,
+    "censored": 1,
+    "survival": "0.55998845083157559251",
+    "cumulative_repeat": "0.44001154916842440749"
+  },
+  {
+    "day": 464,
+    "at_risk": "3132",
+    "events": 15,
+    "censored": 2,
+    "survival": "0.55730651380652015385",
+    "cumulative_repeat": "0.44269348619347984615"
+  },
+  {
+    "day": 465,
+    "at_risk": "3115",
+    "events": 9,
+    "censored": 1,
+    "survival": "0.55569631842152539256",
+    "cumulative_repeat": "0.44430368157847460744"
+  },
+  {
+    "day": 466,
+    "at_risk": "3105",
+    "events": 8,
+    "censored": 0,
+    "survival": "0.55426457267357943342",
+    "cumulative_repeat": "0.44573542732642056658"
+  },
+  {
+    "day": 467,
+    "at_risk": "3097",
+    "events": 9,
+    "censored": 0,
+    "survival": "0.55265385870714022938",
+    "cumulative_repeat": "0.44734614129285977062"
+  },
+  {
+    "day": 468,
+    "at_risk": "3088",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.55158004939618076003",
+    "cumulative_repeat": "0.44841995060381923997"
+  },
+  {
+    "day": 469,
+    "at_risk": "3082",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.55050624008522129067",
+    "cumulative_repeat": "0.44949375991477870933"
+  },
+  {
+    "day": 470,
+    "at_risk": "3075",
+    "events": 8,
+    "censored": 0,
+    "survival": "0.54907402872890201577",
+    "cumulative_repeat": "0.45092597127109798423"
+  },
+  {
+    "day": 471,
+    "at_risk": "3067",
+    "events": 12,
+    "censored": 0,
+    "survival": "0.54692571169442310342",
+    "cumulative_repeat": "0.45307428830557689658"
+  },
+  {
+    "day": 472,
+    "at_risk": "3055",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.54585155317718364724",
+    "cumulative_repeat": "0.45414844682281635276"
+  },
+  {
+    "day": 473,
+    "at_risk": "3048",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.54495612740097435648",
+    "cumulative_repeat": "0.45504387259902564352"
+  },
+  {
+    "day": 474,
+    "at_risk": "3042",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.54459783934877121752",
+    "cumulative_repeat": "0.45540216065122878248"
+  },
+  {
+    "day": 475,
+    "at_risk": "3039",
+    "events": 11,
+    "censored": 3,
+    "survival": "0.54262660662983851486",
+    "cumulative_repeat": "0.45737339337016148514"
+  },
+  {
+    "day": 476,
+    "at_risk": "3025",
+    "events": 9,
+    "censored": 1,
+    "survival": "0.54101218036217949118",
+    "cumulative_repeat": "0.45898781963782050882"
+  },
+  {
+    "day": 477,
+    "at_risk": "3015",
+    "events": 16,
+    "censored": 2,
+    "survival": "0.53814113728231386204",
+    "cumulative_repeat": "0.46185886271768613796"
+  },
+  {
+    "day": 478,
+    "at_risk": "2997",
+    "events": 9,
+    "censored": 0,
+    "survival": "0.53652509783101562221",
+    "cumulative_repeat": "0.46347490216898437779"
+  },
+  {
+    "day": 479,
+    "at_risk": "2988",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.53544773819681679566",
+    "cumulative_repeat": "0.46455226180318320434"
+  },
+  {
+    "day": 480,
+    "at_risk": "2982",
+    "events": 9,
+    "censored": 1,
+    "survival": "0.53383169874551855584",
+    "cumulative_repeat": "0.46616830125448144416"
+  },
+  {
+    "day": 481,
+    "at_risk": "2972",
+    "events": 9,
+    "censored": 1,
+    "survival": "0.53221511553935783343",
+    "cumulative_repeat": "0.46778488446064216657"
+  },
+  {
+    "day": 482,
+    "at_risk": "2962",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.53131671055026371149",
+    "cumulative_repeat": "0.46868328944973628851"
+  },
+  {
+    "day": 483,
+    "at_risk": "2957",
+    "events": 7,
+    "censored": 1,
+    "survival": "0.53005894356553194078",
+    "cumulative_repeat": "0.46994105643446805922"
+  },
+  {
+    "day": 484,
+    "at_risk": "2949",
+    "events": 10,
+    "censored": 0,
+    "survival": "0.52826152429267493183",
+    "cumulative_repeat": "0.47173847570732506817"
+  },
+  {
+    "day": 485,
+    "at_risk": "2939",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.52700333080167502556",
+    "cumulative_repeat": "0.47299666919832497444"
+  },
+  {
+    "day": 486,
+    "at_risk": "2932",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.52592487923796082019",
+    "cumulative_repeat": "0.47407512076203917981"
+  },
+  {
+    "day": 487,
+    "at_risk": "2925",
+    "events": 10,
+    "censored": 0,
+    "survival": "0.52412684546278830457",
+    "cumulative_repeat": "0.47587315453721169543"
+  },
+  {
+    "day": 488,
+    "at_risk": "2915",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.52322782857520204675",
+    "cumulative_repeat": "0.47677217142479795325"
+  },
+  {
+    "day": 489,
+    "at_risk": "2909",
+    "events": 10,
+    "censored": 0,
+    "survival": "0.52142917670660389603",
+    "cumulative_repeat": "0.47857082329339610397"
+  },
+  {
+    "day": 490,
+    "at_risk": "2899",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.52034998558544500559",
+    "cumulative_repeat": "0.47965001441455499441"
+  },
+  {
+    "day": 491,
+    "at_risk": "2893",
+    "events": 9,
+    "censored": 1,
+    "survival": "0.51873119890370666994",
+    "cumulative_repeat": "0.48126880109629333006"
+  },
+  {
+    "day": 492,
+    "at_risk": "2883",
+    "events": 7,
+    "censored": 2,
+    "survival": "0.51747170587827276543",
+    "cumulative_repeat": "0.48252829412172723457"
+  },
+  {
+    "day": 493,
+    "at_risk": "2874",
+    "events": 2,
+    "censored": 2,
+    "survival": "0.51711160030702831674",
+    "cumulative_repeat": "0.48288839969297168326"
+  },
+  {
+    "day": 494,
+    "at_risk": "2870",
+    "events": 8,
+    "censored": 1,
+    "survival": "0.51567017424345471865",
+    "cumulative_repeat": "0.48432982575654528135"
+  },
+  {
+    "day": 495,
+    "at_risk": "2861",
+    "events": 9,
+    "censored": 1,
+    "survival": "0.51404800312559694428",
+    "cumulative_repeat": "0.48595199687440305572"
+  },
+  {
+    "day": 496,
+    "at_risk": "2851",
+    "events": 9,
+    "censored": 0,
+    "survival": "0.51242526302453402864",
+    "cumulative_repeat": "0.48757473697546597136"
+  },
+  {
+    "day": 497,
+    "at_risk": "2842",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.51134343629049208487",
+    "cumulative_repeat": "0.48865656370950791513"
+  },
+  {
+    "day": 498,
+    "at_risk": "2835",
+    "events": 8,
+    "censored": 1,
+    "survival": "0.50990049184946071391",
+    "cumulative_repeat": "0.49009950815053928609"
+  },
+  {
+    "day": 499,
+    "at_risk": "2826",
+    "events": 6,
+    "censored": 2,
+    "survival": "0.50881790057164869541",
+    "cumulative_repeat": "0.49118209942835130459"
+  },
+  {
+    "day": 500,
+    "at_risk": "2818",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.50809566082633762558",
+    "cumulative_repeat": "0.49190433917366237442"
+  },
+  {
+    "day": 501,
+    "at_risk": "2814",
+    "events": 10,
+    "censored": 1,
+    "survival": "0.50629006146305995100",
+    "cumulative_repeat": "0.49370993853694004900"
+  },
+  {
+    "day": 502,
+    "at_risk": "2803",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.50556756405105415728",
+    "cumulative_repeat": "0.49443243594894584272"
+  },
+  {
+    "day": 503,
+    "at_risk": "2799",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.50448381793304546670",
+    "cumulative_repeat": "0.49551618206695453330"
+  },
+  {
+    "day": 504,
+    "at_risk": "2793",
+    "events": 9,
+    "censored": 1,
+    "survival": "0.50285819875603243082",
+    "cumulative_repeat": "0.49714180124396756918"
+  },
+  {
+    "day": 505,
+    "at_risk": "2783",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.50195475247727563522",
+    "cumulative_repeat": "0.49804524752272436478"
+  },
+  {
+    "day": 506,
+    "at_risk": "2777",
+    "events": 3,
+    "censored": 2,
+    "survival": "0.50141248951096961185",
+    "cumulative_repeat": "0.49858751048903038815"
+  },
+  {
+    "day": 507,
+    "at_risk": "2772",
+    "events": 6,
+    "censored": 2,
+    "survival": "0.50032718109211469927",
+    "cumulative_repeat": "0.49967281890788530073"
+  },
+  {
+    "day": 508,
+    "at_risk": "2764",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.49978413422406971226",
+    "cumulative_repeat": "0.50021586577593028774"
+  },
+  {
+    "day": 509,
+    "at_risk": "2761",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.49924108735602472525",
+    "cumulative_repeat": "0.50075891264397527475"
+  },
+  {
+    "day": 510,
+    "at_risk": "2758",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.49833600924261641357",
+    "cumulative_repeat": "0.50166399075738358643"
+  },
+  {
+    "day": 511,
+    "at_risk": "2753",
+    "events": 9,
+    "censored": 2,
+    "survival": "0.49670686863848145254",
+    "cumulative_repeat": "0.50329313136151854746"
+  },
+  {
+    "day": 512,
+    "at_risk": "2742",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.49543883505698277633",
+    "cumulative_repeat": "0.50456116494301722367"
+  },
+  {
+    "day": 513,
+    "at_risk": "2735",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.49435194912998391101",
+    "cumulative_repeat": "0.50564805087001608899"
+  },
+  {
+    "day": 514,
+    "at_risk": "2729",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.49417080147548410013",
+    "cumulative_repeat": "0.50582919852451589987"
+  },
+  {
+    "day": 515,
+    "at_risk": "2728",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.49308391554848523480",
+    "cumulative_repeat": "0.50691608445151476520"
+  },
+  {
+    "day": 516,
+    "at_risk": "2722",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.49217817727598618037",
+    "cumulative_repeat": "0.50782182272401381963"
+  },
+  {
+    "day": 517,
+    "at_risk": "2717",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.49127243900348712594",
+    "cumulative_repeat": "0.50872756099651287406"
+  },
+  {
+    "day": 518,
+    "at_risk": "2711",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.49054758110750263737",
+    "cumulative_repeat": "0.50945241889249736263"
+  },
+  {
+    "day": 519,
+    "at_risk": "2707",
+    "events": 10,
+    "censored": 1,
+    "survival": "0.48873543636754141595",
+    "cumulative_repeat": "0.51126456363245858405"
+  },
+  {
+    "day": 520,
+    "at_risk": "2696",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.48801030960735218537",
+    "cumulative_repeat": "0.51198969039264781463"
+  },
+  {
+    "day": 521,
+    "at_risk": "2692",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.48674133777702103184",
+    "cumulative_repeat": "0.51325866222297896816"
+  },
+  {
+    "day": 522,
+    "at_risk": "2685",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.48565364763673718596",
+    "cumulative_repeat": "0.51434635236326281404"
+  },
+  {
+    "day": 523,
+    "at_risk": "2679",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.48474723918650064773",
+    "cumulative_repeat": "0.51525276081349935227"
+  },
+  {
+    "day": 524,
+    "at_risk": "2673",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.48384049163845257318",
+    "cumulative_repeat": "0.51615950836154742682"
+  },
+  {
+    "day": 525,
+    "at_risk": "2668",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.48347779261923334337",
+    "cumulative_repeat": "0.51652220738076665663"
+  },
+  {
+    "day": 526,
+    "at_risk": "2666",
+    "events": 6,
+    "censored": 3,
+    "survival": "0.48238969556157565393",
+    "cumulative_repeat": "0.51761030443842434607"
+  },
+  {
+    "day": 527,
+    "at_risk": "2657",
+    "events": 7,
+    "censored": 1,
+    "survival": "0.48111881567112362925",
+    "cumulative_repeat": "0.51888118432887637075"
+  },
+  {
+    "day": 528,
+    "at_risk": "2649",
+    "events": 6,
+    "censored": 2,
+    "survival": "0.48002907882928642963",
+    "cumulative_repeat": "0.51997092117071357037"
+  },
+  {
+    "day": 529,
+    "at_risk": "2641",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.47893851674182875505",
+    "cumulative_repeat": "0.52106148325817124495"
+  },
+  {
+    "day": 530,
+    "at_risk": "2634",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.47839302868175833506",
+    "cumulative_repeat": "0.52160697131824166494"
+  },
+  {
+    "day": 531,
+    "at_risk": "2630",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.47766543472178607903",
+    "cumulative_repeat": "0.52233456527821392097"
+  },
+  {
+    "day": 532,
+    "at_risk": "2626",
+    "events": 4,
+    "censored": 2,
+    "survival": "0.47693784076181382301",
+    "cumulative_repeat": "0.52306215923818617699"
+  },
+  {
+    "day": 533,
+    "at_risk": "2620",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.47657376607420938498",
+    "cumulative_repeat": "0.52342623392579061502"
+  },
+  {
+    "day": 534,
+    "at_risk": "2618",
+    "events": 8,
+    "censored": 0,
+    "survival": "0.47511746732379163285",
+    "cumulative_repeat": "0.52488253267620836715"
+  },
+  {
+    "day": 535,
+    "at_risk": "2610",
+    "events": 11,
+    "censored": 2,
+    "survival": "0.47311505654196722366",
+    "cumulative_repeat": "0.52688494345803277634"
+  },
+  {
+    "day": 536,
+    "at_risk": "2597",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.47202199133624839296",
+    "cumulative_repeat": "0.52797800866375160704"
+  },
+  {
+    "day": 537,
+    "at_risk": "2591",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.47111110366481603404",
+    "cumulative_repeat": "0.52888889633518396596"
+  },
+  {
+    "day": 538,
+    "at_risk": "2586",
+    "events": 5,
+    "censored": 2,
+    "survival": "0.47020021599338367512",
+    "cumulative_repeat": "0.52979978400661632488"
+  },
+  {
+    "day": 539,
+    "at_risk": "2579",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.46928862193368343534",
+    "cumulative_repeat": "0.53071137806631656466"
+  },
+  {
+    "day": 540,
+    "at_risk": "2574",
+    "events": 11,
+    "censored": 0,
+    "survival": "0.46728311500234290784",
+    "cumulative_repeat": "0.53271688499765709216"
+  },
+  {
+    "day": 541,
+    "at_risk": "2563",
+    "events": 4,
+    "censored": 2,
+    "survival": "0.46655383975458271603",
+    "cumulative_repeat": "0.53344616024541728397"
+  },
+  {
+    "day": 542,
+    "at_risk": "2557",
+    "events": 8,
+    "censored": 1,
+    "survival": "0.46509414842957815532",
+    "cumulative_repeat": "0.53490585157042184468"
+  },
+  {
+    "day": 543,
+    "at_risk": "2548",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.46399895027786015338",
+    "cumulative_repeat": "0.53600104972213984662"
+  },
+  {
+    "day": 544,
+    "at_risk": "2541",
+    "events": 17,
+    "censored": 1,
+    "survival": "0.46089466765105038455",
+    "cumulative_repeat": "0.53910533234894961545"
+  },
+  {
+    "day": 545,
+    "at_risk": "2523",
+    "events": 10,
+    "censored": 1,
+    "survival": "0.45906789528620278096",
+    "cumulative_repeat": "0.54093210471379721904"
+  },
+  {
+    "day": 546,
+    "at_risk": "2512",
+    "events": 5,
+    "censored": 2,
+    "survival": "0.45815414549462992511",
+    "cumulative_repeat": "0.54184585450537007489"
+  },
+  {
+    "day": 547,
+    "at_risk": "2505",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.45705677029584039236",
+    "cumulative_repeat": "0.54294322970415960764"
+  },
+  {
+    "day": 548,
+    "at_risk": "2498",
+    "events": 8,
+    "censored": 0,
+    "survival": "0.45559301762876003882",
+    "cumulative_repeat": "0.54440698237123996118"
+  },
+  {
+    "day": 549,
+    "at_risk": "2490",
+    "events": 8,
+    "censored": 0,
+    "survival": "0.45412926496167968528",
+    "cumulative_repeat": "0.54587073503832031472"
+  },
+  {
+    "day": 550,
+    "at_risk": "2482",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.45284848137798437594",
+    "cumulative_repeat": "0.54715151862201562406"
+  },
+  {
+    "day": 551,
+    "at_risk": "2475",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.45156769779428906659",
+    "cumulative_repeat": "0.54843230220571093341"
+  },
+  {
+    "day": 552,
+    "at_risk": "2468",
+    "events": 13,
+    "censored": 1,
+    "survival": "0.44918909971028349209",
+    "cumulative_repeat": "0.55081090028971650791"
+  },
+  {
+    "day": 553,
+    "at_risk": "2454",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.44790779420988741041",
+    "cumulative_repeat": "0.55209220579011258959"
+  },
+  {
+    "day": 554,
+    "at_risk": "2447",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.44680953235240505468",
+    "cumulative_repeat": "0.55319046764759494532"
+  },
+  {
+    "day": 555,
+    "at_risk": "2440",
+    "events": 12,
+    "censored": 0,
+    "survival": "0.44461210842280306261",
+    "cumulative_repeat": "0.55538789157719693739"
+  },
+  {
+    "day": 556,
+    "at_risk": "2428",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.44369651511880223258",
+    "cumulative_repeat": "0.55630348488119776742"
+  },
+  {
+    "day": 557,
+    "at_risk": "2423",
+    "events": 12,
+    "censored": 1,
+    "survival": "0.44149909118920024051",
+    "cumulative_repeat": "0.55850090881079975949"
+  },
+  {
+    "day": 558,
+    "at_risk": "2410",
+    "events": 8,
+    "censored": 1,
+    "survival": "0.44003353404002447208",
+    "cumulative_repeat": "0.55996646595997552792"
+  },
+  {
+    "day": 559,
+    "at_risk": "2401",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.43948372121115313788",
+    "cumulative_repeat": "0.56051627878884686212"
+  },
+  {
+    "day": 560,
+    "at_risk": "2397",
+    "events": 9,
+    "censored": 1,
+    "survival": "0.43783359459834530382",
+    "cumulative_repeat": "0.56216640540165469618"
+  },
+  {
+    "day": 561,
+    "at_risk": "2387",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.43673304932495189292",
+    "cumulative_repeat": "0.56326695067504810708"
+  },
+  {
+    "day": 562,
+    "at_risk": "2380",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.43563204163757806462",
+    "cumulative_repeat": "0.56436795836242193538"
+  },
+  {
+    "day": 563,
+    "at_risk": "2374",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.43489803651266217909",
+    "cumulative_repeat": "0.56510196348733782091"
+  },
+  {
+    "day": 564,
+    "at_risk": "2369",
+    "events": 10,
+    "censored": 1,
+    "survival": "0.43306224910653021548",
+    "cumulative_repeat": "0.56693775089346978452"
+  },
+  {
+    "day": 565,
+    "at_risk": "2358",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.43214396613556641095",
+    "cumulative_repeat": "0.56785603386443358905"
+  },
+  {
+    "day": 566,
+    "at_risk": "2352",
+    "events": 6,
+    "censored": 2,
+    "survival": "0.43104155805868996602",
+    "cumulative_repeat": "0.56895844194131003398"
+  },
+  {
+    "day": 567,
+    "at_risk": "2344",
+    "events": 9,
+    "censored": 1,
+    "survival": "0.42938653501153629294",
+    "cumulative_repeat": "0.57061346498846370706"
+  },
+  {
+    "day": 568,
+    "at_risk": "2334",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.42883462429815385554",
+    "cumulative_repeat": "0.57116537570184614446"
+  },
+  {
+    "day": 569,
+    "at_risk": "2331",
+    "events": 9,
+    "censored": 2,
+    "survival": "0.42717889215800654336",
+    "cumulative_repeat": "0.57282110784199345664"
+  },
+  {
+    "day": 570,
+    "at_risk": "2320",
+    "events": 11,
+    "censored": 2,
+    "survival": "0.42515347499691254682",
+    "cumulative_repeat": "0.57484652500308745318"
+  },
+  {
+    "day": 571,
+    "at_risk": "2307",
+    "events": 14,
+    "censored": 0,
+    "survival": "0.42257343657040332461",
+    "cumulative_repeat": "0.57742656342959667539"
+  },
+  {
+    "day": 572,
+    "at_risk": "2293",
+    "events": 10,
+    "censored": 0,
+    "survival": "0.42073055198003959445",
+    "cumulative_repeat": "0.57926944801996040555"
+  },
+  {
+    "day": 573,
+    "at_risk": "2283",
+    "events": 9,
+    "censored": 0,
+    "survival": "0.41907195584871223731",
+    "cumulative_repeat": "0.58092804415128776269"
+  },
+  {
+    "day": 574,
+    "at_risk": "2274",
+    "events": 10,
+    "censored": 0,
+    "survival": "0.41722907125834850715",
+    "cumulative_repeat": "0.58277092874165149285"
+  },
+  {
+    "day": 575,
+    "at_risk": "2264",
+    "events": 12,
+    "censored": 1,
+    "survival": "0.41501760974991203097",
+    "cumulative_repeat": "0.58498239025008796903"
+  },
+  {
+    "day": 576,
+    "at_risk": "2251",
+    "events": 8,
+    "censored": 0,
+    "survival": "0.41354264712085858972",
+    "cumulative_repeat": "0.58645735287914141028"
+  },
+  {
+    "day": 577,
+    "at_risk": "2243",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.41225205482043682863",
+    "cumulative_repeat": "0.58774794517956317137"
+  },
+  {
+    "day": 578,
+    "at_risk": "2236",
+    "events": 8,
+    "censored": 0,
+    "survival": "0.41077709219138338738",
+    "cumulative_repeat": "0.58922290780861661262"
+  },
+  {
+    "day": 579,
+    "at_risk": "2228",
+    "events": 8,
+    "censored": 1,
+    "survival": "0.40930212956232994613",
+    "cumulative_repeat": "0.59069787043767005387"
+  },
+  {
+    "day": 580,
+    "at_risk": "2219",
+    "events": 10,
+    "censored": 2,
+    "survival": "0.40745759540477100090",
+    "cumulative_repeat": "0.59254240459522899910"
+  },
+  {
+    "day": 581,
+    "at_risk": "2207",
+    "events": 11,
+    "censored": 1,
+    "survival": "0.40542676914765614770",
+    "cumulative_repeat": "0.59457323085234385230"
+  },
+  {
+    "day": 582,
+    "at_risk": "2195",
+    "events": 9,
+    "censored": 1,
+    "survival": "0.40376442704181154391",
+    "cumulative_repeat": "0.59623557295818845609"
+  },
+  {
+    "day": 583,
+    "at_risk": "2185",
+    "events": 8,
+    "censored": 1,
+    "survival": "0.40228611335012527739",
+    "cumulative_repeat": "0.59771388664987472261"
+  },
+  {
+    "day": 584,
+    "at_risk": "2176",
+    "events": 9,
+    "censored": 0,
+    "survival": "0.40062224615336464894",
+    "cumulative_repeat": "0.59937775384663535106"
+  },
+  {
+    "day": 585,
+    "at_risk": "2167",
+    "events": 12,
+    "censored": 1,
+    "survival": "0.39840375655768381101",
+    "cumulative_repeat": "0.60159624344231618899"
+  },
+  {
+    "day": 586,
+    "at_risk": "2154",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.39766391671263704442",
+    "cumulative_repeat": "0.60233608328736295558"
+  },
+  {
+    "day": 587,
+    "at_risk": "2150",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.39655415694506689453",
+    "cumulative_repeat": "0.60344584305493310547"
+  },
+  {
+    "day": 588,
+    "at_risk": "2144",
+    "events": 12,
+    "censored": 0,
+    "survival": "0.39433463740992659475",
+    "cumulative_repeat": "0.60566536259007340525"
+  },
+  {
+    "day": 589,
+    "at_risk": "2132",
+    "events": 9,
+    "censored": 1,
+    "survival": "0.39266999775857136991",
+    "cumulative_repeat": "0.60733000224142863009"
+  },
+  {
+    "day": 590,
+    "at_risk": "2122",
+    "events": 13,
+    "censored": 1,
+    "survival": "0.39026438514270830308",
+    "cumulative_repeat": "0.60973561485729169692"
+  },
+  {
+    "day": 591,
+    "at_risk": "2108",
+    "events": 7,
+    "censored": 1,
+    "survival": "0.38896844078976762086",
+    "cumulative_repeat": "0.61103155921023237914"
+  },
+  {
+    "day": 592,
+    "at_risk": "2100",
+    "events": 11,
+    "censored": 0,
+    "survival": "0.38693098705229740951",
+    "cumulative_repeat": "0.61306901294770259049"
+  },
+  {
+    "day": 593,
+    "at_risk": "2089",
+    "events": 8,
+    "censored": 1,
+    "survival": "0.38544920251595543762",
+    "cumulative_repeat": "0.61455079748404456238"
+  },
+  {
+    "day": 594,
+    "at_risk": "2080",
+    "events": 11,
+    "censored": 0,
+    "survival": "0.38341076923341913483",
+    "cumulative_repeat": "0.61658923076658086517"
+  },
+  {
+    "day": 595,
+    "at_risk": "2069",
+    "events": 17,
+    "censored": 0,
+    "survival": "0.38026046325131757596",
+    "cumulative_repeat": "0.61973953674868242404"
+  },
+  {
+    "day": 596,
+    "at_risk": "2052",
+    "events": 13,
+    "censored": 0,
+    "survival": "0.37785140573559285448",
+    "cumulative_repeat": "0.62214859426440714552"
+  },
+  {
+    "day": 597,
+    "at_risk": "2039",
+    "events": 12,
+    "censored": 0,
+    "survival": "0.37562766033646234234",
+    "cumulative_repeat": "0.62437233966353765766"
+  },
+  {
+    "day": 598,
+    "at_risk": "2027",
+    "events": 15,
+    "censored": 0,
+    "survival": "0.37284797858754920216",
+    "cumulative_repeat": "0.62715202141245079784"
+  },
+  {
+    "day": 599,
+    "at_risk": "2012",
+    "events": 21,
+    "censored": 0,
+    "survival": "0.36895642413907080591",
+    "cumulative_repeat": "0.63104357586092919409"
+  },
+  {
+    "day": 600,
+    "at_risk": "1991",
+    "events": 11,
+    "censored": 0,
+    "survival": "0.36691799085653450312",
+    "cumulative_repeat": "0.63308200914346549688"
+  },
+  {
+    "day": 601,
+    "at_risk": "1980",
+    "events": 12,
+    "censored": 1,
+    "survival": "0.36469424545740399098",
+    "cumulative_repeat": "0.63530575454259600902"
+  },
+  {
+    "day": 602,
+    "at_risk": "1967",
+    "events": 14,
+    "censored": 0,
+    "survival": "0.36209855687763599104",
+    "cumulative_repeat": "0.63790144312236400896"
+  },
+  {
+    "day": 603,
+    "at_risk": "1953",
+    "events": 18,
+    "censored": 0,
+    "survival": "0.35876124298936284827",
+    "cumulative_repeat": "0.64123875701063715173"
+  },
+  {
+    "day": 604,
+    "at_risk": "1935",
+    "events": 21,
+    "censored": 2,
+    "survival": "0.35486771011971084837",
+    "cumulative_repeat": "0.64513228988028915163"
+  },
+  {
+    "day": 605,
+    "at_risk": "1912",
+    "events": 11,
+    "censored": 0,
+    "survival": "0.35282610718492171692",
+    "cumulative_repeat": "0.64717389281507828308"
+  },
+  {
+    "day": 606,
+    "at_risk": "1901",
+    "events": 10,
+    "censored": 0,
+    "survival": "0.35097010451693159742",
+    "cumulative_repeat": "0.64902989548306840258"
+  },
+  {
+    "day": 607,
+    "at_risk": "1891",
+    "events": 19,
+    "censored": 0,
+    "survival": "0.34744369944775037037",
+    "cumulative_repeat": "0.65255630055224962963"
+  },
+  {
+    "day": 608,
+    "at_risk": "1872",
+    "events": 12,
+    "censored": 0,
+    "survival": "0.34521649624616222697",
+    "cumulative_repeat": "0.65478350375383777303"
+  },
+  {
+    "day": 609,
+    "at_risk": "1860",
+    "events": 11,
+    "censored": 0,
+    "survival": "0.34317489331137309552",
+    "cumulative_repeat": "0.65682510668862690448"
+  },
+  {
+    "day": 610,
+    "at_risk": "1849",
+    "events": 9,
+    "censored": 1,
+    "survival": "0.34150449091018198797",
+    "cumulative_repeat": "0.65849550908981801203"
+  },
+  {
+    "day": 611,
+    "at_risk": "1839",
+    "events": 14,
+    "censored": 1,
+    "survival": "0.33890467423114851987",
+    "cumulative_repeat": "0.66109532576885148013"
+  },
+  {
+    "day": 612,
+    "at_risk": "1824",
+    "events": 13,
+    "censored": 4,
+    "survival": "0.33648923521524669380",
+    "cumulative_repeat": "0.66351076478475330620"
+  },
+  {
+    "day": 613,
+    "at_risk": "1807",
+    "events": 19,
+    "censored": 0,
+    "survival": "0.33295116356660823935",
+    "cumulative_repeat": "0.66704883643339176065"
+  },
+  {
+    "day": 614,
+    "at_risk": "1788",
+    "events": 17,
+    "censored": 0,
+    "survival": "0.32978552051256330643",
+    "cumulative_repeat": "0.67021447948743669357"
+  },
+  {
+    "day": 615,
+    "at_risk": "1771",
+    "events": 14,
+    "censored": 0,
+    "survival": "0.32717852035040865578",
+    "cumulative_repeat": "0.67282147964959134422"
+  },
+  {
+    "day": 616,
+    "at_risk": "1757",
+    "events": 14,
+    "censored": 0,
+    "survival": "0.32457152018825400514",
+    "cumulative_repeat": "0.67542847981174599486"
+  },
+  {
+    "day": 617,
+    "at_risk": "1743",
+    "events": 15,
+    "censored": 0,
+    "survival": "0.32177830572880259373",
+    "cumulative_repeat": "0.67822169427119740627"
+  },
+  {
+    "day": 618,
+    "at_risk": "1728",
+    "events": 9,
+    "censored": 1,
+    "survival": "0.32010237705313174689",
+    "cumulative_repeat": "0.67989762294686825311"
+  },
+  {
+    "day": 619,
+    "at_risk": "1718",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.31879811824092457446",
+    "cumulative_repeat": "0.68120188175907542554"
+  },
+  {
+    "day": 620,
+    "at_risk": "1711",
+    "events": 15,
+    "censored": 0,
+    "survival": "0.31600327792905206212",
+    "cumulative_repeat": "0.68399672207094793788"
+  },
+  {
+    "day": 621,
+    "at_risk": "1696",
+    "events": 13,
+    "censored": 0,
+    "survival": "0.31358108299209588476",
+    "cumulative_repeat": "0.68641891700790411524"
+  },
+  {
+    "day": 622,
+    "at_risk": "1683",
+    "events": 13,
+    "censored": 0,
+    "survival": "0.31115888805513970739",
+    "cumulative_repeat": "0.68884111194486029261"
+  },
+  {
+    "day": 623,
+    "at_risk": "1670",
+    "events": 10,
+    "censored": 0,
+    "survival": "0.30929566118055803250",
+    "cumulative_repeat": "0.69070433881944196750"
+  },
+  {
+    "day": 624,
+    "at_risk": "1660",
+    "events": 11,
+    "censored": 0,
+    "survival": "0.30724611161851819012",
+    "cumulative_repeat": "0.69275388838148180988"
+  },
+  {
+    "day": 625,
+    "at_risk": "1649",
+    "events": 10,
+    "censored": 0,
+    "survival": "0.30538288474393651522",
+    "cumulative_repeat": "0.69461711525606348478"
+  },
+  {
+    "day": 626,
+    "at_risk": "1639",
+    "events": 8,
+    "censored": 0,
+    "survival": "0.30389230324427117531",
+    "cumulative_repeat": "0.69610769675572882469"
+  },
+  {
+    "day": 627,
+    "at_risk": "1631",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.30333333518189667284",
+    "cumulative_repeat": "0.69666666481810332716"
+  },
+  {
+    "day": 628,
+    "at_risk": "1628",
+    "events": 15,
+    "censored": 0,
+    "survival": "0.30053849487002416050",
+    "cumulative_repeat": "0.69946150512997583950"
+  },
+  {
+    "day": 629,
+    "at_risk": "1613",
+    "events": 11,
+    "censored": 0,
+    "survival": "0.29848894530798431812",
+    "cumulative_repeat": "0.70151105469201568188"
+  },
+  {
+    "day": 630,
+    "at_risk": "1602",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.29755733187069348067",
+    "cumulative_repeat": "0.70244266812930651933"
+  },
+  {
+    "day": 631,
+    "at_risk": "1597",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.29662571843340264322",
+    "cumulative_repeat": "0.70337428156659735678"
+  },
+  {
+    "day": 632,
+    "at_risk": "1592",
+    "events": 9,
+    "censored": 0,
+    "survival": "0.29494881424627913582",
+    "cumulative_repeat": "0.70505118575372086418"
+  },
+  {
+    "day": 633,
+    "at_risk": "1583",
+    "events": 9,
+    "censored": 0,
+    "survival": "0.29327191005915562841",
+    "cumulative_repeat": "0.70672808994084437159"
+  },
+  {
+    "day": 634,
+    "at_risk": "1574",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.29234029662186479096",
+    "cumulative_repeat": "0.70765970337813520904"
+  },
+  {
+    "day": 635,
+    "at_risk": "1569",
+    "events": 13,
+    "censored": 0,
+    "survival": "0.28991810168490861360",
+    "cumulative_repeat": "0.71008189831509138640"
+  },
+  {
+    "day": 636,
+    "at_risk": "1556",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.28861384287270144117",
+    "cumulative_repeat": "0.71138615712729855883"
+  },
+  {
+    "day": 637,
+    "at_risk": "1549",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.28768222943541060373",
+    "cumulative_repeat": "0.71231777056458939627"
+  },
+  {
+    "day": 638,
+    "at_risk": "1544",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.28656429331066159879",
+    "cumulative_repeat": "0.71343570668933840121"
+  },
+  {
+    "day": 639,
+    "at_risk": "1538",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.28526003449845442636",
+    "cumulative_repeat": "0.71473996550154557364"
+  },
+  {
+    "day": 640,
+    "at_risk": "1531",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.28432842106116358892",
+    "cumulative_repeat": "0.71567157893883641108"
+  },
+  {
+    "day": 641,
+    "at_risk": "1525",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.28358264159608512704",
+    "cumulative_repeat": "0.71641735840391487296"
+  },
+  {
+    "day": 642,
+    "at_risk": "1521",
+    "events": 9,
+    "censored": 0,
+    "survival": "0.28190463779965858783",
+    "cumulative_repeat": "0.71809536220034141217"
+  },
+  {
+    "day": 643,
+    "at_risk": "1512",
+    "events": 5,
+    "censored": 2,
+    "survival": "0.28097241346831051048",
+    "cumulative_repeat": "0.71902758653168948952"
+  },
+  {
+    "day": 644,
+    "at_risk": "1505",
+    "events": 10,
+    "censored": 0,
+    "survival": "0.27910548713297289912",
+    "cumulative_repeat": "0.72089451286702710088"
+  },
+  {
+    "day": 645,
+    "at_risk": "1495",
+    "events": 4,
+    "censored": 2,
+    "survival": "0.27835871659883785457",
+    "cumulative_repeat": "0.72164128340116214543"
+  },
+  {
+    "day": 646,
+    "at_risk": "1489",
+    "events": 6,
+    "censored": 2,
+    "survival": "0.27723705622301983770",
+    "cumulative_repeat": "0.72276294377698016230"
+  },
+  {
+    "day": 647,
+    "at_risk": "1481",
+    "events": 9,
+    "censored": 0,
+    "survival": "0.27555229355859905543",
+    "cumulative_repeat": "0.72444770644140094457"
+  },
+  {
+    "day": 649,
+    "at_risk": "1472",
+    "events": 4,
+    "censored": 2,
+    "survival": "0.27480351015218981887",
+    "cumulative_repeat": "0.72519648984781018113"
+  },
+  {
+    "day": 650,
+    "at_risk": "1466",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.27367880274365425344",
+    "cumulative_repeat": "0.72632119725634574656"
+  },
+  {
+    "day": 651,
+    "at_risk": "1460",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.27255409533511868802",
+    "cumulative_repeat": "0.72744590466488131198"
+  },
+  {
+    "day": 652,
+    "at_risk": "1454",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.27124193669182719502",
+    "cumulative_repeat": "0.72875806330817280498"
+  },
+  {
+    "day": 653,
+    "at_risk": "1447",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.27067958298755941231",
+    "cumulative_repeat": "0.72932041701244058769"
+  },
+  {
+    "day": 654,
+    "at_risk": "1444",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.26955487557902384688",
+    "cumulative_repeat": "0.73044512442097615312"
+  },
+  {
+    "day": 655,
+    "at_risk": "1437",
+    "events": 8,
+    "censored": 0,
+    "survival": "0.26805422213112392289",
+    "cumulative_repeat": "0.73194577786887607711"
+  },
+  {
+    "day": 656,
+    "at_risk": "1429",
+    "events": 9,
+    "censored": 0,
+    "survival": "0.26636598700223650841",
+    "cumulative_repeat": "0.73363401299776349159"
+  },
+  {
+    "day": 657,
+    "at_risk": "1420",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.26580324195927403691",
+    "cumulative_repeat": "0.73419675804072596309"
+  },
+  {
+    "day": 658,
+    "at_risk": "1417",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.26467775187334909392",
+    "cumulative_repeat": "0.73532224812665090608"
+  },
+  {
+    "day": 659,
+    "at_risk": "1411",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.26373984346841164142",
+    "cumulative_repeat": "0.73626015653158835858"
+  },
+  {
+    "day": 660,
+    "at_risk": "1406",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.26280193506347418893",
+    "cumulative_repeat": "0.73719806493652581107"
+  },
+  {
+    "day": 661,
+    "at_risk": "1401",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.26167644497754924594",
+    "cumulative_repeat": "0.73832355502245075406"
+  },
+  {
+    "day": 662,
+    "at_risk": "1394",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.26092557999913447048",
+    "cumulative_repeat": "0.73907442000086552952"
+  },
+  {
+    "day": 663,
+    "at_risk": "1390",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.25979928253151230730",
+    "cumulative_repeat": "0.74020071746848769270"
+  },
+  {
+    "day": 664,
+    "at_risk": "1384",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.25886070130849383798",
+    "cumulative_repeat": "0.74113929869150616202"
+  },
+  {
+    "day": 665,
+    "at_risk": "1378",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.25792143896702615352",
+    "cumulative_repeat": "0.74207856103297384648"
+  },
+  {
+    "day": 666,
+    "at_risk": "1373",
+    "events": 8,
+    "censored": 0,
+    "survival": "0.25641861922067785838",
+    "cumulative_repeat": "0.74358138077932214162"
+  },
+  {
+    "day": 667,
+    "at_risk": "1365",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.25510365194262310013",
+    "cumulative_repeat": "0.74489634805737689987"
+  },
+  {
+    "day": 668,
+    "at_risk": "1358",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.25416438960115541566",
+    "cumulative_repeat": "0.74583561039884458434"
+  },
+  {
+    "day": 669,
+    "at_risk": "1353",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.25341297972798126809",
+    "cumulative_repeat": "0.74658702027201873191"
+  },
+  {
+    "day": 670,
+    "at_risk": "1348",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.25228502877963713782",
+    "cumulative_repeat": "0.74771497122036286218"
+  },
+  {
+    "day": 671,
+    "at_risk": "1341",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.25172063274209879970",
+    "cumulative_repeat": "0.74827936725790120030"
+  },
+  {
+    "day": 672,
+    "at_risk": "1338",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.25115623670456046159",
+    "cumulative_repeat": "0.74884376329543953841"
+  },
+  {
+    "day": 673,
+    "at_risk": "1334",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.25002659845851296326",
+    "cumulative_repeat": "0.74997340154148703674"
+  },
+  {
+    "day": 674,
+    "at_risk": "1328",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.24927350629448129771",
+    "cumulative_repeat": "0.75072649370551870229"
+  },
+  {
+    "day": 675,
+    "at_risk": "1323",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.24870826024846206574",
+    "cumulative_repeat": "0.75129173975153793426"
+  },
+  {
+    "day": 676,
+    "at_risk": "1320",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.24776618350509667913",
+    "cumulative_repeat": "0.75223381649490332087"
+  },
+  {
+    "day": 677,
+    "at_risk": "1315",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.24720093745907744716",
+    "cumulative_repeat": "0.75279906254092255284"
+  },
+  {
+    "day": 678,
+    "at_risk": "1312",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.24644727606438513787",
+    "cumulative_repeat": "0.75355272393561486213"
+  },
+  {
+    "day": 679,
+    "at_risk": "1308",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.24607044536703898322",
+    "cumulative_repeat": "0.75392955463296101678"
+  },
+  {
+    "day": 680,
+    "at_risk": "1306",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.24531678397234667393",
+    "cumulative_repeat": "0.75468321602765332607"
+  },
+  {
+    "day": 681,
+    "at_risk": "1302",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.24437470722898128731",
+    "cumulative_repeat": "0.75562529277101871269"
+  },
+  {
+    "day": 682,
+    "at_risk": "1296",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.24362046430543504878",
+    "cumulative_repeat": "0.75637953569456495122"
+  },
+  {
+    "day": 683,
+    "at_risk": "1291",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.24305434393911722914",
+    "cumulative_repeat": "0.75694565606088277086"
+  },
+  {
+    "day": 684,
+    "at_risk": "1288",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.24248822357279940951",
+    "cumulative_repeat": "0.75751177642720059049"
+  },
+  {
+    "day": 685,
+    "at_risk": "1284",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.24173280854609286929",
+    "cumulative_repeat": "0.75826719145390713071"
+  },
+  {
+    "day": 686,
+    "at_risk": "1280",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.24097739351938632908",
+    "cumulative_repeat": "0.75902260648061367092"
+  },
+  {
+    "day": 687,
+    "at_risk": "1275",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.24078839164211622215",
+    "cumulative_repeat": "0.75921160835788377785"
+  },
+  {
+    "day": 688,
+    "at_risk": "1274",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.24003238413303579445",
+    "cumulative_repeat": "0.75996761586696420555"
+  },
+  {
+    "day": 689,
+    "at_risk": "1270",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.23927637662395536675",
+    "cumulative_repeat": "0.76072362337604463325"
+  },
+  {
+    "day": 691,
+    "at_risk": "1265",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.23814146890874293023",
+    "cumulative_repeat": "0.76185853109125706977"
+  },
+  {
+    "day": 692,
+    "at_risk": "1259",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.23738486376526797255",
+    "cumulative_repeat": "0.76261513623473202745"
+  },
+  {
+    "day": 693,
+    "at_risk": "1254",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.23681695739262379080",
+    "cumulative_repeat": "0.76318304260737620920"
+  },
+  {
+    "day": 694,
+    "at_risk": "1251",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.23643835314419433629",
+    "cumulative_repeat": "0.76356164685580566371"
+  },
+  {
+    "day": 695,
+    "at_risk": "1249",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.23605974889576488179",
+    "cumulative_repeat": "0.76394025110423511821"
+  },
+  {
+    "day": 696,
+    "at_risk": "1247",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.23530254039890597279",
+    "cumulative_repeat": "0.76469745960109402721"
+  },
+  {
+    "day": 697,
+    "at_risk": "1242",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.23473417677475402599",
+    "cumulative_repeat": "0.76526582322524597401"
+  },
+  {
+    "day": 698,
+    "at_risk": "1238",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.23435496162649109542",
+    "cumulative_repeat": "0.76564503837350890458"
+  },
+  {
+    "day": 699,
+    "at_risk": "1236",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.23416535405235963013",
+    "cumulative_repeat": "0.76583464594764036987"
+  },
+  {
+    "day": 700,
+    "at_risk": "1235",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.23359653132996523427",
+    "cumulative_repeat": "0.76640346867003476573"
+  },
+  {
+    "day": 701,
+    "at_risk": "1232",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.23302770860757083841",
+    "cumulative_repeat": "0.76697229139242916159"
+  },
+  {
+    "day": 702,
+    "at_risk": "1229",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.23189006316278204668",
+    "cumulative_repeat": "0.76810993683721795332"
+  },
+  {
+    "day": 703,
+    "at_risk": "1222",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.23132077495534477488",
+    "cumulative_repeat": "0.76867922504465522512"
+  },
+  {
+    "day": 704,
+    "at_risk": "1219",
+    "events": 7,
+    "censored": 2,
+    "survival": "0.22999243580465780735",
+    "cumulative_repeat": "0.77000756419534219265"
+  },
+  {
+    "day": 705,
+    "at_risk": "1210",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.22923213023174984765",
+    "cumulative_repeat": "0.77076786976825015235"
+  },
+  {
+    "day": 706,
+    "at_risk": "1206",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.22866190105206887788",
+    "cumulative_repeat": "0.77133809894793112212"
+  },
+  {
+    "day": 707,
+    "at_risk": "1202",
+    "events": 2,
+    "censored": 3,
+    "survival": "0.22828143199873764847",
+    "cumulative_repeat": "0.77171856800126235153"
+  },
+  {
+    "day": 708,
+    "at_risk": "1197",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.22713716416917004121",
+    "cumulative_repeat": "0.77286283583082995879"
+  },
+  {
+    "day": 709,
+    "at_risk": "1191",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.22656503025438623758",
+    "cumulative_repeat": "0.77343496974561376242"
+  },
+  {
+    "day": 710,
+    "at_risk": "1188",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.22580218503467449940",
+    "cumulative_repeat": "0.77419781496532550060"
+  },
+  {
+    "day": 711,
+    "at_risk": "1184",
+    "events": 1,
+    "censored": 2,
+    "survival": "0.22561147372974656486",
+    "cumulative_repeat": "0.77438852627025343514"
+  },
+  {
+    "day": 712,
+    "at_risk": "1181",
+    "events": 3,
+    "censored": 2,
+    "survival": "0.22503837091756261931",
+    "cumulative_repeat": "0.77496162908243738069"
+  },
+  {
+    "day": 713,
+    "at_risk": "1176",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.22465565259967560805",
+    "cumulative_repeat": "0.77534434740032439195"
+  },
+  {
+    "day": 714,
+    "at_risk": "1173",
+    "events": 3,
+    "censored": 3,
+    "survival": "0.22408108571323142491",
+    "cumulative_repeat": "0.77591891428676857509"
+  },
+  {
+    "day": 715,
+    "at_risk": "1167",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.22369705643180343618",
+    "cumulative_repeat": "0.77630294356819656382"
+  },
+  {
+    "day": 716,
+    "at_risk": "1165",
+    "events": 2,
+    "censored": 2,
+    "survival": "0.22331302715037544745",
+    "cumulative_repeat": "0.77668697284962455255"
+  },
+  {
+    "day": 717,
+    "at_risk": "1161",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.22215895465864224101",
+    "cumulative_repeat": "0.77784104534135775899"
+  },
+  {
+    "day": 718,
+    "at_risk": "1154",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.22158141838136674125",
+    "cumulative_repeat": "0.77841858161863325875"
+  },
+  {
+    "day": 719,
+    "at_risk": "1151",
+    "events": 1,
+    "censored": 2,
+    "survival": "0.22138890628894157466",
+    "cumulative_repeat": "0.77861109371105842534"
+  },
+  {
+    "day": 720,
+    "at_risk": "1148",
+    "events": 7,
+    "censored": 2,
+    "survival": "0.22003897393352119921",
+    "cumulative_repeat": "0.77996102606647880079"
+  },
+  {
+    "day": 721,
+    "at_risk": "1139",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.21926622951233236269",
+    "cumulative_repeat": "0.78073377048766763731"
+  },
+  {
+    "day": 722,
+    "at_risk": "1135",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.21887985730173794443",
+    "cumulative_repeat": "0.78112014269826205557"
+  },
+  {
+    "day": 723,
+    "at_risk": "1133",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.21791392677525189877",
+    "cumulative_repeat": "0.78208607322474810123"
+  },
+  {
+    "day": 724,
+    "at_risk": "1127",
+    "events": 8,
+    "censored": 1,
+    "survival": "0.21636706660293422780",
+    "cumulative_repeat": "0.78363293339706577220"
+  },
+  {
+    "day": 725,
+    "at_risk": "1118",
+    "events": 3,
+    "censored": 4,
+    "survival": "0.21578647518986732021",
+    "cumulative_repeat": "0.78421352481013267979"
+  },
+  {
+    "day": 726,
+    "at_risk": "1111",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.21500956618828363949",
+    "cumulative_repeat": "0.78499043381171636051"
+  },
+  {
+    "day": 727,
+    "at_risk": "1106",
+    "events": 4,
+    "censored": 3,
+    "survival": "0.21423195473733143826",
+    "cumulative_repeat": "0.78576804526266856174"
+  },
+  {
+    "day": 728,
+    "at_risk": "1099",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.21325728706336723700",
+    "cumulative_repeat": "0.78674271293663276300"
+  },
+  {
+    "day": 729,
+    "at_risk": "1094",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.21228261938940303573",
+    "cumulative_repeat": "0.78771738061059696427"
+  },
+  {
+    "day": 730,
+    "at_risk": "1089",
+    "events": 11,
+    "censored": 0,
+    "survival": "0.21013835050668179295",
+    "cumulative_repeat": "0.78986164949331820705"
+  },
+  {
+    "day": 731,
+    "at_risk": "1078",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.20974848343709611244",
+    "cumulative_repeat": "0.79025151656290388756"
+  },
+  {
+    "day": 732,
+    "at_risk": "1076",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.20877381576313191118",
+    "cumulative_repeat": "0.79122618423686808882"
+  },
+  {
+    "day": 733,
+    "at_risk": "1070",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.20799335290046599749",
+    "cumulative_repeat": "0.79200664709953400251"
+  },
+  {
+    "day": 734,
+    "at_risk": "1066",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.20779823718479951907",
+    "cumulative_repeat": "0.79220176281520048093"
+  },
+  {
+    "day": 735,
+    "at_risk": "1065",
+    "events": 5,
+    "censored": 2,
+    "survival": "0.20682265860646712696",
+    "cumulative_repeat": "0.79317734139353287304"
+  },
+  {
+    "day": 736,
+    "at_risk": "1058",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.20604072038867330039",
+    "cumulative_repeat": "0.79395927961132669961"
+  },
+  {
+    "day": 737,
+    "at_risk": "1053",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.20506236938967675101",
+    "cumulative_repeat": "0.79493763061032324899"
+  },
+  {
+    "day": 738,
+    "at_risk": "1047",
+    "events": 9,
+    "censored": 0,
+    "survival": "0.20329965561268812564",
+    "cumulative_repeat": "0.79670034438731187436"
+  },
+  {
+    "day": 739,
+    "at_risk": "1038",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.20251622726735984770",
+    "cumulative_repeat": "0.79748377273264015230"
+  },
+  {
+    "day": 740,
+    "at_risk": "1034",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.20192865600836363924",
+    "cumulative_repeat": "0.79807134399163636076"
+  },
+  {
+    "day": 741,
+    "at_risk": "1031",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.20114522766303536131",
+    "cumulative_repeat": "0.79885477233696463869"
+  },
+  {
+    "day": 742,
+    "at_risk": "1027",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.20016594223137501388",
+    "cumulative_repeat": "0.79983405776862498612"
+  },
+  {
+    "day": 743,
+    "at_risk": "1021",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.19977384440134293746",
+    "cumulative_repeat": "0.80022615559865706254"
+  },
+  {
+    "day": 744,
+    "at_risk": "1018",
+    "events": 8,
+    "censored": 2,
+    "survival": "0.19820391242176460396",
+    "cumulative_repeat": "0.80179608757823539604"
+  },
+  {
+    "day": 745,
+    "at_risk": "1008",
+    "events": 8,
+    "censored": 1,
+    "survival": "0.19663086549778234520",
+    "cumulative_repeat": "0.80336913450221765480"
+  },
+  {
+    "day": 746,
+    "at_risk": "999",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.19525307164544553197",
+    "cumulative_repeat": "0.80474692835455446803"
+  },
+  {
+    "day": 747,
+    "at_risk": "992",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.19485941625906358533",
+    "cumulative_repeat": "0.80514058374093641467"
+  },
+  {
+    "day": 748,
+    "at_risk": "989",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.19426833612885409013",
+    "cumulative_repeat": "0.80573166387114590987"
+  },
+  {
+    "day": 749,
+    "at_risk": "985",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.19387388265448078233",
+    "cumulative_repeat": "0.80612611734551921767"
+  },
+  {
+    "day": 750,
+    "at_risk": "983",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.19387388265448078233",
+    "cumulative_repeat": "0.80612611734551921767"
+  },
+  {
+    "day": 751,
+    "at_risk": "982",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.19308417233816925165",
+    "cumulative_repeat": "0.80691582766183074835"
+  },
+  {
+    "day": 752,
+    "at_risk": "977",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.19249128337500189469",
+    "cumulative_repeat": "0.80750871662499810531"
+  },
+  {
+    "day": 753,
+    "at_risk": "974",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.19150313510305629975",
+    "cumulative_repeat": "0.80849686489694370025"
+  },
+  {
+    "day": 754,
+    "at_risk": "968",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.19110746746854585285",
+    "cumulative_repeat": "0.80889253253145414715"
+  },
+  {
+    "day": 755,
+    "at_risk": "965",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.19031531216297675086",
+    "cumulative_repeat": "0.80968468783702324914"
+  },
+  {
+    "day": 756,
+    "at_risk": "960",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.18952233169563101440",
+    "cumulative_repeat": "0.81047766830436898560"
+  },
+  {
+    "day": 757,
+    "at_risk": "955",
+    "events": 3,
+    "censored": 2,
+    "survival": "0.18892697358559238294",
+    "cumulative_repeat": "0.81107302641440761706"
+  },
+  {
+    "day": 758,
+    "at_risk": "950",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.18813149159154778343",
+    "cumulative_repeat": "0.81186850840845221657"
+  },
+  {
+    "day": 759,
+    "at_risk": "946",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.18773375059452548368",
+    "cumulative_repeat": "0.81226624940547451632"
+  },
+  {
+    "day": 760,
+    "at_risk": "944",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.18733600959750318393",
+    "cumulative_repeat": "0.81266399040249681607"
+  },
+  {
+    "day": 761,
+    "at_risk": "942",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.18594391610792513479",
+    "cumulative_repeat": "0.81405608389207486521"
+  },
+  {
+    "day": 762,
+    "at_risk": "935",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.18534730461239168516",
+    "cumulative_repeat": "0.81465269538760831484"
+  },
+  {
+    "day": 763,
+    "at_risk": "932",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.18475069311685823553",
+    "cumulative_repeat": "0.81524930688314176447"
+  },
+  {
+    "day": 764,
+    "at_risk": "928",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.18415343872100632313",
+    "cumulative_repeat": "0.81584656127899367687"
+  },
+  {
+    "day": 766,
+    "at_risk": "925",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.18375526912377171486",
+    "cumulative_repeat": "0.81624473087622828514"
+  },
+  {
+    "day": 767,
+    "at_risk": "923",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.18295892992930249833",
+    "cumulative_repeat": "0.81704107007069750167"
+  },
+  {
+    "day": 768,
+    "at_risk": "919",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.18275984513068519420",
+    "cumulative_repeat": "0.81724015486931480580"
+  },
+  {
+    "day": 769,
+    "at_risk": "918",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.18216259073483328180",
+    "cumulative_repeat": "0.81783740926516671820"
+  },
+  {
+    "day": 770,
+    "at_risk": "914",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.18156468288778240669",
+    "cumulative_repeat": "0.81843531711221759331"
+  },
+  {
+    "day": 771,
+    "at_risk": "911",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.18096677504073153159",
+    "cumulative_repeat": "0.81903322495926846841"
+  },
+  {
+    "day": 772,
+    "at_risk": "908",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.18056816980936428152",
+    "cumulative_repeat": "0.81943183019063571848"
+  },
+  {
+    "day": 773,
+    "at_risk": "906",
+    "events": 5,
+    "censored": 2,
+    "survival": "0.17957165673094615634",
+    "cumulative_repeat": "0.82042834326905384366"
+  },
+  {
+    "day": 774,
+    "at_risk": "899",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.17917216472487063653",
+    "cumulative_repeat": "0.82082783527512936347"
+  },
+  {
+    "day": 775,
+    "at_risk": "897",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.17857292671575735681",
+    "cumulative_repeat": "0.82142707328424264319"
+  },
+  {
+    "day": 776,
+    "at_risk": "894",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.17777394270360631719",
+    "cumulative_repeat": "0.82222605729639368281"
+  },
+  {
+    "day": 777,
+    "at_risk": "890",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.17717470469449303747",
+    "cumulative_repeat": "0.82282529530550696253"
+  },
+  {
+    "day": 778,
+    "at_risk": "887",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.17657546668537975775",
+    "cumulative_repeat": "0.82342453331462024225"
+  },
+  {
+    "day": 779,
+    "at_risk": "884",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.17557673667019095821",
+    "cumulative_repeat": "0.82442326332980904179"
+  },
+  {
+    "day": 780,
+    "at_risk": "879",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.17497749866107767849",
+    "cumulative_repeat": "0.82502250133892232151"
+  },
+  {
+    "day": 781,
+    "at_risk": "876",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.17417851464892663886",
+    "cumulative_repeat": "0.82582148535107336114"
+  },
+  {
+    "day": 782,
+    "at_risk": "872",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.17317978463373783933",
+    "cumulative_repeat": "0.82682021536626216067"
+  },
+  {
+    "day": 783,
+    "at_risk": "867",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.17278029262766231951",
+    "cumulative_repeat": "0.82721970737233768049"
+  },
+  {
+    "day": 784,
+    "at_risk": "865",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.17238080062158679970",
+    "cumulative_repeat": "0.82761919937841320030"
+  },
+  {
+    "day": 785,
+    "at_risk": "863",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.17158181660943576007",
+    "cumulative_repeat": "0.82841818339056423993"
+  },
+  {
+    "day": 786,
+    "at_risk": "859",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.17098257860032248035",
+    "cumulative_repeat": "0.82901742139967751965"
+  },
+  {
+    "day": 787,
+    "at_risk": "856",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.16998384858513368081",
+    "cumulative_repeat": "0.83001615141486631919"
+  },
+  {
+    "day": 788,
+    "at_risk": "851",
+    "events": 3,
+    "censored": 2,
+    "survival": "0.16938461057602040109",
+    "cumulative_repeat": "0.83061538942397959891"
+  },
+  {
+    "day": 789,
+    "at_risk": "846",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.16838351949696590700",
+    "cumulative_repeat": "0.83161648050303409300"
+  },
+  {
+    "day": 790,
+    "at_risk": "840",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.16738123664281730041",
+    "cumulative_repeat": "0.83261876335718269959"
+  },
+  {
+    "day": 791,
+    "at_risk": "835",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.16657941035949841514",
+    "cumulative_repeat": "0.83342058964050158486"
+  },
+  {
+    "day": 792,
+    "at_risk": "831",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.16597804064700925118",
+    "cumulative_repeat": "0.83402195935299074882"
+  },
+  {
+    "day": 793,
+    "at_risk": "828",
+    "events": 7,
+    "censored": 0,
+    "survival": "0.16457484465120120196",
+    "cumulative_repeat": "0.83542515534879879804"
+  },
+  {
+    "day": 794,
+    "at_risk": "821",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.16417393150954175932",
+    "cumulative_repeat": "0.83582606849045824068"
+  },
+  {
+    "day": 795,
+    "at_risk": "819",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.16357256179705259537",
+    "cumulative_repeat": "0.83642743820294740463"
+  },
+  {
+    "day": 796,
+    "at_risk": "816",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.16297119208456343142",
+    "cumulative_repeat": "0.83702880791543656858"
+  },
+  {
+    "day": 797,
+    "at_risk": "813",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.16196890923041482483",
+    "cumulative_repeat": "0.83803109076958517517"
+  },
+  {
+    "day": 798,
+    "at_risk": "808",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.16156799608875538219",
+    "cumulative_repeat": "0.83843200391124461781"
+  },
+  {
+    "day": 799,
+    "at_risk": "806",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.16076616980543649692",
+    "cumulative_repeat": "0.83923383019456350308"
+  },
+  {
+    "day": 800,
+    "at_risk": "802",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.16036525666377705428",
+    "cumulative_repeat": "0.83963474333622294572"
+  },
+  {
+    "day": 801,
+    "at_risk": "800",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.15976388695128789033",
+    "cumulative_repeat": "0.84023611304871210967"
+  },
+  {
+    "day": 802,
+    "at_risk": "796",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.15916176174921017215",
+    "cumulative_repeat": "0.84083823825078982785"
+  },
+  {
+    "day": 803,
+    "at_risk": "793",
+    "events": 8,
+    "censored": 0,
+    "survival": "0.15755609454366959034",
+    "cumulative_repeat": "0.84244390545633040966"
+  },
+  {
+    "day": 804,
+    "at_risk": "785",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.15695396934159187216",
+    "cumulative_repeat": "0.84304603065840812784"
+  },
+  {
+    "day": 805,
+    "at_risk": "782",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.15635184413951415398",
+    "cumulative_repeat": "0.84364815586048584602"
+  },
+  {
+    "day": 806,
+    "at_risk": "779",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.15554901053674386307",
+    "cumulative_repeat": "0.84445098946325613693"
+  },
+  {
+    "day": 807,
+    "at_risk": "775",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.15534830213605129035",
+    "cumulative_repeat": "0.84465169786394870965"
+  },
+  {
+    "day": 808,
+    "at_risk": "774",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.15474617693397357217",
+    "cumulative_repeat": "0.84525382306602642783"
+  },
+  {
+    "day": 809,
+    "at_risk": "771",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.15414405173189585399",
+    "cumulative_repeat": "0.84585594826810414601"
+  },
+  {
+    "day": 810,
+    "at_risk": "768",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.15334121812912556308",
+    "cumulative_repeat": "0.84665878187087443692"
+  },
+  {
+    "day": 811,
+    "at_risk": "764",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.15273909292704784490",
+    "cumulative_repeat": "0.84726090707295215510"
+  },
+  {
+    "day": 812,
+    "at_risk": "760",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.15233714794566087689",
+    "cumulative_repeat": "0.84766285205433912311"
+  },
+  {
+    "day": 813,
+    "at_risk": "758",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.15213617545496739288",
+    "cumulative_repeat": "0.84786382454503260712"
+  },
+  {
+    "day": 814,
+    "at_risk": "757",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.15113131300149997285",
+    "cumulative_repeat": "0.84886868699850002715"
+  },
+  {
+    "day": 815,
+    "at_risk": "752",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.15072936802011300484",
+    "cumulative_repeat": "0.84927063197988699516"
+  },
+  {
+    "day": 817,
+    "at_risk": "750",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.15032742303872603683",
+    "cumulative_repeat": "0.84967257696127396317"
+  },
+  {
+    "day": 818,
+    "at_risk": "748",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.14992547805733906881",
+    "cumulative_repeat": "0.85007452194266093119"
+  },
+  {
+    "day": 820,
+    "at_risk": "746",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.14972450556664558481",
+    "cumulative_repeat": "0.85027549443335441519"
+  },
+  {
+    "day": 821,
+    "at_risk": "745",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.14892061560387164878",
+    "cumulative_repeat": "0.85107938439612835122"
+  },
+  {
+    "day": 822,
+    "at_risk": "741",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.14851867062248468077",
+    "cumulative_repeat": "0.85148132937751531923"
+  },
+  {
+    "day": 823,
+    "at_risk": "739",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.14791575315040422875",
+    "cumulative_repeat": "0.85208424684959577125"
+  },
+  {
+    "day": 824,
+    "at_risk": "736",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.14711186318763029272",
+    "cumulative_repeat": "0.85288813681236970728"
+  },
+  {
+    "day": 825,
+    "at_risk": "731",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.14691061576876896537",
+    "cumulative_repeat": "0.85308938423123103463"
+  },
+  {
+    "day": 826,
+    "at_risk": "730",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.14630687351218498332",
+    "cumulative_repeat": "0.85369312648781501668"
+  },
+  {
+    "day": 827,
+    "at_risk": "727",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.14570313125560100127",
+    "cumulative_repeat": "0.85429686874439899873"
+  },
+  {
+    "day": 828,
+    "at_risk": "724",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.14469689416129436453",
+    "cumulative_repeat": "0.85530310583870563547"
+  },
+  {
+    "day": 829,
+    "at_risk": "719",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.14449564674243303718",
+    "cumulative_repeat": "0.85550435325756696282"
+  },
+  {
+    "day": 830,
+    "at_risk": "718",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.14369065706698772778",
+    "cumulative_repeat": "0.85630934293301227222"
+  },
+  {
+    "day": 831,
+    "at_risk": "714",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.14308691481040374573",
+    "cumulative_repeat": "0.85691308518959625427"
+  },
+  {
+    "day": 832,
+    "at_risk": "711",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.14228192513495843633",
+    "cumulative_repeat": "0.85771807486504156367"
+  },
+  {
+    "day": 833,
+    "at_risk": "707",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.14107444062179047223",
+    "cumulative_repeat": "0.85892555937820952777"
+  },
+  {
+    "day": 834,
+    "at_risk": "701",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.14067194578406781753",
+    "cumulative_repeat": "0.85932805421593218247"
+  },
+  {
+    "day": 835,
+    "at_risk": "699",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.14047069836520649018",
+    "cumulative_repeat": "0.85952930163479350982"
+  },
+  {
+    "day": 836,
+    "at_risk": "698",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.14006820352748383548",
+    "cumulative_repeat": "0.85993179647251616452"
+  },
+  {
+    "day": 837,
+    "at_risk": "696",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.13926321385203852608",
+    "cumulative_repeat": "0.86073678614796147392"
+  },
+  {
+    "day": 838,
+    "at_risk": "692",
+    "events": 8,
+    "censored": 0,
+    "survival": "0.13765323450114790728",
+    "cumulative_repeat": "0.86234676549885209272"
+  },
+  {
+    "day": 839,
+    "at_risk": "684",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.13684824482570259788",
+    "cumulative_repeat": "0.86315175517429740212"
+  },
+  {
+    "day": 840,
+    "at_risk": "680",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.13644574998797994318",
+    "cumulative_repeat": "0.86355425001202005682"
+  },
+  {
+    "day": 841,
+    "at_risk": "678",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.13584200773139596113",
+    "cumulative_repeat": "0.86415799226860403887"
+  },
+  {
+    "day": 842,
+    "at_risk": "675",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.13543951289367330643",
+    "cumulative_repeat": "0.86456048710632669357"
+  },
+  {
+    "day": 843,
+    "at_risk": "673",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.13463452321822799703",
+    "cumulative_repeat": "0.86536547678177200297"
+  },
+  {
+    "day": 844,
+    "at_risk": "669",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.13403078096164401498",
+    "cumulative_repeat": "0.86596921903835598502"
+  },
+  {
+    "day": 845,
+    "at_risk": "666",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.13362828612392136028",
+    "cumulative_repeat": "0.86637171387607863972"
+  },
+  {
+    "day": 846,
+    "at_risk": "664",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.13322579128619870558",
+    "cumulative_repeat": "0.86677420871380129442"
+  },
+  {
+    "day": 847,
+    "at_risk": "662",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.13302454386733737823",
+    "cumulative_repeat": "0.86697545613266262177"
+  },
+  {
+    "day": 848,
+    "at_risk": "660",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.13241988684975857197",
+    "cumulative_repeat": "0.86758011315024142803"
+  },
+  {
+    "day": 849,
+    "at_risk": "657",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.13201678217137270113",
+    "cumulative_repeat": "0.86798321782862729887"
+  },
+  {
+    "day": 850,
+    "at_risk": "655",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.13181522983217976571",
+    "cumulative_repeat": "0.86818477016782023429"
+  },
+  {
+    "day": 851,
+    "at_risk": "654",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.13100902047540802402",
+    "cumulative_repeat": "0.86899097952459197598"
+  },
+  {
+    "day": 852,
+    "at_risk": "650",
+    "events": 8,
+    "censored": 0,
+    "survival": "0.12939660176186454065",
+    "cumulative_repeat": "0.87060339823813545935"
+  },
+  {
+    "day": 853,
+    "at_risk": "642",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.12818728772670692812",
+    "cumulative_repeat": "0.87181271227329307188"
+  },
+  {
+    "day": 854,
+    "at_risk": "636",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.12778418304832105727",
+    "cumulative_repeat": "0.87221581695167894273"
+  },
+  {
+    "day": 855,
+    "at_risk": "634",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.12717952603074225101",
+    "cumulative_repeat": "0.87282047396925774899"
+  },
+  {
+    "day": 856,
+    "at_risk": "631",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.12657486901316344474",
+    "cumulative_repeat": "0.87342513098683655526"
+  },
+  {
+    "day": 857,
+    "at_risk": "628",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.12556710731719876763",
+    "cumulative_repeat": "0.87443289268280123237"
+  },
+  {
+    "day": 858,
+    "at_risk": "623",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.12496245029961996137",
+    "cumulative_repeat": "0.87503754970038003863"
+  },
+  {
+    "day": 859,
+    "at_risk": "620",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.12455934562123409053",
+    "cumulative_repeat": "0.87544065437876590947"
+  },
+  {
+    "day": 860,
+    "at_risk": "618",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.12435779328204115510",
+    "cumulative_repeat": "0.87564220671795884490"
+  },
+  {
+    "day": 861,
+    "at_risk": "616",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.12355027514384608267",
+    "cumulative_repeat": "0.87644972485615391733"
+  },
+  {
+    "day": 862,
+    "at_risk": "612",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.12334839560929731456",
+    "cumulative_repeat": "0.87665160439070268544"
+  },
+  {
+    "day": 863,
+    "at_risk": "611",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.12213711840200470590",
+    "cumulative_repeat": "0.87786288159799529410"
+  },
+  {
+    "day": 864,
+    "at_risk": "605",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.12132960026380963347",
+    "cumulative_repeat": "0.87867039973619036653"
+  },
+  {
+    "day": 866,
+    "at_risk": "601",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.12092584119471209725",
+    "cumulative_repeat": "0.87907415880528790275"
+  },
+  {
+    "day": 867,
+    "at_risk": "599",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.12032020259106579292",
+    "cumulative_repeat": "0.87967979740893420708"
+  },
+  {
+    "day": 868,
+    "at_risk": "596",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.11971456398741948860",
+    "cumulative_repeat": "0.88028543601258051140"
+  },
+  {
+    "day": 869,
+    "at_risk": "593",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.11890704584922441616",
+    "cumulative_repeat": "0.88109295415077558384"
+  },
+  {
+    "day": 870,
+    "at_risk": "589",
+    "events": 6,
+    "censored": 0,
+    "survival": "0.11769576864193180751",
+    "cumulative_repeat": "0.88230423135806819249"
+  },
+  {
+    "day": 871,
+    "at_risk": "583",
+    "events": 6,
+    "censored": 1,
+    "survival": "0.11648449143463919885",
+    "cumulative_repeat": "0.88351550856536080115"
+  },
+  {
+    "day": 872,
+    "at_risk": "576",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.11567557135523198220",
+    "cumulative_repeat": "0.88432442864476801780"
+  },
+  {
+    "day": 873,
+    "at_risk": "571",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.11486523460318132032",
+    "cumulative_repeat": "0.88513476539681867968"
+  },
+  {
+    "day": 874,
+    "at_risk": "566",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.11445935038196866548",
+    "cumulative_repeat": "0.88554064961803133452"
+  },
+  {
+    "day": 875,
+    "at_risk": "564",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.11405346616075601064",
+    "cumulative_repeat": "0.88594653383924398936"
+  },
+  {
+    "day": 876,
+    "at_risk": "562",
+    "events": 5,
+    "censored": 0,
+    "survival": "0.11303875560772437353",
+    "cumulative_repeat": "0.88696124439227562647"
+  },
+  {
+    "day": 877,
+    "at_risk": "557",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.11263287138651171869",
+    "cumulative_repeat": "0.88736712861348828131"
+  },
+  {
+    "day": 878,
+    "at_risk": "554",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.11181963765808925141",
+    "cumulative_repeat": "0.88818036234191074859"
+  },
+  {
+    "day": 879,
+    "at_risk": "550",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.11141302079387801777",
+    "cumulative_repeat": "0.88858697920612198223"
+  },
+  {
+    "day": 880,
+    "at_risk": "548",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.11059978706545555048",
+    "cumulative_repeat": "0.88940021293454444952"
+  },
+  {
+    "day": 881,
+    "at_risk": "544",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.11019317020124431684",
+    "cumulative_repeat": "0.88980682979875568316"
+  },
+  {
+    "day": 882,
+    "at_risk": "542",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.10998986176913870002",
+    "cumulative_repeat": "0.89001013823086129998"
+  },
+  {
+    "day": 883,
+    "at_risk": "541",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.10917662804071623274",
+    "cumulative_repeat": "0.89082337195928376726"
+  },
+  {
+    "day": 884,
+    "at_risk": "536",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.10856556482407043293",
+    "cumulative_repeat": "0.89143443517592956707"
+  },
+  {
+    "day": 885,
+    "at_risk": "532",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.10815742360292731100",
+    "cumulative_repeat": "0.89184257639707268900"
+  },
+  {
+    "day": 886,
+    "at_risk": "530",
+    "events": 3,
+    "censored": 5,
+    "survival": "0.10754521177121262811",
+    "cumulative_repeat": "0.89245478822878737189"
+  },
+  {
+    "day": 887,
+    "at_risk": "522",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.10672111053158647770",
+    "cumulative_repeat": "0.89327888946841352230"
+  },
+  {
+    "day": 888,
+    "at_risk": "517",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.10651468672011338974",
+    "cumulative_repeat": "0.89348531327988661026"
+  },
+  {
+    "day": 889,
+    "at_risk": "516",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.10630826290864030177",
+    "cumulative_repeat": "0.89369173709135969823"
+  },
+  {
+    "day": 890,
+    "at_risk": "514",
+    "events": 3,
+    "censored": 2,
+    "survival": "0.10568778666598286810",
+    "cumulative_repeat": "0.89431221333401713190"
+  },
+  {
+    "day": 891,
+    "at_risk": "509",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.10527251049047802383",
+    "cumulative_repeat": "0.89472748950952197617"
+  },
+  {
+    "day": 892,
+    "at_risk": "507",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.10527251049047802383",
+    "cumulative_repeat": "0.89472748950952197617"
+  },
+  {
+    "day": 893,
+    "at_risk": "505",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.10464712924003954052",
+    "cumulative_repeat": "0.89535287075996045948"
+  },
+  {
+    "day": 894,
+    "at_risk": "501",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.10422937622910125892",
+    "cumulative_repeat": "0.89577062377089874108"
+  },
+  {
+    "day": 895,
+    "at_risk": "499",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.10360274671269383652",
+    "cumulative_repeat": "0.89639725328730616348"
+  },
+  {
+    "day": 896,
+    "at_risk": "495",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.10297485127807144963",
+    "cumulative_repeat": "0.89702514872192855037"
+  },
+  {
+    "day": 897,
+    "at_risk": "492",
+    "events": 1,
+    "censored": 2,
+    "survival": "0.10276555279986398734",
+    "cumulative_repeat": "0.89723444720013601266"
+  },
+  {
+    "day": 898,
+    "at_risk": "489",
+    "events": 3,
+    "censored": 3,
+    "survival": "0.10213508928575439232",
+    "cumulative_repeat": "0.89786491071424560768"
+  },
+  {
+    "day": 899,
+    "at_risk": "483",
+    "events": 2,
+    "censored": 4,
+    "survival": "0.10171216966138273852",
+    "cumulative_repeat": "0.89828783033861726148"
+  },
+  {
+    "day": 900,
+    "at_risk": "477",
+    "events": 4,
+    "censored": 2,
+    "survival": "0.10085923742103571346",
+    "cumulative_repeat": "0.89914076257896428654"
+  },
+  {
+    "day": 901,
+    "at_risk": "471",
+    "events": 7,
+    "censored": 4,
+    "survival": "0.09936026786276129734",
+    "cumulative_repeat": "0.90063973213723870266"
+  },
+  {
+    "day": 902,
+    "at_risk": "460",
+    "events": 3,
+    "censored": 2,
+    "survival": "0.09871226611583024540",
+    "cumulative_repeat": "0.90128773388416975460"
+  },
+  {
+    "day": 903,
+    "at_risk": "455",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.09827836604499143114",
+    "cumulative_repeat": "0.90172163395500856886"
+  },
+  {
+    "day": 904,
+    "at_risk": "453",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.09784446597415261687",
+    "cumulative_repeat": "0.90215553402584738313"
+  },
+  {
+    "day": 905,
+    "at_risk": "450",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.09740960168093416079",
+    "cumulative_repeat": "0.90259039831906583921"
+  },
+  {
+    "day": 906,
+    "at_risk": "448",
+    "events": 4,
+    "censored": 3,
+    "survival": "0.09653987309449724865",
+    "cumulative_repeat": "0.90346012690550275135"
+  },
+  {
+    "day": 907,
+    "at_risk": "441",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.09544531671020589662",
+    "cumulative_repeat": "0.90455468328979410338"
+  },
+  {
+    "day": 908,
+    "at_risk": "435",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.09522590218903300950",
+    "cumulative_repeat": "0.90477409781096699050"
+  },
+  {
+    "day": 909,
+    "at_risk": "434",
+    "events": 2,
+    "censored": 2,
+    "survival": "0.09478707314668723526",
+    "cumulative_repeat": "0.90521292685331276474"
+  },
+  {
+    "day": 910,
+    "at_risk": "430",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.09478707314668723526",
+    "cumulative_repeat": "0.90521292685331276474"
+  },
+  {
+    "day": 911,
+    "at_risk": "428",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.09412267777416372661",
+    "cumulative_repeat": "0.90587732222583627339"
+  },
+  {
+    "day": 912,
+    "at_risk": "424",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.09367870287900257695",
+    "cumulative_repeat": "0.90632129712099742305"
+  },
+  {
+    "day": 913,
+    "at_risk": "421",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.09301115867796455384",
+    "cumulative_repeat": "0.90698884132203544616"
+  },
+  {
+    "day": 914,
+    "at_risk": "418",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.09234361447692653072",
+    "cumulative_repeat": "0.90765638552307346928"
+  },
+  {
+    "day": 915,
+    "at_risk": "415",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.09167607027588850761",
+    "cumulative_repeat": "0.90832392972411149239"
+  },
+  {
+    "day": 916,
+    "at_risk": "411",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.09100690187971413894",
+    "cumulative_repeat": "0.90899309812028586106"
+  },
+  {
+    "day": 917,
+    "at_risk": "407",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.09055969351666886062",
+    "cumulative_repeat": "0.90944030648333113938"
+  },
+  {
+    "day": 918,
+    "at_risk": "405",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.08988888097210094313",
+    "cumulative_repeat": "0.91011111902789905687"
+  },
+  {
+    "day": 919,
+    "at_risk": "402",
+    "events": 1,
+    "censored": 2,
+    "survival": "0.08966527679057830397",
+    "cumulative_repeat": "0.91033472320942169603"
+  },
+  {
+    "day": 920,
+    "at_risk": "399",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.08899110177711530920",
+    "cumulative_repeat": "0.91100889822288469080"
+  },
+  {
+    "day": 921,
+    "at_risk": "395",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.08854051392001599118",
+    "cumulative_repeat": "0.91145948607998400882"
+  },
+  {
+    "day": 922,
+    "at_risk": "392",
+    "events": 2,
+    "censored": 2,
+    "survival": "0.08808877660409754225",
+    "cumulative_repeat": "0.91191122339590245775"
+  },
+  {
+    "day": 923,
+    "at_risk": "388",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.08786174367470553827",
+    "cumulative_repeat": "0.91213825632529446173"
+  },
+  {
+    "day": 924,
+    "at_risk": "387",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.08740767781592153032",
+    "cumulative_repeat": "0.91259232218407846968"
+  },
+  {
+    "day": 925,
+    "at_risk": "384",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.08649718117200568105",
+    "cumulative_repeat": "0.91350281882799431895"
+  },
+  {
+    "day": 926,
+    "at_risk": "380",
+    "events": 2,
+    "censored": 3,
+    "survival": "0.08604193285004775641",
+    "cumulative_repeat": "0.91395806714995224359"
+  },
+  {
+    "day": 927,
+    "at_risk": "375",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.08535359738724737436",
+    "cumulative_repeat": "0.91464640261275262564"
+  },
+  {
+    "day": 928,
+    "at_risk": "372",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.08489470707871378633",
+    "cumulative_repeat": "0.91510529292128621367"
+  },
+  {
+    "day": 929,
+    "at_risk": "370",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.08420637161591340427",
+    "cumulative_repeat": "0.91579362838408659573"
+  },
+  {
+    "day": 930,
+    "at_risk": "367",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.08374748130737981624",
+    "cumulative_repeat": "0.91625251869262018376"
+  },
+  {
+    "day": 931,
+    "at_risk": "365",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.08328859099884622821",
+    "cumulative_repeat": "0.91671140900115377179"
+  },
+  {
+    "day": 932,
+    "at_risk": "363",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.08305914584457943419",
+    "cumulative_repeat": "0.91694085415542056581"
+  },
+  {
+    "day": 933,
+    "at_risk": "361",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.08282906510816785681",
+    "cumulative_repeat": "0.91717093489183214319"
+  },
+  {
+    "day": 934,
+    "at_risk": "359",
+    "events": 2,
+    "censored": 2,
+    "survival": "0.08236762184851232557",
+    "cumulative_repeat": "0.91763237815148767443"
+  },
+  {
+    "day": 935,
+    "at_risk": "355",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.08236762184851232557",
+    "cumulative_repeat": "0.91763237815148767443"
+  },
+  {
+    "day": 936,
+    "at_risk": "353",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.08213428580928141247",
+    "cumulative_repeat": "0.91786571419071858753"
+  },
+  {
+    "day": 937,
+    "at_risk": "352",
+    "events": 2,
+    "censored": 3,
+    "survival": "0.08166761373081958626",
+    "cumulative_repeat": "0.91833238626918041374"
+  },
+  {
+    "day": 939,
+    "at_risk": "347",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.08143226037712846353",
+    "cumulative_repeat": "0.91856773962287153647"
+  },
+  {
+    "day": 940,
+    "at_risk": "345",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.08096018930247844346",
+    "cumulative_repeat": "0.91903981069752155654"
+  },
+  {
+    "day": 941,
+    "at_risk": "342",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.08072346360276359421",
+    "cumulative_repeat": "0.91927653639723640579"
+  },
+  {
+    "day": 942,
+    "at_risk": "340",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.08024861969921792600",
+    "cumulative_repeat": "0.91975138030078207400"
+  },
+  {
+    "day": 943,
+    "at_risk": "337",
+    "events": 2,
+    "censored": 2,
+    "survival": "0.07977236676331752288",
+    "cumulative_repeat": "0.92022763323668247712"
+  },
+  {
+    "day": 944,
+    "at_risk": "333",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.07977236676331752288",
+    "cumulative_repeat": "0.92022763323668247712"
+  },
+  {
+    "day": 945,
+    "at_risk": "331",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.07953136263412321012",
+    "cumulative_repeat": "0.92046863736587678988"
+  },
+  {
+    "day": 946,
+    "at_risk": "329",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.07928962596958180219",
+    "cumulative_repeat": "0.92071037403041819781"
+  },
+  {
+    "day": 947,
+    "at_risk": "328",
+    "events": 2,
+    "censored": 2,
+    "survival": "0.07880615264049898632",
+    "cumulative_repeat": "0.92119384735950101368"
+  },
+  {
+    "day": 948,
+    "at_risk": "324",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.07856292377432460674",
+    "cumulative_repeat": "0.92143707622567539326"
+  },
+  {
+    "day": 949,
+    "at_risk": "322",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.07831893953900061727",
+    "cumulative_repeat": "0.92168106046099938273"
+  },
+  {
+    "day": 950,
+    "at_risk": "321",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.07831893953900061727",
+    "cumulative_repeat": "0.92168106046099938273"
+  },
+  {
+    "day": 951,
+    "at_risk": "319",
+    "events": 0,
+    "censored": 3,
+    "survival": "0.07831893953900061727",
+    "cumulative_repeat": "0.92168106046099938273"
+  },
+  {
+    "day": 952,
+    "at_risk": "316",
+    "events": 0,
+    "censored": 3,
+    "survival": "0.07831893953900061727",
+    "cumulative_repeat": "0.92168106046099938273"
+  },
+  {
+    "day": 953,
+    "at_risk": "313",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.07831893953900061727",
+    "cumulative_repeat": "0.92168106046099938273"
+  },
+  {
+    "day": 954,
+    "at_risk": "311",
+    "events": 1,
+    "censored": 4,
+    "survival": "0.07806711015141540629",
+    "cumulative_repeat": "0.92193288984858459371"
+  },
+  {
+    "day": 955,
+    "at_risk": "306",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.07806711015141540629",
+    "cumulative_repeat": "0.92193288984858459371"
+  },
+  {
+    "day": 956,
+    "at_risk": "304",
+    "events": 1,
+    "censored": 2,
+    "survival": "0.07781031044696996087",
+    "cumulative_repeat": "0.92218968955303003913"
+  },
+  {
+    "day": 957,
+    "at_risk": "301",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.07781031044696996087",
+    "cumulative_repeat": "0.92218968955303003913"
+  },
+  {
+    "day": 958,
+    "at_risk": "300",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.07781031044696996087",
+    "cumulative_repeat": "0.92218968955303003913"
+  },
+  {
+    "day": 959,
+    "at_risk": "298",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.07781031044696996087",
+    "cumulative_repeat": "0.92218968955303003913"
+  },
+  {
+    "day": 960,
+    "at_risk": "297",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.07676236013791986039",
+    "cumulative_repeat": "0.92323763986208013961"
+  },
+  {
+    "day": 961,
+    "at_risk": "293",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.07650037256065733527",
+    "cumulative_repeat": "0.92349962743934266473"
+  },
+  {
+    "day": 962,
+    "at_risk": "291",
+    "events": 0,
+    "censored": 3,
+    "survival": "0.07650037256065733527",
+    "cumulative_repeat": "0.92349962743934266473"
+  },
+  {
+    "day": 963,
+    "at_risk": "288",
+    "events": 1,
+    "censored": 4,
+    "survival": "0.07623474626704394174",
+    "cumulative_repeat": "0.92376525373295605826"
+  },
+  {
+    "day": 964,
+    "at_risk": "283",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.07596536553818512923",
+    "cumulative_repeat": "0.92403463446181487077"
+  },
+  {
+    "day": 965,
+    "at_risk": "282",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.07596536553818512923",
+    "cumulative_repeat": "0.92403463446181487077"
+  },
+  {
+    "day": 966,
+    "at_risk": "281",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.07542468677990623151",
+    "cumulative_repeat": "0.92457531322009376849"
+  },
+  {
+    "day": 967,
+    "at_risk": "279",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.07542468677990623151",
+    "cumulative_repeat": "0.92457531322009376849"
+  },
+  {
+    "day": 968,
+    "at_risk": "277",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.07542468677990623151",
+    "cumulative_repeat": "0.92457531322009376849"
+  },
+  {
+    "day": 969,
+    "at_risk": "275",
+    "events": 2,
+    "censored": 2,
+    "survival": "0.07487614360332509528",
+    "cumulative_repeat": "0.92512385639667490472"
+  },
+  {
+    "day": 970,
+    "at_risk": "271",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.07487614360332509528",
+    "cumulative_repeat": "0.92512385639667490472"
+  },
+  {
+    "day": 971,
+    "at_risk": "270",
+    "events": 1,
+    "censored": 2,
+    "survival": "0.07459882455294240974",
+    "cumulative_repeat": "0.92540117544705759026"
+  },
+  {
+    "day": 972,
+    "at_risk": "267",
+    "events": 1,
+    "censored": 2,
+    "survival": "0.07431942820630217600",
+    "cumulative_repeat": "0.92568057179369782400"
+  },
+  {
+    "day": 973,
+    "at_risk": "264",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.07403791522067224351",
+    "cumulative_repeat": "0.92596208477932775649"
+  },
+  {
+    "day": 974,
+    "at_risk": "262",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.07347274029532360043",
+    "cumulative_repeat": "0.92652725970467639957"
+  },
+  {
+    "day": 975,
+    "at_risk": "260",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.07319015283264927890",
+    "cumulative_repeat": "0.92680984716735072110"
+  },
+  {
+    "day": 976,
+    "at_risk": "258",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.07290647006973203363",
+    "cumulative_repeat": "0.92709352993026796637"
+  },
+  {
+    "day": 977,
+    "at_risk": "256",
+    "events": 2,
+    "censored": 2,
+    "survival": "0.07233688827231225212",
+    "cumulative_repeat": "0.92766311172768774788"
+  },
+  {
+    "day": 978,
+    "at_risk": "252",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.07176278598443675805",
+    "cumulative_repeat": "0.92823721401556324195"
+  },
+  {
+    "day": 980,
+    "at_risk": "249",
+    "events": 2,
+    "censored": 2,
+    "survival": "0.07118637806488304915",
+    "cumulative_repeat": "0.92881362193511695085"
+  },
+  {
+    "day": 981,
+    "at_risk": "245",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.07060526477455747324",
+    "cumulative_repeat": "0.92939473522544252676"
+  },
+  {
+    "day": 983,
+    "at_risk": "243",
+    "events": 0,
+    "censored": 3,
+    "survival": "0.07060526477455747324",
+    "cumulative_repeat": "0.92939473522544252676"
+  },
+  {
+    "day": 984,
+    "at_risk": "240",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.07031107617133015043",
+    "cumulative_repeat": "0.92968892382866984957"
+  },
+  {
+    "day": 985,
+    "at_risk": "239",
+    "events": 2,
+    "censored": 3,
+    "survival": "0.06972269896487550482",
+    "cumulative_repeat": "0.93027730103512449518"
+  },
+  {
+    "day": 986,
+    "at_risk": "234",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.06853085795692891500",
+    "cumulative_repeat": "0.93146914204307108500"
+  },
+  {
+    "day": 987,
+    "at_risk": "230",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.06793493745295562008",
+    "cumulative_repeat": "0.93206506254704437992"
+  },
+  {
+    "day": 988,
+    "at_risk": "227",
+    "events": 0,
+    "censored": 3,
+    "survival": "0.06793493745295562008",
+    "cumulative_repeat": "0.93206506254704437992"
+  },
+  {
+    "day": 989,
+    "at_risk": "224",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.06732837551141137348",
+    "cumulative_repeat": "0.93267162448858862652"
+  },
+  {
+    "day": 990,
+    "at_risk": "221",
+    "events": 2,
+    "censored": 2,
+    "survival": "0.06671906894569724340",
+    "cumulative_repeat": "0.93328093105430275660"
+  },
+  {
+    "day": 991,
+    "at_risk": "217",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.06671906894569724340",
+    "cumulative_repeat": "0.93328093105430275660"
+  },
+  {
+    "day": 992,
+    "at_risk": "216",
+    "events": 1,
+    "censored": 2,
+    "survival": "0.06641018436724494135",
+    "cumulative_repeat": "0.93358981563275505865"
+  },
+  {
+    "day": 993,
+    "at_risk": "213",
+    "events": 1,
+    "censored": 2,
+    "survival": "0.06609839946411233599",
+    "cumulative_repeat": "0.93390160053588766401"
+  },
+  {
+    "day": 994,
+    "at_risk": "210",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.06609839946411233599",
+    "cumulative_repeat": "0.93390160053588766401"
+  },
+  {
+    "day": 995,
+    "at_risk": "209",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.06578213917959505208",
+    "cumulative_repeat": "0.93421786082040494792"
+  },
+  {
+    "day": 996,
+    "at_risk": "208",
+    "events": 4,
+    "censored": 5,
+    "survival": "0.06451709804152591647",
+    "cumulative_repeat": "0.93548290195847408353"
+  },
+  {
+    "day": 997,
+    "at_risk": "199",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.06451709804152591647",
+    "cumulative_repeat": "0.93548290195847408353"
+  },
+  {
+    "day": 998,
+    "at_risk": "197",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.06451709804152591647",
+    "cumulative_repeat": "0.93548290195847408353"
+  },
+  {
+    "day": 999,
+    "at_risk": "196",
+    "events": 2,
+    "censored": 2,
+    "survival": "0.06385876030640830507",
+    "cumulative_repeat": "0.93614123969359169493"
+  },
+  {
+    "day": 1000,
+    "at_risk": "192",
+    "events": 1,
+    "censored": 3,
+    "survival": "0.06352616259647909515",
+    "cumulative_repeat": "0.93647383740352090485"
+  },
+  {
+    "day": 1001,
+    "at_risk": "188",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.06318825747628505741",
+    "cumulative_repeat": "0.93681174252371494259"
+  },
+  {
+    "day": 1002,
+    "at_risk": "187",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.06318825747628505741",
+    "cumulative_repeat": "0.93681174252371494259"
+  },
+  {
+    "day": 1003,
+    "at_risk": "186",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.06318825747628505741",
+    "cumulative_repeat": "0.93681174252371494259"
+  },
+  {
+    "day": 1004,
+    "at_risk": "184",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.06284484303347916036",
+    "cumulative_repeat": "0.93715515696652083964"
+  },
+  {
+    "day": 1005,
+    "at_risk": "183",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.06181459970506146921",
+    "cumulative_repeat": "0.93818540029493853079"
+  },
+  {
+    "day": 1006,
+    "at_risk": "180",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.06147118526225557216",
+    "cumulative_repeat": "0.93852881473774442784"
+  },
+  {
+    "day": 1007,
+    "at_risk": "179",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.06112777081944967511",
+    "cumulative_repeat": "0.93887222918055032489"
+  },
+  {
+    "day": 1008,
+    "at_risk": "178",
+    "events": 1,
+    "censored": 3,
+    "survival": "0.06078435637664377805",
+    "cumulative_repeat": "0.93921564362335622195"
+  },
+  {
+    "day": 1011,
+    "at_risk": "174",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.05973635023221888533",
+    "cumulative_repeat": "0.94026364976778111467"
+  },
+  {
+    "day": 1012,
+    "at_risk": "171",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.05938701485074392109",
+    "cumulative_repeat": "0.94061298514925607891"
+  },
+  {
+    "day": 1013,
+    "at_risk": "170",
+    "events": 2,
+    "censored": 2,
+    "survival": "0.05868834408779399260",
+    "cumulative_repeat": "0.94131165591220600740"
+  },
+  {
+    "day": 1014,
+    "at_risk": "166",
+    "events": 5,
+    "censored": 1,
+    "survival": "0.05692062288033031813",
+    "cumulative_repeat": "0.94307937711966968187"
+  },
+  {
+    "day": 1015,
+    "at_risk": "160",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.05692062288033031813",
+    "cumulative_repeat": "0.94307937711966968187"
+  },
+  {
+    "day": 1016,
+    "at_risk": "158",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.05620010866665525081",
+    "cumulative_repeat": "0.94379989133334474919"
+  },
+  {
+    "day": 1017,
+    "at_risk": "155",
+    "events": 1,
+    "censored": 2,
+    "survival": "0.05583752732041876532",
+    "cumulative_repeat": "0.94416247267958123468"
+  },
+  {
+    "day": 1018,
+    "at_risk": "152",
+    "events": 2,
+    "censored": 2,
+    "survival": "0.05510282301357114999",
+    "cumulative_repeat": "0.94489717698642885001"
+  },
+  {
+    "day": 1019,
+    "at_risk": "148",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.05510282301357114999",
+    "cumulative_repeat": "0.94489717698642885001"
+  },
+  {
+    "day": 1020,
+    "at_risk": "146",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.05397057322562105787",
+    "cumulative_repeat": "0.94602942677437894213"
+  },
+  {
+    "day": 1021,
+    "at_risk": "143",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.05359315662963769382",
+    "cumulative_repeat": "0.94640684337036230618"
+  },
+  {
+    "day": 1022,
+    "at_risk": "141",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.05359315662963769382",
+    "cumulative_repeat": "0.94640684337036230618"
+  },
+  {
+    "day": 1023,
+    "at_risk": "140",
+    "events": 4,
+    "censored": 1,
+    "survival": "0.05206192358307661686",
+    "cumulative_repeat": "0.94793807641692338314"
+  },
+  {
+    "day": 1024,
+    "at_risk": "135",
+    "events": 4,
+    "censored": 0,
+    "survival": "0.05051934806950397636",
+    "cumulative_repeat": "0.94948065193049602364"
+  },
+  {
+    "day": 1026,
+    "at_risk": "131",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.04974806031271765611",
+    "cumulative_repeat": "0.95025193968728234389"
+  },
+  {
+    "day": 1027,
+    "at_risk": "129",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.04936241643432449598",
+    "cumulative_repeat": "0.95063758356567550402"
+  },
+  {
+    "day": 1028,
+    "at_risk": "127",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.04897373598995973617",
+    "cumulative_repeat": "0.95102626401004026383"
+  },
+  {
+    "day": 1029,
+    "at_risk": "125",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.04858194610204005828",
+    "cumulative_repeat": "0.95141805389795994172"
+  },
+  {
+    "day": 1030,
+    "at_risk": "124",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.04779836632620070250",
+    "cumulative_repeat": "0.95220163367379929750"
+  },
+  {
+    "day": 1032,
+    "at_risk": "122",
+    "events": 4,
+    "censored": 2,
+    "survival": "0.04623120677452199095",
+    "cumulative_repeat": "0.95376879322547800905"
+  },
+  {
+    "day": 1033,
+    "at_risk": "116",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.04583266188853473240",
+    "cumulative_repeat": "0.95416733811146526760"
+  },
+  {
+    "day": 1034,
+    "at_risk": "115",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.04503557211656021532",
+    "cumulative_repeat": "0.95496442788343978468"
+  },
+  {
+    "day": 1035,
+    "at_risk": "112",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.04463346879409092768",
+    "cumulative_repeat": "0.95536653120590907232"
+  },
+  {
+    "day": 1036,
+    "at_risk": "110",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.04382195117965291082",
+    "cumulative_repeat": "0.95617804882034708918"
+  },
+  {
+    "day": 1037,
+    "at_risk": "108",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.04341619237243390238",
+    "cumulative_repeat": "0.95658380762756609762"
+  },
+  {
+    "day": 1038,
+    "at_risk": "107",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.04341619237243390238",
+    "cumulative_repeat": "0.95658380762756609762"
+  },
+  {
+    "day": 1039,
+    "at_risk": "106",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.04300660565193924292",
+    "cumulative_repeat": "0.95699339434806075708"
+  },
+  {
+    "day": 1040,
+    "at_risk": "104",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.04300660565193924292",
+    "cumulative_repeat": "0.95699339434806075708"
+  },
+  {
+    "day": 1041,
+    "at_risk": "103",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.04258906579124080367",
+    "cumulative_repeat": "0.95741093420875919633"
+  },
+  {
+    "day": 1042,
+    "at_risk": "102",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.04133644620914548592",
+    "cumulative_repeat": "0.95866355379085451408"
+  },
+  {
+    "day": 1043,
+    "at_risk": "98",
+    "events": 2,
+    "censored": 1,
+    "survival": "0.04049284526610170049",
+    "cumulative_repeat": "0.95950715473389829951"
+  },
+  {
+    "day": 1044,
+    "at_risk": "95",
+    "events": 3,
+    "censored": 1,
+    "survival": "0.03921412383664585732",
+    "cumulative_repeat": "0.96078587616335414268"
+  },
+  {
+    "day": 1045,
+    "at_risk": "91",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.03921412383664585732",
+    "cumulative_repeat": "0.96078587616335414268"
+  },
+  {
+    "day": 1046,
+    "at_risk": "90",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.03921412383664585732",
+    "cumulative_repeat": "0.96078587616335414268"
+  },
+  {
+    "day": 1047,
+    "at_risk": "88",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.03876850879304760894",
+    "cumulative_repeat": "0.96123149120695239106"
+  },
+  {
+    "day": 1048,
+    "at_risk": "86",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.03831771217917496232",
+    "cumulative_repeat": "0.96168228782082503768"
+  },
+  {
+    "day": 1049,
+    "at_risk": "84",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.03786154893894668896",
+    "cumulative_repeat": "0.96213845106105331104"
+  },
+  {
+    "day": 1050,
+    "at_risk": "82",
+    "events": 4,
+    "censored": 2,
+    "survival": "0.03601464411265660657",
+    "cumulative_repeat": "0.96398535588734339343"
+  },
+  {
+    "day": 1051,
+    "at_risk": "76",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.03554076721643744070",
+    "cumulative_repeat": "0.96445923278356255930"
+  },
+  {
+    "day": 1052,
+    "at_risk": "74",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.03506048657837747528",
+    "cumulative_repeat": "0.96493951342162252472"
+  },
+  {
+    "day": 1053,
+    "at_risk": "73",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.03409992530225754445",
+    "cumulative_repeat": "0.96590007469774245555"
+  },
+  {
+    "day": 1054,
+    "at_risk": "71",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.03313936402613761362",
+    "cumulative_repeat": "0.96686063597386238638"
+  },
+  {
+    "day": 1055,
+    "at_risk": "69",
+    "events": 3,
+    "censored": 0,
+    "survival": "0.03169852211195771738",
+    "cumulative_repeat": "0.96830147788804228262"
+  },
+  {
+    "day": 1056,
+    "at_risk": "66",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.03121824147389775196",
+    "cumulative_repeat": "0.96878175852610224804"
+  },
+  {
+    "day": 1057,
+    "at_risk": "64",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.03073045645086809959",
+    "cumulative_repeat": "0.96926954354913190041"
+  },
+  {
+    "day": 1058,
+    "at_risk": "63",
+    "events": 2,
+    "censored": 3,
+    "survival": "0.02975488640480879484",
+    "cumulative_repeat": "0.97024511359519120516"
+  },
+  {
+    "day": 1059,
+    "at_risk": "58",
+    "events": 2,
+    "censored": 2,
+    "survival": "0.02872885583912573295",
+    "cumulative_repeat": "0.97127114416087426705"
+  },
+  {
+    "day": 1060,
+    "at_risk": "54",
+    "events": 2,
+    "censored": 2,
+    "survival": "0.02766482414138033543",
+    "cumulative_repeat": "0.97233517585861966457"
+  },
+  {
+    "day": 1061,
+    "at_risk": "50",
+    "events": 1,
+    "censored": 2,
+    "survival": "0.02711152765855272872",
+    "cumulative_repeat": "0.97288847234144727128"
+  },
+  {
+    "day": 1062,
+    "at_risk": "47",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.02711152765855272872",
+    "cumulative_repeat": "0.97288847234144727128"
+  },
+  {
+    "day": 1063,
+    "at_risk": "46",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.02711152765855272872",
+    "cumulative_repeat": "0.97288847234144727128"
+  },
+  {
+    "day": 1065,
+    "at_risk": "45",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.02650904926614044586",
+    "cumulative_repeat": "0.97349095073385955414"
+  },
+  {
+    "day": 1066,
+    "at_risk": "44",
+    "events": 1,
+    "censored": 1,
+    "survival": "0.02590657087372816300",
+    "cumulative_repeat": "0.97409342912627183700"
+  },
+  {
+    "day": 1067,
+    "at_risk": "42",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.02528974775768701627",
+    "cumulative_repeat": "0.97471025224231298373"
+  },
+  {
+    "day": 1068,
+    "at_risk": "41",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.02405610152560472279",
+    "cumulative_repeat": "0.97594389847439527721"
+  },
+  {
+    "day": 1069,
+    "at_risk": "39",
+    "events": 1,
+    "censored": 0,
+    "survival": "0.02343927840956357605",
+    "cumulative_repeat": "0.97656072159043642395"
+  },
+  {
+    "day": 1072,
+    "at_risk": "38",
+    "events": 2,
+    "censored": 0,
+    "survival": "0.02220563217748128257",
+    "cumulative_repeat": "0.97779436782251871743"
+  },
+  {
+    "day": 1075,
+    "at_risk": "36",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.02220563217748128257",
+    "cumulative_repeat": "0.97779436782251871743"
+  },
+  {
+    "day": 1076,
+    "at_risk": "35",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.02220563217748128257",
+    "cumulative_repeat": "0.97779436782251871743"
+  },
+  {
+    "day": 1077,
+    "at_risk": "33",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.02220563217748128257",
+    "cumulative_repeat": "0.97779436782251871743"
+  },
+  {
+    "day": 1078,
+    "at_risk": "31",
+    "events": 2,
+    "censored": 3,
+    "survival": "0.02077301074667603854",
+    "cumulative_repeat": "0.97922698925332396146"
+  },
+  {
+    "day": 1081,
+    "at_risk": "26",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.02077301074667603854",
+    "cumulative_repeat": "0.97922698925332396146"
+  },
+  {
+    "day": 1082,
+    "at_risk": "25",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.02077301074667603854",
+    "cumulative_repeat": "0.97922698925332396146"
+  },
+  {
+    "day": 1084,
+    "at_risk": "24",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.02077301074667603854",
+    "cumulative_repeat": "0.97922698925332396146"
+  },
+  {
+    "day": 1085,
+    "at_risk": "23",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.02077301074667603854",
+    "cumulative_repeat": "0.97922698925332396146"
+  },
+  {
+    "day": 1089,
+    "at_risk": "22",
+    "events": 1,
+    "censored": 2,
+    "survival": "0.01982878298546349133",
+    "cumulative_repeat": "0.98017121701453650867"
+  },
+  {
+    "day": 1094,
+    "at_risk": "19",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.01982878298546349133",
+    "cumulative_repeat": "0.98017121701453650867"
+  },
+  {
+    "day": 1096,
+    "at_risk": "18",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.01982878298546349133",
+    "cumulative_repeat": "0.98017121701453650867"
+  },
+  {
+    "day": 1097,
+    "at_risk": "17",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.01982878298546349133",
+    "cumulative_repeat": "0.98017121701453650867"
+  },
+  {
+    "day": 1098,
+    "at_risk": "15",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.01982878298546349133",
+    "cumulative_repeat": "0.98017121701453650867"
+  },
+  {
+    "day": 1100,
+    "at_risk": "13",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.01982878298546349133",
+    "cumulative_repeat": "0.98017121701453650867"
+  },
+  {
+    "day": 1105,
+    "at_risk": "12",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.01982878298546349133",
+    "cumulative_repeat": "0.98017121701453650867"
+  },
+  {
+    "day": 1108,
+    "at_risk": "10",
+    "events": 0,
+    "censored": 2,
+    "survival": "0.01982878298546349133",
+    "cumulative_repeat": "0.98017121701453650867"
+  },
+  {
+    "day": 1110,
+    "at_risk": "8",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.01982878298546349133",
+    "cumulative_repeat": "0.98017121701453650867"
+  },
+  {
+    "day": 1117,
+    "at_risk": "7",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.01982878298546349133",
+    "cumulative_repeat": "0.98017121701453650867"
+  },
+  {
+    "day": 1118,
+    "at_risk": "6",
+    "events": 0,
+    "censored": 3,
+    "survival": "0.01982878298546349133",
+    "cumulative_repeat": "0.98017121701453650867"
+  },
+  {
+    "day": 1121,
+    "at_risk": "3",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.01982878298546349133",
+    "cumulative_repeat": "0.98017121701453650867"
+  },
+  {
+    "day": 1122,
+    "at_risk": "2",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.01982878298546349133",
+    "cumulative_repeat": "0.98017121701453650867"
+  },
+  {
+    "day": 1126,
+    "at_risk": "1",
+    "events": 0,
+    "censored": 1,
+    "survival": "0.01982878298546349133",
+    "cumulative_repeat": "0.98017121701453650867"
+  }
+]

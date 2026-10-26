@@ -1,0 +1,32 @@
+[
+  {
+    "year": 2013,
+    "category": "Accessories",
+    "orders": 374,
+    "revenue": "14112"
+  },
+  {
+    "year": 2013,
+    "category": "Bikes",
+    "orders": 454,
+    "revenue": "761272"
+  },
+  {
+    "year": 2013,
+    "category": "Clothing",
+    "orders": 146,
+    "revenue": "6507"
+  },
+  {
+    "year": 2014,
+    "category": "Accessories",
+    "orders": 774,
+    "revenue": "30332"
+  },
+  {
+    "year": 2014,
+    "category": "Clothing",
+    "orders": 316,
+    "revenue": "15310"
+  }
+]

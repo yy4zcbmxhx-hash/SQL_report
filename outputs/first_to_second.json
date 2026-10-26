@@ -1,0 +1,74 @@
+[
+  {
+    "first_category": "Accessories",
+    "second_category": "Accessories",
+    "customers": 447,
+    "second_aov": "41.1946308724832215"
+  },
+  {
+    "first_category": "Accessories",
+    "second_category": "Clothing",
+    "customers": 129,
+    "second_aov": "58.8294573643410853"
+  },
+  {
+    "first_category": "Accessories",
+    "second_category": "Mixed",
+    "customers": 123,
+    "second_aov": "78.4878048780487805"
+  },
+  {
+    "first_category": "Bikes",
+    "second_category": "Bikes",
+    "customers": 28,
+    "second_aov": "1419.1071428571428571"
+  },
+  {
+    "first_category": "Bikes",
+    "second_category": "Mixed",
+    "customers": 187,
+    "second_aov": "1573.8556149732620321"
+  },
+  {
+    "first_category": "Clothing",
+    "second_category": "Accessories",
+    "customers": 131,
+    "second_aov": "41.7328244274809160"
+  },
+  {
+    "first_category": "Clothing",
+    "second_category": "Clothing",
+    "customers": 1,
+    "second_aov": "9.0000000000000000"
+  },
+  {
+    "first_category": "Clothing",
+    "second_category": "Mixed",
+    "customers": 36,
+    "second_aov": "90.1388888888888889"
+  },
+  {
+    "first_category": "Mixed",
+    "second_category": "Accessories",
+    "customers": 123,
+    "second_aov": "47.3008130081300813"
+  },
+  {
+    "first_category": "Mixed",
+    "second_category": "Bikes",
+    "customers": 5,
+    "second_aov": "2384.0000000000000000"
+  },
+  {
+    "first_category": "Mixed",
+    "second_category": "Clothing",
+    "customers": 40,
+    "second_aov": "56.0750000000000000"
+  },
+  {
+    "first_category": "Mixed",
+    "second_category": "Mixed",
+    "customers": 92,
+    "second_aov": "1348.0869565217391304"
+  }
+]

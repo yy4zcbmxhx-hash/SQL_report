@@ -1,0 +1,62 @@
+[
+  {
+    "year": 2010,
+    "category": "Bikes",
+    "orders": 14,
+    "revenue": "43419"
+  },
+  {
+    "year": 2011,
+    "category": "Bikes",
+    "orders": 2216,
+    "revenue": "7075088"
+  },
+  {
+    "year": 2012,
+    "category": "Accessories",
+    "orders": 56,
+    "revenue": "2146"
+  },
+  {
+    "year": 2012,
+    "category": "Bikes",
+    "orders": 3269,
+    "revenue": "5839443"
+  },
+  {
+    "year": 2012,
+    "category": "Clothing",
+    "orders": 20,
+    "revenue": "642"
+  },
+  {
+    "year": 2013,
+    "category": "Accessories",
+    "orders": 17376,
+    "revenue": "667750"
+  },
+  {
+    "year": 2013,
+    "category": "Bikes",
+    "orders": 9706,
+    "revenue": "15358322"
+  },
+  {
+    "year": 2013,
+    "category": "Clothing",
+    "orders": 7125,
+    "revenue": "323764"
+  },
+  {
+    "year": 2014,
+    "category": "Accessories",
+    "orders": 774,
+    "revenue": "30332"
+  },
+  {
+    "year": 2014,
+    "category": "Clothing",
+    "orders": 316,
+    "revenue": "15310"
+  }
+]

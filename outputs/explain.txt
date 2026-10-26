@@ -1,0 +1,12 @@
+HashAggregate  (cost=848.57..1016.97 rows=16840 width=12) (actual time=3.483..4.398 rows=17933 loops=1)
+  Group Key: customer_key
+  Batches: 1  Memory Usage: 2321kB
+  Buffers: shared hit=392
+  ->  Seq Scan on orders  (cost=0.00..737.71 rows=22172 width=4) (actual time=0.255..1.486 rows=22158 loops=1)
+        Filter: (order_date >= '2013-01-01'::date)
+        Rows Removed by Filter: 5499
+        Buffers: shared hit=392
+Planning:
+  Buffers: shared hit=52
+Planning Time: 0.124 ms
+Execution Time: 4.725 ms

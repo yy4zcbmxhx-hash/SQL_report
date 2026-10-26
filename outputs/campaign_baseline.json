@@ -1,0 +1,30 @@
+[
+  {
+    "first_category": "Accessories",
+    "eligible": 4329,
+    "repeat_31_120": 443,
+    "baseline_rate": "0.10233310233310233310",
+    "second_order_aov": "53.0699774266365688"
+  },
+  {
+    "first_category": "Bikes",
+    "eligible": 5681,
+    "repeat_31_120": 86,
+    "baseline_rate": "0.01513817989790529836",
+    "second_order_aov": "1783.7558139534883721"
+  },
+  {
+    "first_category": "Clothing",
+    "eligible": 722,
+    "repeat_31_120": 100,
+    "baseline_rate": "0.13850415512465373961",
+    "second_order_aov": "56.3000000000000000"
+  },
+  {
+    "first_category": "Mixed",
+    "eligible": 3535,
+    "repeat_31_120": 153,
+    "baseline_rate": "0.04328147100424328147",
+    "second_order_aov": "467.9215686274509804"
+  }
+]

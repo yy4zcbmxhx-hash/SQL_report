@@ -1,0 +1,17 @@
+.venv/
+.jupyter/
+.matplotlib/
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.log
+originals/*.ipynb
+originals/Final_3.pdf
+originals/README.md
+publication/
+*.zip
+dashboard/.data-app-offline/
+tmp/
+.DS_Store
+docs/brief.txt
+node_modules/
